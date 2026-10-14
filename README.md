@@ -1,6 +1,7 @@
 # 👟 ShoeBot – AI tư vấn/bán giày (fine-tune LoRA)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiensdattnek-ai/shoebot/blob/main/notebooks/colab_train_shoebot.ipynb)
+[![validate](https://github.com/tiensdattnek-ai/shoebot/actions/workflows/validate.yml/badge.svg)](https://github.com/tiensdattnek-ai/shoebot/actions/workflows/validate.yml)
 
 ### ▶️ [**BẤM VÀO ĐÂY ĐỂ TRAIN TRÊN GOOGLE COLAB**](https://colab.research.google.com/github/tiensdattnek-ai/shoebot/blob/main/notebooks/colab_train_shoebot.ipynb)
 > Chỉ cần: mở link → `Runtime → Change runtime type → T4 GPU` → `Runtime → Run all` → chờ ~30–60 phút → tải model về.

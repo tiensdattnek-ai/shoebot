@@ -1,0 +1,85 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  kiem-tra:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Kiểm tra cú pháp toàn bộ Python
+        run: |
+          python - <<'PY'
+          import py_compile, pathlib
+          bad = []
+          for f in pathlib.Path('.').rglob('*.py'):
+              if '__pycache__' in str(f):
+                  continue
+              try:
+                  py_compile.compile(str(f), doraise=True)
+              except Exception as e:
+                  bad.append((str(f), str(e)))
+          print(f"Đã kiểm tra xong. Lỗi: {len(bad)}")
+          for f, e in bad:
+              print("  ✗", f, e)
+          raise SystemExit(1 if bad else 0)
+          PY
+
+      - name: Sinh lại dataset từ knowledge base
+        run: python data/build_dataset.py --out /tmp/dataset
+
+      - name: Kiểm tra chất lượng dataset
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          for name in ("train", "val"):
+              p = pathlib.Path(f"/tmp/dataset/{name}.jsonl")
+              rows = [json.loads(l) for l in p.open(encoding="utf-8") if l.strip()]
+              assert rows, f"{name}.jsonl rỗng"
+              for r in rows:
+                  m = r["messages"]
+                  assert m[0]["role"] == "system" and m[1]["role"] == "user" and m[-1]["role"] == "assistant"
+                  assert all(x["content"].strip() for x in m), "có nội dung rỗng"
+              print(f"✓ {name}.jsonl: {len(rows)} mẫu hợp lệ")
+          hc = [json.loads(l) for l in pathlib.Path("data/handcrafted_qa.jsonl").open(encoding="utf-8") if l.strip()]
+          ev = [json.loads(l) for l in pathlib.Path("eval/eval_questions.jsonl").open(encoding="utf-8") if l.strip()]
+          print(f"✓ handcrafted: {len(hc)} mẫu | eval: {len(ev)} câu hỏi")
+          kb = json.load(open("data/knowledge_base.json", encoding="utf-8"))
+          print(f"✓ KB: {len(kb['brands'])} hãng | {sum(len(b.get('mau_icon', [])) for b in kb['brands'])} mẫu giày")
+          PY
+
+      - name: Kiểm tra notebook Colab (JSON + cú pháp các ô)
+        run: |
+          python - <<'PY'
+          import json
+          nb = json.load(open("notebooks/colab_train_shoebot.ipynb", encoding="utf-8"))
+          n = 0
+          for i, c in enumerate(nb["cells"]):
+              if c["cell_type"] != "code":
+                  continue
+              n += 1
+              src = "".join(c["source"])
+              lines = ["pass" if l.strip().startswith(("!", "%")) else l for l in src.split("\n")]
+              compile("\n".join(lines), f"cell {i}", "exec")
+          print(f"✓ Notebook hợp lệ: {n} ô code")
+          PY
+
+      - name: Kiểm tra bản offline HTML tự chứa
+        run: |
+          python - <<'PY'
+          import re, json, pathlib
+          html = pathlib.Path("app/shoebot_offline.html").read_text(encoding="utf-8")
+          docs = json.loads(re.search(r"const DOCS = (\[.*?\]);\n", html, re.S).group(1))
+          assert "<style>" in html and "<script>" in html, "thiếu CSS/JS inline"
+          external = re.findall(r'src="https?://|href="https?://', html)
+          print(f"✓ Offline HTML: {len(docs)} mục | tài nguyên ngoài: {len(external)} (nên = 0)")
+          PY
