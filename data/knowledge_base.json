@@ -1,0 +1,3804 @@
+{
+ "brands": [
+  {
+   "id": "nike",
+   "ten": "Nike",
+   "xuat_xu": "Mỹ (Mỹ)",
+   "nam": 1964,
+   "sang_lap": "Phil Knight & Bill Bowerman (tiền thân Blue Ribbon Sports 1964, đổi tên Nike 1971)",
+   "dinh_vi": "Ông lớn số 1 ngành giày thể thao thế giới, từ chạy bộ đến bóng rổ, vua marketing & collab; phân khúc rộng từ phổ thông đến siêu cấp.",
+   "khau_hieu": "Just Do It.",
+   "gia": "Phổ thông 1.2–2.5 triệu (Revolution, Court Vision); tầm trung 2.5–4 triệu (AF1, Dunk, Pegasus); cao 4–8 triệu (Air Max Plus, Vomero, Vaporfly); limited cao hơn nhiều. Giá tham khảo.",
+   "cong_nghe": [
+    "Air (túi khí)",
+    "Air Max",
+    "Zoom Air",
+    "React",
+    "ZoomX",
+    "Flyknit/AtomKnit",
+    "Flyplate (carbon)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Air Force 1 '07",
+     "nam": 1982,
+     "mo_ta": "Sneaker da trắng huyền thoại, đế Air, bản '07 là bản cập nhật kinh điển; màu Triple White là đôi 'quốc dân' đi gì cũng hợp.",
+     "gia": "≈ 2.6–3.2 triệu (CW2288-111/AF1 '07 White)",
+     "form": "Rộng rãi, đúng size; chân bè thường vẫn vừa",
+     "phu_hop": "Đi học, đi làm casual, đi chơi; món cơ bản tủ đồ"
+    },
+    {
+     "ten": "Dunk Low",
+     "nam": 1985,
+     "mo_ta": "Từ giày bóng rổ thành biểu tượng streetwear nhờ phối màu đa dạng; đế bằng, mũi thấp.",
+     "gia": "≈ 2.5–3.5 triệu (dòng Panda/đại trà)",
+     "form": "Hơi hẹp ngang; chân bè +0.5 size",
+     "phu_hop": "Phối jeans/streetwear, gu Skool"
+    },
+    {
+     "ten": "Air Max 90 / 97",
+     "nam": 1990,
+     "mo_ta": "Dòng khoe túi khí: 90 cổ điển, 97 gọn gàng với 3 thanh khí; retro chạy 90s.",
+     "gia": "≈ 3–4.5 triệu",
+     "form": "97 hơi hẹp mũi — chân bè nên thử trước",
+     "phu_hop": "Gu retro chunky, đi chơi"
+    },
+    {
+     "ten": "Pegasus 41",
+     "nam": 2024,
+     "mo_ta": "Đôi chạy bộ 'quốc dân' của Nike: ReactX + Zoom Air, bền, đa dụng cho người mới đến trung bình.",
+     "gia": "≈ 3.5–4.1 triệu (bản thường)",
+     "form": "Đúng size, mũi vừa (chân bè +0.5)",
+     "phu_hop": "Chạy 5–10km, tập gym nhẹ, đi bộ thể thao"
+    },
+    {
+     "ten": "Vomero 5",
+     "nam": "2017 (retro 2023)",
+     "mo_ta": "Bản retro 'dad shoe' với lưới + overlay nhựa, đệm Zoom; hot trong gu Y2K.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Đúng size, hơi rộng mũi",
+     "phu_hop": "Đi hằng ngày, gu Y2K/techwear"
+    }
+   ],
+   "form": "Nike nhìn chung ĐÚNG SIZE (TTS). Cảnh báo: Dunk, Air Max 97, Jordan 1 hơi hẹp mũi/ngang — chân bè +0.5 size; AF1, Air Max 1, Vomero rộng thoải mái hơn.",
+   "khach": "Từ học sinh đến dân văn phòng, người tập thể thao phổ thông; khách chạy bộ; khách mua sưu tầm.",
+   "manh": [
+    "Độ nhận diện và độ hot lớn nhất",
+    "Công nghệ đệm đa dạng từ rẻ đến cao cấp",
+    "Collab/limited tạo giá trị sưu tầm",
+    "Có phân khúc giá thấp dễ tiếp cận (Revolution, Court Vision)"
+   ],
+   "yeu": [
+    "Hàng nhái tràn lan — phải mua chỗ uy tín",
+    "Một số dòng thời trang (Dunk) form hẹp, kém phù hợp chân bè",
+    "Giá bản hot bị 'đội lên' do reseller"
+   ],
+   "check": [
+    "Mã sản phẩm dạng xxxxxx-xxx: 6 số trước là mã dòng, 3 số sau là mã màu — in ở tem hộp và lưỡi giày phải KHỚP nhau.",
+    "Tem hộp: chữ 'MADE IN...' in liền không ngắt dòng; đời cũ có dòng nikebetterworld, đời mới có mã QR/hướng dẫn tra cứu — truy đúng chu kỳ ảnh.",
+    "Dòng size: EUR và US phải cao hơn dòng UK (thiết kế tem), chữ 'U.S.' có dấu chấm rõ.",
+    "Đường may mũi giày đều, mũi chỉ nhỏ; keo thừa không đáng kể.",
+    "Cảm giác: da mềm mịn, lưới dệt đều, đế nặng tay có khối lượng thật (hàng giả thường nhẹ hơn)."
+   ]
+  },
+  {
+   "id": "adidas",
+   "ten": "Adidas",
+   "xuat_xu": "Đức (Germany)",
+   "nam": 1949,
+   "sang_lap": "Adolf 'Adi' Dassler (Herzogenaurach)",
+   "dinh_vi": "Á quân ngành giày thể thao thế giới, mạnh về chạy bộ (Adizero), lifestyle (Samba/Superstar/Stan Smith) và hợp tác thời trang (Yeezy, Gucci, Prada).",
+   "khau_hieu": "Impossible Is Nothing / You Got This (slogan thể thao).",
+   "gia": "Phổ thông 1–2 triệu (Galaxy, Grand Court); tầm trung 2–3 triệu (Samba, Gazelle, Superstar); 3–5 triệu (Ultraboost); chạy race 5–8 triệu (Adios Pro). Giá tham khảo.",
+   "cong_nghe": [
+    "Boost",
+    "Lightstrike / Lightstrike Pro",
+    "Primeknit",
+    "Torsion System",
+    "Continental™ Rubber",
+    "4D"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Samba OG",
+     "nam": 1950,
+     "mo_ta": "Giày tập bóng đá nay thành icon thời trang: da + da lộn, mũi dài, đế gum mỏng — 'must have' mọi tủ đồ sneaker.",
+     "gia": "≈ 2.4–3 triệu (list); sale phổ biến 1.85–2.2 triệu (mã IH6820)",
+     "form": "Hẹp ngang, mũi dài → chân bè +0.5 size",
+     "phu_hop": "Phối jeans, âu phục, style tối giản"
+    },
+    {
+     "ten": "Superstar",
+     "nam": 1969,
+     "mo_ta": "Mũi cao su 'vỏ sò', bản đế bằng cổ điển gắn với hip-hop; bền, dễ phối.",
+     "gia": "≈ 1.9–2.6 triệu",
+     "form": "Đúng size, hơi rộng mũi",
+     "phu_hop": "Đi học, đi làm casual"
+    },
+    {
+     "ten": "Gazelle",
+     "nam": 1966,
+     "mo_ta": "Da lộn mềm hơn Samba, form rộng hơn; huyền thoại 60s sống lại.",
+     "gia": "≈ 2.2–2.8 triệu",
+     "form": "Thân mềm, chân bè thích hơn Samba",
+     "phu_hop": "Mix đồ vintage, thu đông"
+    },
+    {
+     "ten": "Ultraboost (22, Light, 1.0)",
+     "nam": 2015,
+     "mo_ta": "Đệm Boost đầy đủ tựa 'bước trên mây', thân Primeknit ôm tất; đời Light nhẹ hơn 30%.",
+     "gia": "≈ 2.9–4.9 triệu (UB 1.0/Light); một số bản đặc biệt tới 7.9 triệu",
+     "form": "Ôm tất, chân bè nên +0.5",
+     "phu_hop": "Đi làm cả ngày, đi bộ, đứng nhiều, gu năng động"
+    },
+    {
+     "ten": "Campus 00s",
+     "nam": "1980s (bản 00s: 2022)",
+     "mo_ta": "Da lộn dày, form bầu bĩnh, đế gum bệt; hot Gen Z.",
+     "gia": "≈ 2.3–3 triệu",
+     "form": "Rộng vừa",
+     "phu_hop": "Phối streetwear ống rộng"
+    }
+   ],
+   "form": "Đúng size nhưng dùng hệ 1/3: Adidas 42 có thể nhỏ hơn Nike 42; Samba/Gazelle/Spezial HẸP NGANG (chân bè +0.5), Ultraboost Primeknit ôm tất (+0.5 nếu chân dày).",
+   "khach": "Từ học sinh đến dân văn phòng; khách chạy bộ nghiêm túc; khách theo trend Y2K/retro.",
+   "manh": [
+    "Thời trang bền vững với dòng retro (Samba, Gazelle, Campus)",
+    "Boost/Ultraboost cực êm cho người đứng nhiều",
+    "Đế Continental bám tốt, thực dụng",
+    "Adizero Adios Pro là dòng chạy race hàng đầu"
+   ],
+   "yeu": [
+    "Foam trắng dễ ngả vàng",
+    "Samba hot nên hay cháy size & bị làm nhái nhiều",
+    "Một số bản Yeezy/collab giá bán lại rất cao"
+   ],
+   "check": [
+    "Tem trong lưỡi/đế trong: chữ 'IN' của 'MADE IN' nằm trong ô vuông, chữ 'R' trong 'FR' có đuôi cong nhẹ.",
+    "Dòng 'JP' không có khoảng trắng, dòng 'ART' cao hơn dòng số bên dưới ~10%.",
+    "Mã ART (mã sản phẩm) 2 chiếc giày KHÁC NHAU là bình thường (giày phải/trái khác mã) — đừng kết luận fake chỉ vì lý do này.",
+    "Boost thật: hạt nén đều, thẳng hàng, ấn vào đàn hồi; boost giả: hạt lộn xộn, cứng.",
+    "Logo 3 sọc cắt nét, khoảng cách đều; hộp có tem mã khớp giày."
+   ]
+  },
+  {
+   "id": "puma",
+   "ten": "Puma",
+   "xuat_xu": "Đức",
+   "nam": 1948,
+   "sang_lap": "Rudolf Dassler (anh trai của Adi Dassler) — tách ra từ công ty chung sau WWII",
+   "dinh_vi": "Cá tính 'thể thao + thời trang' mạnh: bóng đá, chạy bộ (NITRO series) và lifestyle 'lên ngôi' với Speedcat/Palermo từ 2024.",
+   "khau_hieu": "Forever Faster.",
+   "gia": "Tầm trung 1.5–2.5 triệu (Suede, Palermo sale), 2.5–4 triệu (Speedcat, Mostro), chạy NITRO 2.5–4.5 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "NITRO (foam) / NITRO Elite",
+    "PUMAGRIP",
+    "SOFTFOAM+",
+    "PWRPLATE (carbon)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Suede Classic",
+     "nam": 1968,
+     "mo_ta": "Giày da lộn huyền thoại đi cùng hip-hop & văn hóa đường phố; bền, dễ phối.",
+     "gia": "≈ 1.8–2.5 triệu",
+     "form": "Đúng size, hơi hẹp ngang nhẹ",
+     "phu_hop": "Gu retro/skate, phối jeans"
+    },
+    {
+     "ten": "Palermo",
+     "nam": "1980s (revive 2023)",
+     "mo_ta": "'Làn gió mới' 2025–2026: form thấp cổ, chữ Puma ở bên, màu pastel; đang cực hot ở giới trẻ.",
+     "gia": "≈ 2–2.8 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Phối đồ Gen Z, đi học, đi chơi"
+    },
+    {
+     "ten": "Speedcat",
+     "nam": "1999 (revive 2024)",
+     "mo_ta": "Cảm hứng đua xe F1, mũi tròn, dáng bệt mềm mại; đang hot nhờ trend 'racing'.",
+     "gia": "≈ 2.8–3.5 triệu",
+     "form": "Hơi ôm mũi",
+     "phu_hop": "Gu mới lạ, phối đồ slim/racing"
+    },
+    {
+     "ten": "Deviate Nitro / Velocity Nitro",
+     "nam": 2021,
+     "mo_ta": "Đôi chạy NITRO: Deviate có plate carbon (tempo/race), Velocity là daily trainer êm nhẹ.",
+     "gia": "≈ 3.5–4.5 triệu (Deviate); 2.5–3.2 triệu (Velocity)",
+     "form": "Đúng size, mũi vừa",
+     "phu_hop": "Chạy hàng ngày/tempo, ngân sách vừa"
+    }
+   ],
+   "form": "Đúng size; chân bè +0.5 với Suede/Speedcat (form hơi ôm). Palermo thoải mái cho đa số.",
+   "khach": "Gen Z theo trend, dân chạy bộ ngân sách vừa, khách muốn mẫu 'lạ hơn Nike/Adidas'.",
+   "manh": [
+    "Đang lên trend mạnh (Palermo, Speedcat)",
+    "Giá thường tốt hơn Nike/Adidas cùng phân khúc",
+    "Chạy bộ NITRO đáng tiền"
+   ],
+   "yeu": [
+    "Độ phủ cửa hàng ít hơn Nike/Adidas",
+    "Một số dòng lifestyle nhanh hết size hot"
+   ],
+   "check": [
+    "Logo mèo Puma nét liền, thêu/in sắc nét",
+    "Tem size và mã sản phẩm khớp hộp",
+    "Đường khâu Formstrip 2 bên đều và cong chuẩn (hàng nhái hay thẳng/lệch tỷ lệ)",
+    "Đế NITRO/khắc logo ở gót sắc, không mờ"
+   ]
+  },
+  {
+   "id": "newbalance",
+   "ten": "New Balance",
+   "xuat_xu": "Mỹ",
+   "nam": 1906,
+   "sang_lap": "William J. Riley (Boston, Massachusetts)",
+   "dinh_vi": "'Dad shoe' chính hiệu & vua giày đi bộ/daily trainer; dòng số (574, 990, 1080) là biểu tượng, nhiều mẫu Made in USA/UK giá trị cao.",
+   "khau_hieu": "Fearlessly Independent Since 1906.",
+   "gia": "1.8–2.5 triệu (373, 515, 574 sale); 2.3–3.2 triệu (530, 550, 574, 327); 3.5–4.5 triệu (9060, 2002R); 5.5–7 triệu (990v6 Made in USA); chạy 3.5–5 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Fresh Foam X",
+    "FuelCell",
+    "ABZORB",
+    "ENCAP",
+    "ROLLBAR",
+    "Size bề ngang D/2E/4E"
+   ],
+   "mau_icon": [
+    {
+     "ten": "574",
+     "nam": 1988,
+     "mo_ta": "Đôi 'quốc dân' của NB: ENCAP bền, form tròn cổ điển, màu xám classic; đi làm lẫn đi chơi đều hợp.",
+     "gia": "≈ 2.2–3 triệu",
+     "form": "Rộng hơn Nike ~0.5; có bản 2E",
+     "phu_hop": "Đi làm, đi bộ hằng ngày, người chân bè"
+    },
+    {
+     "ten": "530",
+     "nam": "1992 (revive 2020)",
+     "mo_ta": "Dad shoe êm với ABZORB, phối màu sáng; hot ở giới trẻ và cả khách 'chân khó' cần êm.",
+     "gia": "≈ 2.3–2.9 triệu",
+     "form": "Đúng size, mũi rộng vừa",
+     "phu_hop": "Đi học, đi chơi, đứng nhiều"
+    },
+    {
+     "ten": "550",
+     "nam": "1989 (revive 2021)",
+     "mo_ta": "Form bóng rổ 80s cổ điển, trắng-xanh navy; được so với Dunk nhưng êm và rộng hơn.",
+     "gia": "≈ 2.5–3.2 triệu",
+     "form": "Rộng hơn Dunk, chân bè vẫn vừa",
+     "phu_hop": "Mix đồ retro, đi làm được"
+    },
+    {
+     "ten": "9060",
+     "nam": 2022,
+     "mo_ta": "Chunky đế dày 'bánh xe' với ABZORB 2000; cân bằng giữa dad shoe và Y2K.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Rộng, cực hợp chân bè",
+     "phu_hop": "Gu chunky, tôn chiều cao"
+    },
+    {
+     "ten": "1080v14 / 880v14 (chạy)",
+     "nam": 2024,
+     "mo_ta": "1080: Fresh Foam X êm tối đa cho chạy hàng ngày; 880: đa dụng hơn, bền hơn cho tập luyện.",
+     "gia": "≈ 3.9–4.6 triệu",
+     "form": "Có bản 2E/4E cho đàn ông chân rộng",
+     "phu_hop": "Chạy bộ, đi bộ đường dài, người nặng cân"
+    }
+   ],
+   "form": "Rộng hơn Nike khoảng nửa size. Điểm MẠNH NHẤT: bán nhiều mẫu bề ngang 2E/4E — lựa chọn số 1 ở phân khúc phổ thông cho chân bè/chân dày. 574/530 gần đúng size.",
+   "khach": "Người đi bộ nhiều, khách trung niên cần êm và bền, Gen Z theo dad shoe, khách chân bè, runner châu Á.",
+   "manh": [
+    "Size bề ngang nhiều nhất phân khúc",
+    "Đệm êm bền cho đi bộ/đứng lâu",
+    "Dòng Made in USA/UK giữ giá & chất lượng cao",
+    "Nhận diện 'dad shoe' bền vững với thời gian"
+   ],
+   "yeu": [
+    "Một số mẫu made in USA/UK giá rất cao ở VN",
+    "Phối màu đôi khi bị coi 'già' với khách trẻ nếu chọn sai bản"
+   ],
+   "check": [
+    "Tem size trong lưỡi: font chữ chuẩn, mã sản phẩm (ví dụ M990GL6, ML574EVG) khớp hộp và đế.",
+    "Chữ 'N' thêu/khắc ở thân giày nét đều, khoảng cách chuẩn; hàng nhái hay lệch tỷ lệ chữ N.",
+    "Đế in 'new balance' ở gót, vân đế sắc; lót in logo NB.",
+    "Mẫu Made in USA: hộp nâu đặc trưng, có mác 'Made in USA' ở lưỡi; 990 series phải là made in USA mới đúng chuẩn dòng."
+   ]
+  },
+  {
+   "id": "asics",
+   "ten": "Asics",
+   "xuat_xu": "Nhật Bản",
+   "nam": 1949,
+   "sang_lap": "Kihachiro Onitsuka (Osaka); đổi tên thành ASICS 1977",
+   "dinh_vi": "Nhà vô địch giày chạy bộ & ổn định (Kayano/Nimbus), form hợp bàn chân châu Á; dòng retro (Gel-1130, Gel-Kayano 14) cũng hot trong fashion.",
+   "khau_hieu": "Sound Mind, Sound Body.",
+   "gia": "1.8–2.6 triệu (Gel-1130, Gel-Contend); 3.2–4 triệu (GT-2000, Cumulus); 4.2–5 triệu (Kayano, Nimbus); 5.5–6.5 triệu (Metaspeed). Giá tham khảo.",
+   "cong_nghe": [
+    "GEL",
+    "FF BLAST / FF BLAST PLUS / TURBO",
+    "FlyteFoam",
+    "AHAR+ (đế ngoài)",
+    "Trusstic / DuoMax / 4D Guidance System"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Gel-Kayano 31/32",
+     "nam": "2024/2025",
+     "mo_ta": "Vua giày ỔN ĐỊNH: 4D Guidance System thay DuoMax, hỗ trợ chân lật vào, êm và chắc; bản 31 rất được ưa ở VN.",
+     "gia": "≈ 4.2–5 triệu",
+     "form": "Đúng size, mũi rộng vừa",
+     "phu_hop": "Chân bẹt, đau khớp gối, chạy/đi bộ đường dài"
+    },
+    {
+     "ten": "Gel-Nimbus 26/27",
+     "nam": "2024/2025",
+     "mo_ta": "Dòng ÊM TỐI ĐA của Asics: FF BLAST PLUS, cảm giác 'đi trên mây' cho chân vòm cao/binhy thường.",
+     "gia": "≈ 4.3–5 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy êm, đứng/đi bộ lâu, khớp nhạy cảm"
+    },
+    {
+     "ten": "GT-2000 12/13",
+     "nam": 2024,
+     "mo_ta": "Giày ổn định phổ thông, nhẹ hơn Kayano, giá dễ chịu; best-seller toàn cầu của Asics.",
+     "gia": "≈ 3.2–4 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy hàng ngày, ngân sách 3–4 triệu"
+    },
+    {
+     "ten": "Gel-1130 / Gel-Kayano 14",
+     "nam": "2008/retro",
+     "mo_ta": "Retro Y2K đang hot: lưới + overlay, đệm GEL; phối đồ 'techwear/gorpcore'.",
+     "gia": "≈ 1.8–2.6 triệu (1130); 2.7–3.5 triệu (Kayano 14)",
+     "form": "Đúng size, hơi rộng",
+     "phu_hop": "Đi chơi, gu Y2K, đi bộ"
+    }
+   ],
+   "form": "Form châu Á: mũi rộng vừa, hợp chân bè hơn Nike cùng size. Kayano/Nimbus/GT-2000 đúng size; chân rất bè có thể +0.5.",
+   "khach": "Runner, người chân bẹt/đau khớp, khách trung niên, Gen Z theo retro Asics.",
+   "manh": [
+    "Đệm GEL + FF BLAST êm và bền nhất phân khúc chạy",
+    "Đi đầu về giày ổn định cho chân bẹt",
+    "Đế AHAR+ cực bền",
+    "Form hợp chân châu Á"
+   ],
+   "yeu": [
+    "Dòng lifestyle ít hot bằng Nike/Adidas với khách 'sành mốt'",
+    "Giá Kayano/Nimbus khá cao"
+   ],
+   "check": [
+    "Logo sọc 'tiger stripes' nét, đúng tỷ lệ; tem lưỡi in size/mã (ví dụ 1011B548) khớp hộp",
+    "Đế AHAR in ở phần gót ngoài; đệm GEL ở gót ngoài trời thường trong suốt, không mờ đục",
+    "Vải dệt lưỡi gà sắc nét, mút lưỡi đều",
+    "Hàng fake Asics thường sai font chữ số size và logo lệch"
+   ]
+  },
+  {
+   "id": "jordan",
+   "ten": "Jordan (Air Jordan / Brand Jordan)",
+   "xuat_xu": "Mỹ (thương hiệu con của Nike)",
+   "nam": 1985,
+   "sang_lap": "Nike hợp tác cùng Michael Jordan (đôi Air Jordan 1 ra mắt 1985)",
+   "dinh_vi": "Thương hiệu giày bóng rổ + văn hóa sneaker mạnh nhất lịch sử; là 'tài sản' sưu tầm, resale mạnh.",
+   "khau_hieu": "Become Legendary.",
+   "gia": "3.5–5 triệu (AJ1 Mid/Low); 4.8–7 triệu (AJ1 High, AJ3, AJ4); 6–10 triệu+ (retro limited, collab). Giá tham khảo.",
+   "cong_nghe": [
+    "Air-Sole / Zoom Air",
+    "Da & da lộn cao cấp",
+    "Đế cao su đúc nhận diện",
+    "Flyknit (một số mẫu)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Air Jordan 1 (High/Mid/Low)",
+     "nam": 1985,
+     "mo_ta": "Icon khởi đầu — 'Bred'/'Chicago' là huyền thoại; Mid/Low dễ mua hơn về giá.",
+     "gia": "≈ 3.5–7 triệu (tùy bản)",
+     "form": "Hơi hẹp ngang, chân bè +0.5",
+     "phu_hop": "Sưu tầm, phối streetwear, đi chơi"
+    },
+    {
+     "ten": "Air Jordan 4",
+     "nam": 1989,
+     "mo_ta": "Thiết kế 'lưới nhựa' hai bên, được giới sneaker săn nhiều; êm hơn AJ1.",
+     "gia": "≈ 5–8 triệu",
+     "form": "Hơi chật ngang khi mới",
+     "phu_hop": "Sưu tầm, gu bóng rổ retro"
+    },
+    {
+     "ten": "Luka / Tatum (performance)",
+     "nam": "2023–2025",
+     "mo_ta": "Giày bóng rổ hiệu năng hiện đại: êm, bám sân tốt, ít hot về sưu tầm nhưng thi đấu ổn.",
+     "gia": "≈ 2.5–4 triệu",
+     "form": "Đúng size, ôm vừa",
+     "phu_hop": "Chơi bóng rổ, tập luyện trong nhà"
+    }
+   ],
+   "form": "AJ1/AJ4 hơi hẹp ngang, chân bè +0.5. Giày performance đúng size.",
+   "khach": "Sneakerhead, khách trẻ gu streetwear, khách chơi bóng rổ, khách mua quà giá trị.",
+   "manh": [
+    "Giá trị sưu tầm & câu chuyện thương hiệu mạnh nhất",
+    "Chất liệu bản retro da/da lộn tốt",
+    "Nhận diện tức thì"
+   ],
+   "yeu": [
+    "Giá cao, bản hot bị đội giá",
+    "Fake nhiều nhất trong các dòng sneaker",
+    "Không phải giày êm để đi cả ngày"
+   ],
+   "check": [
+    "Mã sản phẩm (xxxxxx-xxx) khớp giữa tem hộp, giày và bill; 'swoosh' đuôi cong, không quá ngắn/dài.",
+    "Logo Wings ở cổ gót tỷ lệ chuẩn, đường khâu 8 mũi/inch điển hình cho nhiều bản.",
+    "Đế trong có in 'Air Jordan' + logo nhảy; lót êm, không lệch chữ.",
+    "Bản đặc biệt còn có thẻ hangtag, túi zip phụ kiện — nhiều fake thiếu những thứ này."
+   ]
+  },
+  {
+   "id": "reebok",
+   "ten": "Reebok",
+   "xuat_xu": "Anh/Mỹ (khởi nguồn Anh, hiện thuộc Authentic Brands Group)",
+   "nam": 1958,
+   "sang_lap": "Anh em nhà Foster (1895 ở Anh; thương hiệu Reebok 1958)",
+   "dinh_vi": "Retro cổ điển (Club C, Classic Leather) + mạnh về giày tập luyện (Nano cho CrossFit), được ưa ở phân khúc giá tốt.",
+   "khau_hieu": "Reebok – I Am What I Am.",
+   "gia": "1.5–2.6 triệu chủ đạo; Nano/performance 2.5–3.5 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Floatride Energy",
+    "DMX",
+    "Nano (đế phẳng ổn định cho gym)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Club C 85",
+     "nam": 1985,
+     "mo_ta": "Sneaker tennis trắng tối giản, cổ điển, giá tốt; đôi 'trắng tinh khôi' ít logo.",
+     "gia": "≈ 1.8–2.5 triệu",
+     "form": "Đúng size, hơi rộng mũi",
+     "phu_hop": "Đi học, đi làm tối giản"
+    },
+    {
+     "ten": "Nano X4",
+     "nam": 2024,
+     "mo_ta": "Giày tập gym/CrossFit: đế phẳng vững, ổn định khi nâng tạ, upper bền.",
+     "gia": "≈ 2.8–3.5 triệu",
+     "form": "Đúng size, ôm chân",
+     "phu_hop": "Tập gym, HIIT, nâng tạ"
+    }
+   ],
+   "form": "Đúng size, hơi rộng mũi với Club C.",
+   "khach": "Khách ngân sách tốt muốn trắng sạch tối giản, người tập gym.",
+   "manh": [
+    "Giá dễ chịu hơn các hãng lớn",
+    "Club C/Classic Leather thanh lịch, dễ phối"
+   ],
+   "yeu": [
+    "Kênh phân phối VN ít hơn",
+    "Ít mẫu mới hot"
+   ],
+   "check": [
+    "Logo Union Jack (một số bản) và Reebok in nét",
+    "Tem size/mã giày khớp hộp",
+    "Đế cao su đúc đều, không tràn keo"
+   ]
+  },
+  {
+   "id": "underarmour",
+   "ten": "Under Armour",
+   "xuat_xu": "Mỹ",
+   "nam": 1996,
+   "sang_lap": "Kevin Plank (Baltimore)",
+   "dinh_vi": "Thương hiệu hiệu năng: gym, chạy, bóng rổ (Curry) — phổ biến ở VN chủ yếu qua gym và giày tập.",
+   "khau_hieu": "The Only Way Is Through.",
+   "gia": "1.5–2.5 triệu (Charged); 2.8–4 triệu (HOVR Phantom, Curry). Giá tham khảo.",
+   "cong_nghe": [
+    "HOVR (đệm 'zero gravity')",
+    "Charged Cushioning",
+    "SpeedForm"
+   ],
+   "mau_icon": [
+    {
+     "ten": "HOVR Phantom 3",
+     "nam": 2022,
+     "mo_ta": "Đệm HOVR êm với cảm biến kết nối app (bản cũ); đi bộ/chạy nhẹ êm chân.",
+     "gia": "≈ 3–4 triệu",
+     "form": "Ôm như tất, chân bè +0.5",
+     "phu_hop": "Gym, chạy nhẹ, đi bộ"
+    },
+    {
+     "ten": "Curry (bóng rổ)",
+     "nam": "2015–nay",
+     "mo_ta": "Giày bóng rổ của Stephen Curry: lưới nhẹ, bám sân trong nhà tốt.",
+     "gia": "≈ 3–4.5 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Bóng rổ trong nhà, tập luyện"
+    }
+   ],
+   "form": "Ôm chân, chân bè nên +0.5 với HOVR.",
+   "khach": "Dân gym, người chơi bóng rổ.",
+   "manh": [
+    "Chất lượng hiệu năng tốt",
+    "Được dân gym tin dùng"
+   ],
+   "yeu": [
+    "Ít cửa hàng ở VN, dễ gặp hàng xách tay không bảo hành"
+   ],
+   "check": [
+    "Logo UA in/khắc nét ở thân và đế",
+    "Tem size khớp hộp; lót in logo UA",
+    "Upper lưới mịn, đường may chắc"
+   ]
+  },
+  {
+   "id": "converse",
+   "ten": "Converse",
+   "xuat_xu": "Mỹ (thuộc Nike từ 2003)",
+   "nam": 1908,
+   "sang_lap": "Marquis Mills Converse",
+   "dinh_vi": "Biểu tượng canvas retro; Chuck Taylor là một trong những đôi giày bán chạy nhất lịch sử, gắn với văn hóa nhạc rock/lifestyle.",
+   "khau_hieu": "All Star (không có slogan chính thức; gắn 'Chuck Taylor All Star')",
+   "gia": "1.1–1.7 triệu (All Star thường); 1.8–2.5 triệu (Chuck 70); 2.5–3.2 triệu (Run Star Motion/collab). Giá tham khảo.",
+   "cong_nghe": [
+    "Đế cao su lưu hoá canvas",
+    "CX foam",
+    "OrthoLite (Chuck 70)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Chuck Taylor All Star (cổ thấp/cao)",
+     "nam": 1917,
+     "mo_ta": "Giày canvas mũi cao su trắng kinh điển; nhẹ, dễ phối, nhưng đế khá mỏng.",
+     "gia": "≈ 1.2–1.6 triệu",
+     "form": "Chạy dài 0.5–1 size → nên giảm 0.5",
+     "phu_hop": "Đi học, đi chơi, phối jeans/ống rộng"
+    },
+    {
+     "ten": "Chuck 70",
+     "nam": 2013,
+     "mo_ta": "Bản nâng cấp (vải dày, đế dày hơn, lót OrthoLite) — đi êm và 'sang' hơn bản thường.",
+     "gia": "≈ 1.9–2.5 triệu",
+     "form": "Ôm hơn All Star thường, vẫn dài nhẹ",
+     "phu_hop": "Đi hàng ngày, đi làm casual"
+    },
+    {
+     "ten": "Run Star Motion / Hike",
+     "nam": 2021,
+     "mo_ta": "Đế platform 'lượn sóng' tôn chiều cao, hot trong giới trẻ.",
+     "gia": "≈ 2.6–3.2 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Phối đồ nổi bật, tôn dáng"
+    }
+   ],
+   "form": "Chuck Taylor đi DÀI và HƠI HẸP: nhiều người giảm 0.5 so với Nike. Chuck 70 ôm hơn bản thường; chân bè nên thử 2 size.",
+   "khach": "Học sinh–sinh viên, khách retro/casual, khách đi làm tối giản.",
+   "manh": [
+    "Giá rẻ, phù hợp học sinh",
+    "Nhận diện vượt thời gian, phối gì cũng được",
+    "Chuck 70 là bản nâng cấp đáng tiền"
+   ],
+   "yeu": [
+    "Bản All Star thường đế mỏng, đau chân nếu đi cả ngày/công việc đứng lâu",
+    "Vải bẩn khó sạch hơn da"
+   ],
+   "check": [
+    "Logo sao All Star ở cổ gót: vòng tròn chữ rõ; tem lưỡi in size/mã số khớp",
+    "Mũi cao su trắng mịn đều, không lệch; đường chỉ 2 hàng mũi đều",
+    "Đế có chữ 'Converse All Star' ở giữa đế cao su (nhìn từ dưới)",
+    "Chuck 70: tem đỏ 'Chuck Taylor' + đệm lót OrthoLite — nhiều fake thiếu đệm"
+   ]
+  },
+  {
+   "id": "vans",
+   "ten": "Vans",
+   "xuat_xu": "Mỹ",
+   "nam": 1966,
+   "sang_lap": "Paul Van Doren và cộng sự (Anaheim, California)",
+   "dinh_vi": "Giày skate cổ điển: đế waffle bám tốt, gắn với văn hóa skateboard & streetwear; Old Skool/Sk8-Hi là kinh điển.",
+   "khau_hieu": "Off The Wall.",
+   "gia": "1.2–1.7 triệu (Authentic, Era); 1.7–2.4 triệu (Old Skool, Sk8-Hi); 2–2.8 triệu (Knu Skool, UltraRange). Giá tham khảo.",
+   "cong_nghe": [
+    "Waffle đế cao su",
+    "PopCush / ComfyCush / UltraCush",
+    "Skate-classics (bản trượt bền gấp đôi)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Old Skool",
+     "nam": 1977,
+     "mo_ta": "Đôi đầu tiên có sọc jazz stripe; da lộn + canvas; biểu tượng streetwear mọi thế hệ.",
+     "gia": "≈ 1.6–2.1 triệu",
+     "form": "Đi dài nhẹ & ôm ngang → nhiều người giảm 0.5",
+     "phu_hop": "Đi học, đi chơi, phối jeans/quần tây"
+    },
+    {
+     "ten": "Sk8-Hi",
+     "nam": 1978,
+     "mo_ta": "Cổ cao bảo vệ mắt cá chân, phối được với đồ thu đông.",
+     "gia": "≈ 1.9–2.5 triệu",
+     "form": "Ôm cổ chân, chân bè +0.5",
+     "phu_hop": "Mix layer, thu đông, gu street"
+    },
+    {
+     "ten": "Knu Skool",
+     "nam": "1997 (revive 2023)",
+     "mo_ta": "Lưỡi gà dày 'phồng', form bầu bĩnh Y2K; hot Gen Z.",
+     "gia": "≈ 2–2.6 triệu",
+     "form": "Rộng rãi hơn Old Skool",
+     "phu_hop": "Gu Y2K, ống rộng"
+    }
+   ],
+   "form": "Classic (Old Skool/Authentic/Era) chạy dài ~0.5 size → giảm 0.5 nếu chân thon; chân bè giữ đúng size. Knu Skool rộng hơn.",
+   "khach": "Học sinh–sinh viên, skater, khách streetwear.",
+   "manh": [
+    "Bền, đế waffle bám",
+    "Giá tốt, nhận diện mạnh",
+    "Đa dạng collab & phối màu"
+   ],
+   "yeu": [
+    "Bản Classic đế cứng — cần bản ComfyCush/PopCush nếu đi nhiều",
+    "Da lộn cần chăm kỹ khi trời mưa"
+   ],
+   "check": [
+    "Logo 'VANS' ở gót và đế in nét, đúng font; sọc jazz stripe cong chuẩn tỷ lệ",
+    "Tem lưỡi đỏ/trắng in rõ mã sản phẩm (VN000...) khớp hộp",
+    "Đế waffle vân sâu đều, có chữ 'VANS' + 'OFF THE WALL' ở giữa đế",
+    "Vải canvas dày, mũi may đều; lót có logo in chìm nhẹ"
+   ]
+  },
+  {
+   "id": "fila",
+   "ten": "Fila",
+   "xuat_xu": "Ý/Hàn Quốc (F&F Holdings nắm quyền toàn cầu từ 2021; thị trường VN gắn với Fila Korea)",
+   "nam": 1911,
+   "sang_lap": "Anh em nhà Fila (Biella, Ý)",
+   "dinh_vi": "Chunky retro: Disruptor đế dày từng làm mưa làm gió, hiện phổ biến trong trường học VN nhờ giá tốt và form Y2K.",
+   "khau_hieu": "N/A (Fila gắn với 'F-box' logo)",
+   "gia": "1–1.8 triệu (Disruptor, Ray Tracer); 1.5–2.5 triệu (bản mới/collab). Giá tham khảo.",
+   "cong_nghe": [
+    "Đế chunky EVA",
+    "Da tổng hợp/vải lưới",
+    "Đế cao su bền"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Disruptor II",
+     "nam": 2017,
+     "mo_ta": "Đế răng cưa chunky cực đặc trưng, giá học sinh; bền form.",
+     "gia": "≈ 1.1–1.6 triệu",
+     "form": "Đúng size, đế cao nên +0.5 nếu chân bè",
+     "phu_hop": "Đi học, phối đồ trẻ trung"
+    },
+    {
+     "ten": "Ray Tracer / Wave Day",
+     "nam": 2019,
+     "mo_ta": "Dòng giày chạy/lifestyle đế êm hơn, giá tốt.",
+     "gia": "≈ 1.3–2 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Đi học, đi bộ"
+    }
+   ],
+   "form": "Đúng size; chân bè +0.5 với Disruptor.",
+   "khach": "Học sinh–sinh viên, phụ huynh mua cho con, khách ngân sách sinh viên.",
+   "manh": [
+    "Giá rất tốt cho form chunky",
+    "Đế dày tôn chiều cao",
+    "Phổ biến ở trường học VN"
+   ],
+   "yeu": [
+    "Chất liệu tổng hợp kém bền hơn da thật",
+    "Nhiều bản 'F-box' na ná gây nhầm lẫn"
+   ],
+   "check": [
+    "Logo F-box (chữ F trong khung xanh-đỏ) nét chuẩn tỷ lệ",
+    "Tem lưỡi in mã sản phẩm khớp hộp",
+    "Đường khâu đều, đế răng cưa sắc không lệch"
+   ]
+  },
+  {
+   "id": "skechers",
+   "ten": "Skechers",
+   "xuat_xu": "Mỹ",
+   "nam": 1992,
+   "sang_lap": "Robert Greenberg (California)",
+   "dinh_vi": "Vua giày ĐI BỘ êm giá phải chăng: GOwalk, Arch Fit, Slip-ins (xỏ không cần cúi) — cực hợp người lớn tuổi, đứng nhiều.",
+   "khau_hieu": "Comfort That Performs / 'It's the S' (marketing nội địa)",
+   "gia": "1.2–2 triệu (GOwalk, Arch Fit); 1.6–2.4 triệu (Slip-ins); 2–3 triệu (Max Cushioning). Giá tham khảo.",
+   "cong_nghe": [
+    "Memory Foam",
+    "Arch Fit (lót hỗ trợ vòm)",
+    "Hyper Burst (foam đàn hồi)",
+    "Slip-ins (gót xỏ nhanh)",
+    "Max Cushioning"
+   ],
+   "mau_icon": [
+    {
+     "ten": "GOwalk (5, 6, 7)",
+     "nam": "2012–nay",
+     "mo_ta": "Giày đi bộ siêu nhẹ, đệm Memory Foam, co giãn; 'đi cả ngày không mỏi'.",
+     "gia": "≈ 1.3–2 triệu",
+     "form": "Đúng size, form rộng",
+     "phu_hop": "Đi bộ, đứng nhiều, người lớn tuổi, đi du lịch"
+    },
+    {
+     "ten": "Arch Fit",
+     "nam": 2020,
+     "mo_ta": "Lót đúc theo 20 năm dữ liệu bàn chân, hỗ trợ vòm — được chuyên gia chân khuyên dùng.",
+     "gia": "≈ 1.6–2.4 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chân bẹt nhẹ, đau vòm, viêm cân gan chân"
+    },
+    {
+     "ten": "Slip-ins",
+     "nam": 2022,
+     "mo_ta": "Xỏ không cần tay, gót 'Hands Free'; rất tiện cho người già, người bận.",
+     "gia": "≈ 1.7–2.4 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Người lớn tuổi, phụ nữ mang thai, khách cần tiện"
+    }
+   ],
+   "form": "Form rộng rãi, đúng size là dùng được; người chân bè hầu như không cần lên size.",
+   "khach": "Người lớn tuổi, khách đứng/đi bộ nhiều (y tá, giáo viên), khách mua cho bố mẹ, nhân viên phục vụ.",
+   "manh": [
+    "Êm nhất phân khúc giá rẻ–trung",
+    "Arch Fit hữu ích cho chân bẹt",
+    "Slip-ins tiện lợi đặc biệt cho người già"
+   ],
+   "yeu": [
+    "Thời trang không nổi bật",
+    "Foam mềm nhanh 'xẹp' với người nặng cân đi liên tục"
+   ],
+   "check": [
+    "Logo 'S' khắc ở thân/đế nét chuẩn",
+    "Tem xanh/trắng in mã giày (ví dụ 216xxx) khớp hộp",
+    "Lót Memory Foam dày, in logo Skechers; hàng nhái thường lót mỏng"
+   ]
+  },
+  {
+   "id": "hoka",
+   "ten": "Hoka (HOKA One One)",
+   "xuat_xu": "Pháp/Mỹ (sáng lập ở Annecy, Pháp; hiện trụ sở Mỹ, thuộc Deckers)",
+   "nam": 2009,
+   "sang_lap": "Nicolas Mermoud & Jean-Luc Diard (dân trail Pháp)",
+   "dinh_vi": "Tiên phong 'max cushion' đế dày: Bondi/Clifton là đôi đi bộ êm nhất phân khúc; được y tá, người đứng lâu và runner khắp thế giới ưa chuộng.",
+   "khau_hieu": "Time to Fly.",
+   "gia": "3.2–4.2 triệu (Clifton, Arahi); 4.2–5.5 triệu (Bondi, Speedgoat); 5–6.5 triệu (Rocket X, Mach X). Giá tham khảo.",
+   "cong_nghe": [
+    "Meta-Rocker (đế thoi)",
+    "CMEVA foam",
+    "PROFLY",
+    "J-Frame (ổn định)",
+    "Vibram MegaGrip (trail)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Bondi 8/9",
+     "nam": "2023/2024",
+     "mo_ta": "Đệm dày nhất nhóm phổ thông: êm tối đa cho đứng lâu, đi bộ cả ngày; hơi cao nên cần 1–2 tuần làm quen.",
+     "gia": "≈ 4.2–5.5 triệu",
+     "form": "Đúng size (TTS), mũi rộng vừa",
+     "phu_hop": "Đi bộ, đứng nhiều, khớp nhạy cảm, phục hồi"
+    },
+    {
+     "ten": "Clifton 9/10",
+     "nam": "2023/2025",
+     "mo_ta": "Nhẹ hơn Bondi nhưng vẫn êm, 'daily trainer' được đánh giá cao nhất phân khúc đế dày.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy hàng ngày, đi bộ, đi làm thoải mái"
+    },
+    {
+     "ten": "Arahi 7/8",
+     "nam": "2023/2025",
+     "mo_ta": "Giày ỔN ĐỊNH với J-Frame cho chân lật vào, đệm vẫn dày êm.",
+     "gia": "≈ 3.9–4.8 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chân bẹt/chân lật vào nhẹ–vừa"
+    },
+    {
+     "ten": "Speedgoat 5/6",
+     "nam": "2024/2025",
+     "mo_ta": "Trail huyền thoại với đế Vibram bám cực tốt, đệm dày cho đường núi dài.",
+     "gia": "≈ 4.5–5.5 triệu",
+     "form": "Đúng size, nên +0.5 nếu chân bè",
+     "phu_hop": "Chạy trail, leo núi, địa hình đá"
+    }
+   ],
+   "form": "Đúng size theo đa số phản hồi; đế dày nên đôi khi cần +0.5 nếu đi tất dày. Chân bè thường vẫn vừa Clifton/Bondi.",
+   "khach": "Nhân viên y tế, người đứng lâu, người lớn tuổi, runner, dân hiking; khách 'gu mới' chuyển từ Nike/Adidas.",
+   "manh": [
+    "Êm nhất phân khúc đứng nhiều/đi bộ",
+    "Meta-Rocker giúp đi bộ mượt, giảm mỏi",
+    "Vibram trên dòng trail rất bền"
+   ],
+   "yeu": [
+    "Đế dày gây cảm giác chông chênh lúc mới",
+    "Gu thời trang 'to bản' không hợp mọi người",
+    "Giá khá cao"
+   ],
+   "check": [
+    "Logo 'HOKA' nét, in ở lưỡi/đế; chữ 'HOKA ONE ONE' không sai font",
+    "Tem size in mã kiểu (M10/W11 — dòng nữ quy đổi riêng) khớp hộp",
+    "Đế CMEVA mịn đồng nhất; hàng fake foam thường cứng và nặng hơn",
+    "Vải lưỡi mỏng nhẹ nhưng chắc, may đều"
+   ]
+  },
+  {
+   "id": "on",
+   "ten": "On (On Running)",
+   "xuat_xu": "Thụy Sĩ (Switzerland)",
+   "nam": 2010,
+   "sang_lap": "Olivier Bernhard (cựu vô địch triathlon) cùng David Allemann & Caspar Coppetti",
+   "dinh_vi": "Thương hiệu chạy 'sang' nhất thập kỷ: CloudTec + Speedboard tạo cảm giác 'mây' đặc trưng; cực hot ở dân văn phòng & giới công nghệ.",
+   "khau_hieu": "Dream On.",
+   "gia": "3.3–4.5 triệu (Cloud 5, Cloudswift); 4.5–5.5 triệu (Cloudmonster, Cloudsurfer); 4–5 triệu (Cloudtilt). Giá tham khảo.",
+   "cong_nghe": [
+    "CloudTec (đám mây rỗng)",
+    "Speedboard",
+    "Helion foam",
+    "LightSpray (2024+)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Cloud 5 / Cloud 6",
+     "nam": "2022/2025",
+     "mo_ta": "Đôi 'lịch sự nhất để đi làm': nhẹ, êm, thiết kế tối giản; nhưng đế Cloud dễ kẹt sỏi.",
+     "gia": "≈ 3.6–4.5 triệu",
+     "form": "HƠI NHỎ — nên tăng 0.5 size",
+     "phu_hop": "Đi làm, đi bộ thành phố, chạy nhẹ"
+    },
+    {
+     "ten": "Cloudmonster 2",
+     "nam": 2024,
+     "mo_ta": "Bản đế to tối đa của On, êm hơn nhiều so với Cloud thường; hot như giày đi bộ 'chất'.",
+     "gia": "≈ 4.7–5.5 triệu",
+     "form": "Hơi nhỏ, +0.5 size",
+     "phu_hop": "Đi bộ nhiều, gu chunky tinh tế"
+    },
+    {
+     "ten": "Cloudtilt",
+     "nam": 2024,
+     "mo_ta": "Lifestyle 'easy on/off', hợp đi làm hằng ngày; bán rất chạy ở VN (≈4.7 triệu).",
+     "gia": "≈ 4.5–5.2 triệu",
+     "form": "+0.5 size",
+     "phu_hop": "Đi làm, đi chơi, mix smart-casual"
+    }
+   ],
+   "form": "NHỎ HƠN SIZE CHUẨN — gần như chắc chắn nên tăng 0.5 size; chân bè có thể +0.5 tới 1 size. Đừng mua On như size Nike.",
+   "khach": "Dân văn phòng, giới công nghệ, người thích 'êm mà vẫn lịch sự', khách nữ nhiều.",
+   "manh": [
+    "Thiết kế đẹp, phù hợp cả đi làm lẫn tập luyện",
+    "Cảm giác bước rất êm đặc trưng",
+    "Ít đụng hàng, được coi là 'gu tốt'"
+   ],
+   "yeu": [
+    "Giá cao so với cấu hình",
+    "Đế Cloud kẹt sỏi/đá nhỏ, mòn nhanh nếu đi nhựa đường nhiều",
+    "Form nhỏ — nhiều khách mua sai size lần đầu"
+   ],
+   "check": [
+    "Logo 'On' và chữ 'Swiss Engineering' in nét",
+    "Đế Cloud các ô tròn đều, không lệch méo",
+    "Tem size + mã model (ví dụ 59.98xxx) khớp hộp",
+    "Speedboard bên trong nhìn từ đế thấy tấm mờ đặc trưng"
+   ]
+  },
+  {
+   "id": "salomon",
+   "ten": "Salomon",
+   "xuat_xu": "Pháp (Annecy; thuộc Amer Sports)",
+   "nam": 1947,
+   "sang_lap": "Georges Salomon",
+   "dinh_vi": "Vua trail châu Âu + biểu tượng 'gorpcore': XT-6/XT-4 được mặc cả trên đường núi lẫn đường phố.",
+   "khau_hieu": "Tomorrow Is Yours.",
+   "gia": "3–4 triệu (Speedcross, RX); 4.5–6 triệu (XT-6, XT-4); GORE-TEX cao hơn 10–20%. Giá tham khảo.",
+   "cong_nghe": [
+    "Contagrip (đế bám)",
+    "Quicklace",
+    "Advanced Chassis",
+    "GORE-TEX (chống nước)",
+    "sensiFIT"
+   ],
+   "mau_icon": [
+    {
+     "ten": "XT-6",
+     "nam": "2013 (hot lại 2020s)",
+     "mo_ta": "Giày trail-tech thành mốt đường phố: form ôm, lưới kỹ thuật, Quicklace, màu tinh tế.",
+     "gia": "≈ 4.7–6 triệu",
+     "form": "Ôm ngang — chân bè +0.5",
+     "phu_hop": "Đi chơi, gu gorpcore, đi phượt nhẹ"
+    },
+    {
+     "ten": "Speedcross 6",
+     "nam": 2023,
+     "mo_ta": "Đế gai sâu bám bùn đá tuyệt đối, chuẩn trail khô lẫn ẩm.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Đúng size, +0.5 nếu chân bè",
+     "phu_hop": "Chạy trail, trekking, địa hình xấu"
+    },
+    {
+     "ten": "RX Moc / Slide",
+     "nam": 2021,
+     "mo_ta": "Dép 'phục hồi' sau chạy, êm và thời trang; hot mùa hè.",
+     "gia": "≈ 2–3 triệu",
+     "form": "Đúng size theo cm",
+     "phu_hop": "Đi dạo, phục hồi sau tập"
+    }
+   ],
+   "form": "Đúng size nhưng form ôm — chân bè/dày nên +0.5. GORE-TEX cần chỗ cho tất dày → có thể +0.5.",
+   "khach": "Dân trail/hiking, giới trẻ theo gorpcore, dân du lịch bụi, khách mưa nhiều.",
+   "manh": [
+    "Đế Contagrip bám tốt nhất phân khúc",
+    "Quicklace tiện lợi, không cần thắt",
+    "GORE-TEX giữ khô chân khi mưa"
+   ],
+   "yeu": [
+    "GORE-TEX kém thoáng, nóng chân mùa hè",
+    "Giá khá cao; một số dòng khó phối đồ 'văn phòng'"
+   ],
+   "check": [
+    "Logo Salomon in nét; Quicklace có logo ở đầu dây",
+    "Tem nâu/đen trong lưỡi có mã model (ví dụ L47xxx) khớp hộp",
+    "Đế Contagrip in chữ ở gót; gai đế đều và sắc",
+    "XT-6: đường may dày dặn, logo 'S' nhỏ ở mũi và gót"
+   ]
+  },
+  {
+   "id": "brooks",
+   "ten": "Brooks",
+   "xuat_xu": "Mỹ",
+   "nam": 1914,
+   "sang_lap": "Morris Goldenberg (Philadelphia)",
+   "dinh_vi": "Chuyên gia giày chạy trăm năm: Ghost/Adrenaline là 'daily trainer' top của Mỹ; GuideRails là công nghệ ổn định êm nổi bật.",
+   "khau_hieu": "Run Happy.",
+   "gia": "3–4 triệu (Ghost, Trace); 3.8–4.8 triệu (Adrenaline GTS, Glycerin). Giá tham khảo.",
+   "cong_nghe": [
+    "DNA LOFT v3 / DNA Glycerin",
+    "GuideRails",
+    "DNA Flash",
+    "Super DNA"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Ghost 16",
+     "nam": 2024,
+     "mo_ta": "Neutral daily: êm vừa phải, chắc chân, mũi rộng vừa; best-seller của Brooks toàn cầu.",
+     "gia": "≈ 3.3–4.2 triệu",
+     "form": "Đúng size, form Mỹ hơi rộng",
+     "phu_hop": "Chạy hàng ngày, đi bộ thể thao"
+    },
+    {
+     "ten": "Adrenaline GTS 24",
+     "nam": 2024,
+     "mo_ta": "ỔN ĐỊNH với GuideRails: hỗ trợ lật vào mà không cứng; được chuyên gia khuyên cho chân bẹt nhẹ–vừa.",
+     "gia": "≈ 3.8–4.6 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chân bẹt, đau gối khi chạy, đi bộ đường dài"
+    },
+    {
+     "ten": "Glycerin 22",
+     "nam": 2025,
+     "mo_ta": "Dòng êm tối đa với DNA Glycerin mới — được so là 'êm như Nimbus nhưng bền hơn'.",
+     "gia": "≈ 4.2–5.2 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Đi bộ lâu, chạy chậm, khớp nhạy cảm"
+    }
+   ],
+   "form": "Đúng size hoặc hơi rộng; chân thon có thể giảm 0.5 với Ghost. Có bản bề ngang 2E với nhiều dòng.",
+   "khach": "Runner nghiêm túc, người chân bẹt, khách trung niên, người đi bộ đường dài.",
+   "manh": [
+    "GuideRails hỗ trợ chân bẹt rất êm",
+    "Đệm bền thời gian dài",
+    "Gần như 'chuẩn vàng' daily trainer của dân chạy Mỹ"
+   ],
+   "yeu": [
+    "Một số mẫu bán ít tại VN, khó 'xem trực tiếp'",
+    "Gu thẩm mỹ trung tính, không hợp khách theo mốt"
+   ],
+   "check": [
+    "Logo Brooks nét, in ở thân và đế; tem lưỡi có mã (ví dụ 110xxx) khớp hộp",
+    "Đế DNA LOFT nhìn thấy lớp foam; hàng nhái thường lộ 'lỗ' foam",
+    "Lót in 'Brooks' + size hệ Mỹ chuẩn",
+    "Mũi giày có logo nhỏ ở mép ngoài"
+   ]
+  },
+  {
+   "id": "saucony",
+   "ten": "Saucony",
+   "xuat_xu": "Mỹ",
+   "nam": 1898,
+   "sang_lap": "Vịnh Saucony Creek, Pennsylvania (ban đầu sản xuất cho thợ mỏ & giày trẻ em, chuyển sang giày chạy)",
+   "dinh_vi": "Ẩn số chất lượng của làng chạy: Endorphin được giới runner khắp nơi đánh giá 'đáng tiền nhất' phân khúc tốc độ; phổ biến mạnh ở VN qua cộng đồng chạy.",
+   "khau_hieu": "Run for Good.",
+   "gia": "3–4 triệu (Ride, Guide); 3.5–4.5 triệu (Endorphin Speed); 4.5–6 triệu (Endorphin Pro, Triumph). Giá tham khảo.",
+   "cong_nghe": [
+    "PWRRUN",
+    "PWRRUN+",
+    "PWRRUN PB",
+    "SpeedRoll"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Endorphin Speed 4",
+     "nam": 2024,
+     "mo_ta": "PWRRUN PB + tấm nylon: chạy tempo/interval rất 'nảy', được đánh giá tốt nhất phân khúc 4 triệu.",
+     "gia": "≈ 3.9–4.9 triệu",
+     "form": "Đúng size, hơi ôm",
+     "phu_hop": "Chạy tempo, chạy bộ nâng cao"
+    },
+    {
+     "ten": "Kinvara 15",
+     "nam": 2024,
+     "mo_ta": "Nhẹ, đơn giản, nhanh nhẹn — giày 'true to its roots' cho runner muốn cảm giác mặt đường.",
+     "gia": "≈ 2.8–3.6 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy đường nhựa, tập hằng ngày"
+    },
+    {
+     "ten": "Triumph 22",
+     "nam": 2024,
+     "mo_ta": "Dòng êm tối đa, dày dặn, bền — đối trọng Nimbus/Glycerin.",
+     "gia": "≈ 4.2–5.2 triệu",
+     "form": "Đúng size, rộng vừa",
+     "phu_hop": "Chạy chậm/đi bộ lâu, khớp cần êm"
+    }
+   ],
+   "form": "Đúng size; Endorphin hơi ôm → chân bè +0.5.",
+   "khach": "Runner có kinh nghiệm, thành viên CLB chạy, khách tìm 'giá trị thật' hơn thương hiệu.",
+   "manh": [
+    "Endorphin dòng tốc độ đáng tiền",
+    "Nhiều mẫu bền hơn trung bình",
+    "Được cộng đồng chạy VN tin dùng"
+   ],
+   "yeu": [
+    "Nhận diện đại chúng thấp hơn Nike/Adidas/Asics",
+    "Một số mẫu khó mua đúng size ở VN"
+   ],
+   "check": [
+    "Logo 3 chấm 'saucony' ở thân; tem size/mã khớp hộp",
+    "Đế PWRRUN mịn, không có vân lạ; hàng nhái đế cứng hơn rõ",
+    "Lót in logo và tên dòng; may mũi giày đều"
+   ]
+  },
+  {
+   "id": "mizuno",
+   "ten": "Mizuno",
+   "xuat_xu": "Nhật Bản (Osaka)",
+   "nam": 1906,
+   "sang_lap": "Anh em Rihachi & Rizo Mizuno",
+   "dinh_vi": "Nhà giày chạy Nhật với công nghệ Wave độc đáo; form châu Á hợp chân bè; dòng Wave Rider là 'bền không tưởng'.",
+   "khau_hieu": "Reach Beyond.",
+   "gia": "2.4–3.4 triệu (Wave Rider); 3–4 triệu (Wave Sky/Horizon); 3.5–4.5 triệu (Rebellion). Giá tham khảo.",
+   "cong_nghe": [
+    "Wave (tấm sóng)",
+    "Enerzy / Enerzy NXT",
+    "U4icX",
+    "X10 (đế ngoài bền)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Wave Rider 28",
+     "nam": 2025,
+     "mo_ta": "Huyền thoại 26+ thế hệ: chắc chắn, bền, Enerzy êm vừa; được runner Việt yêu vì 'mua 1 đôi đi 2 năm'.",
+     "gia": "≈ 2.6–3.4 triệu",
+     "form": "Đúng size, mũi rộng châu Á",
+     "phu_hop": "Chạy điều độ, đi bộ, dùng hằng ngày"
+    },
+    {
+     "ten": "Wave Sky 8",
+     "nam": 2024,
+     "mo_ta": "Đệm êm tối đa với Enerzy NXT, 'êm như mây Nhật' cho chạy dài.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy dài, người cân nặng trung bình–lớn"
+    },
+    {
+     "ten": "Wave Horizon 7",
+     "nam": 2024,
+     "mo_ta": "Ổn định với Enerzy + vòm mềm, cho chân lật vào.",
+     "gia": "≈ 3.4–4.2 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chân bẹt/lật vào, chạy ổn định"
+    }
+   ],
+   "form": "Đúng size, mũi rộng kiểu châu Á — chân bè hầu như không cần lên size.",
+   "khach": "Runner phổ thông, người lớn tuổi tin đồ Nhật, khách chân bè.",
+   "manh": [
+    "Độ bền vượt trội (X10 đế + Wave)",
+    "Form rộng hợp chân Việt",
+    "Giá tốt so với độ bền"
+   ],
+   "yeu": [
+    "Thẩm mỹ kém 'mốt' hơn đối thủ",
+    "Dòng lifestyle ít hot"
+   ],
+   "check": [
+    "Logo Runbird (chim) nét, đúng hướng",
+    "Tem size/mã (J1GC...) khớp hộp",
+    "Đế X10 in ở phần gót ngoài",
+    "Lưỡi giày in dòng Wave + số thế hệ"
+   ]
+  },
+  {
+   "id": "drmartens",
+   "ten": "Dr. Martens",
+   "xuat_xu": "Anh/Đức (khởi đầu Đức 1947, sản xuất Anh từ 1960)",
+   "nam": 1947,
+   "sang_lap": "Klaus Märtens (bác sĩ) & Griggs, gia đình Anh",
+   "dinh_vi": "Boot văn hóa: nhạc punk, rock, thanh niên nổi loạn; đế AirWair bền huyền thoại, được yêu cả ở thời trang đường phố.",
+   "khau_hieu": "Made like no other / 'Dr. Martens. Made in England' (dòng MIE)",
+   "gia": "3.5–5 triệu (1460/1461); 4.5–6 triệu (Jadon platform, Pascal); MIE cao hơn. Giá tham khảo.",
+   "cong_nghe": [
+    "AirWair Bouncing Soles (đế khí)",
+    "Da Smooth (cứng, bóng)",
+    "Goodyear-welt (một số dòng)",
+    "Yellow welt stitching"
+   ],
+   "mau_icon": [
+    {
+     "ten": "1460 (8 lỗ)",
+     "nam": 1960,
+     "mo_ta": "Boot cổ điển da Smooth với chỉ vàng và đế AirWair; 'đôi boot của mọi mùa' ở xứ mưa.",
+     "gia": "≈ 3.7–4.9 triệu",
+     "form": "Đúng size; da cứng, chân bè +0.5; đi tất dày +0.5",
+     "phu_hop": "Đi mưa, đi làm, gu rock/street"
+    },
+    {
+     "ten": "1461 (3 lỗ)",
+     "nam": 1960,
+     "mo_ta": "Phiên bản thấp cổ của 1460 — nhẹ nhàng hơn, hợp văn phòng casual.",
+     "gia": "≈ 3.5–4.5 triệu",
+     "form": "Đúng size, +0.5 nếu chân bè",
+     "phu_hop": "Đi làm, đi học, phối quần âu"
+    },
+    {
+     "ten": "Jadon (đế 5cm)",
+     "nam": 2015,
+     "mo_ta": "Bản đế cao platform, hot trong giới trẻ; tôn chiều cao rõ.",
+     "gia": "≈ 4.6–6 triệu",
+     "form": "Hơi nặng nên cần ôm chắc: đúng size",
+     "phu_hop": "Gu nổi bật, phối váy/ống rộng"
+    }
+   ],
+   "form": "Đúng size nhưng DA SMOOTH CỨNG: chân bè/đi tất dày nên +0.5. Cần 'break-in' 1–2 tuần (dùng gót dán + tất dày). Dòng Nappa/Pascal mềm hơn, ít đau hơn.",
+   "khach": "Giới trẻ cá tính, khách cần boot đi mưa, khách văn phòng creative, khách nữ thích Jadon.",
+   "manh": [
+    "Bền nhất trong các loại giày da thời trang (5–10 năm)",
+    "Chống mưa tốt",
+    "Đế AirWair huyền thoại, dấu hiệu nhận diện rõ"
+   ],
+   "yeu": [
+    "Đau gót/mắt cá khi mới mua (1–2 tuần)",
+    "Nặng (mỗi đôi ~1kg)",
+    "Đế có thể nứt nếu cất lâu nơi nóng/lạnh"
+   ],
+   "check": [
+    "Chỉ vàng (yellow welt stitching) đều, 2 hàng mũi chuẩn; đế có logo 'AirWair with Bouncing Soles' in ở gót/lòng đế",
+    "Lưỡi giày có tem 'Dr. Martens' + size; hộp vàng-xanh đặc trưng có nhãn mã",
+    "Da Smooth bóng đều, các mũi khâu ở mũi giày đều đặn; hàng nhái thường sai tỷ lệ mũi khâu và logo lệch",
+    "Lỗ luồn dây kim loại chắc, đanh; tag bên trong có in 'Made in...' đúng dòng (bản MIE có mác riêng)"
+   ]
+  },
+  {
+   "id": "timberland",
+   "ten": "Timberland",
+   "xuat_xu": "Mỹ",
+   "nam": "1952 (thương hiệu Timberland; đôi boot huyền thoại 6-inch ra đời 1973)",
+   "sang_lap": "Nathan Swartz (abington Shoe Company → The Timberland Company, 1978)",
+   "dinh_vi": "Boot 'yellow boot' huyền thoại, gắn hip-hop/văn hóa đường phố; chuẩn mực cho boot chống nước, đi địa hình.",
+   "khau_hieu": "Built for the Bold.",
+   "gia": "3.5–5 triệu (Premium 6-inch); 2.6–3.5 triệu (Chukka, Field Boot). Giá tham khảo.",
+   "cong_nghe": [
+    "Premium nubuck/da lộn chống nước",
+    "Đế lug cao su bám địa hình",
+    "Seam-sealed waterproof (bản chống nước)",
+    "PrimaLoft (bản lót lông)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Premium 6-Inch Waterproof",
+     "nam": 1973,
+     "mo_ta": "Đôi boot 'vàng' biểu tượng: da nubuck chống nước, đế lug bám bùn đá; bền khủng khiếp.",
+     "gia": "≈ 3.7–4.9 triệu",
+     "form": "Đúng size với tất mỏng; +0.5 với tất dày",
+     "phu_hop": "Đi mưa, đi phượt, mùa lạnh, style hip-hop"
+    },
+    {
+     "ten": "Field Boot / Chukka",
+     "nam": "1983 (Chukka)",
+     "mo_ta": "Bản cổ thấp/cổ trung nhẹ hơn, dễ phối hơn cho đi làm.",
+     "gia": "≈ 2.6–3.6 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Đi làm, đi chơi đông"
+    }
+   ],
+   "form": "Đúng size (với tất mỏng); boot nặng nên cần chắc chân — không nên lên quá size. Chân bè: da nubuck mềm sẽ giãn nhẹ.",
+   "khach": "Khách nam cá tính, khách đi phượt, khách cần boot mưa, giới hip-hop/street.",
+   "manh": [
+    "Chống nước thật sự (bản waterproof)",
+    "Bền 5–10 năm nếu giữ da",
+    "Đế bám đa địa hình"
+   ],
+   "yeu": [
+    "Nặng; mùa hè VN hơi nóng chân",
+    "Da nubuck cần chải/vệ sinh đúng cách",
+    "Giá cao"
+   ],
+   "check": [
+    "Logo 'Timberland' + cây sồi (nhìn thấy ở thân/hộp), logo 'tree' ở lưỡi",
+    "Đế có logo cây + chữ 'Timberland' ở gót",
+    "Đường khâu vàng/nâu đều, dày; hàng nhái hay sai màu chỉ",
+    "Bản waterproof có tem 'Waterproof' ở lưỡi — fake thường in mờ"
+   ]
+  },
+  {
+   "id": "merrell",
+   "ten": "Merrell",
+   "xuat_xu": "Mỹ",
+   "nam": 1981,
+   "sang_lap": "Clark Matis, John Schweizer, Randy Merrell (Vermont)",
+   "dinh_vi": "Giày hiking/đi bộ đường dài bình dân; Moab là đôi hiking bán chạy nhất thế giới (hơn 30 triệu đôi).",
+   "khau_hieu": "Let's Get Outside.",
+   "gia": "2.5–3.5 triệu (Moab 3); 3–4 triệu (Moab Speed, Agility Peak). Giá tham khảo.",
+   "cong_nghe": [
+    "Vibram TC5+ (đế)",
+    "MERRELL AIR CUSHION",
+    "GORE-TEX (một số bản)",
+    "Kinetic Fit"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Moab 3",
+     "nam": 2022,
+     "mo_ta": "Hiking 'quốc dân' thế giới: bám tốt, êm vừa, bền; đa số khách leo núi lần đầu chọn đôi này.",
+     "gia": "≈ 2.6–3.5 triệu",
+     "form": "Đúng size, rộng vừa",
+     "phu_hop": "Trekking, leo núi, đi bộ đường dài, đi du lịch"
+    },
+    {
+     "ten": "Moab Speed 2",
+     "nam": 2024,
+     "mo_ta": "Bản nhẹ và nhanh hơn của Moab, phù hợp fast-hiking.",
+     "gia": "≈ 3.2–4.2 triệu",
+     "form": "Đúng size",
+     "phu_hop": "Chạy trail nhẹ, fast hiking"
+    }
+   ],
+   "form": "Đúng size, hơi rộng — chân bè thường vẫn vừa. Chọn +0.5 nếu đi tất dày leo núi.",
+   "khach": "Dân du lịch/trekking, gia đình đi rừng, khách mua giày chống trơn.",
+   "manh": [
+    "Bám tốt, an toàn trên mặt đá/bùn",
+    "Bền, thay thế dễ (bán phổ biến)",
+    "Giá tốt phân khúc hiking"
+   ],
+   "yeu": [
+    "Thẩm mỹ 'đi rừng' không dùng phố được",
+    "Bản không GORE-TEX chỉ chống nước nhẹ"
+   ],
+   "check": [
+    "Logo Merrell ở hông và đế nét",
+    "Tem size có mã (J0xxx) khớp hộp",
+    "Đế Vibram in logo nếu đúng dòng; gai đế sắc đều"
+   ]
+  },
+  {
+   "id": "crocs",
+   "ten": "Crocs",
+   "xuat_xu": "Mỹ (thương hiệu; sản xuất tại nhiều nước)",
+   "nam": 2002,
+   "sang_lap": "Lyndon 'Duke' Hanson, Scott Seamans, George Boedecker (mua công nghệ foam từ Canada 1999)",
+   "dinh_vi": "Vua dép nhựa: Classic Clog với Jibbitz huyền thoại, đi mưa/đi biển nhẹ tênh; tái sinh thành mốt nhờ collab (Balenciaga, Salehe).",
+   "khau_hieu": "Come As You Are.",
+   "gia": "900k–1.6 triệu (Classic Clog, Classic Sandal); 1.6–2.5 triệu (All-Terrain, collab bản thường). Giá tham khảo.",
+   "cong_nghe": [
+    "Croslite (foam nhựa đặc trưng)",
+    "Lỗ thông hơi + Jibbitz",
+    "Bản All-Terrain có quai gót điều chỉnh"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Classic Clog",
+     "nam": 2002,
+     "mo_ta": "Dép nhựa huyền thoại: nhẹ, rửa nước được, đi mưa cực tốt; thêm Jibbitz cá nhân hóa.",
+     "gia": "≈ 950k–1.4 triệu",
+     "form": "Chọn theo cm, dư nhẹ 0.5cm; chân bè dùng Regular",
+     "phu_hop": "Đi mưa, đi biển, đi chợ, đi spa, mang trong nhà"
+    },
+    {
+     "ten": "All-Terrain Clog",
+     "nam": 2021,
+     "mo_ta": "Bản Clog có quai gót chắc hơn, đế sâu bám hơn — đi dạo đường dài được.",
+     "gia": "≈ 1.4–1.9 triệu",
+     "form": "Theo cm",
+     "phu_hop": "Đi chơi, du lịch, đi mưa"
+    },
+    {
+     "ten": "Classic Sandal / Literide",
+     "nam": "2019–nay",
+     "mo_ta": "Sandal êm và giày Literide (đệm mềm hơn) cho người cần thoáng tối đa.",
+     "gia": "≈ 900k–1.8 triệu",
+     "form": "Theo cm",
+     "phu_hop": "Người lớn tuổi, đi bộ nhẹ mùa nóng"
+    }
+   ],
+   "form": "KHÔNG dùng size US đơn thuần: hãy chọn theo CM chân, còn dư nhẹ sau gót. Người chân bè dùng bản 'Regular' (không phải Narrow). Không nên dư quá 1cm vì dễ tuột.",
+   "khach": "Ai cũng có thể là khách Crocs: học sinh, phụ huynh, người đi mưa, khách mua để đi trong nhà; khách sưu tầm Jibbitz.",
+   "yeu": [
+    "Trơn trên sàn ướt bóng",
+    "Dễ ra mồ hôi khi đi lâu trời nóng",
+    "Nhìn 'không trang trọng'"
+   ],
+   "manh": [
+    "Nhẹ + rửa nước + thoáng — cực hợp khí hậu miền Nam",
+    "Giá tốt, bền (dùng 2–4 năm)",
+    "Trend collab + Jibbitz tạo cá tính"
+   ],
+   "check": [
+    "Logo 'crocs' in nét ở quai đầu + chữ 'CROCS' khắc ở đế",
+    "Kích cỡ in cả cm và US (j1, j2... cho trẻ em) — tra đúng bảng cm",
+    "Nhựa đều màu, không mùi nhựa nồng; hàng nhái thường cứng hơn và mùi hơn"
+   ]
+  },
+  {
+   "id": "birkenstock",
+   "ten": "Birkenstock",
+   "xuat_xu": "Đức (Germany)",
+   "nam": 1774,
+   "sang_lap": "Johann Adam Birkenstock (dòng họ truyền đời; lót cork hoàn thiện 1963–1964, dòng Madrid/Arizona 1963–73)",
+   "dinh_vi": "Sandal 'lót bàn chân' thượng hạng: đế cork định hình vòm, được giới chuyên môn chân coi là chuẩn hỗ trợ; cũng là biểu tượng mốt.",
+   "khau_hieu": "N/A (được gọi là 'footbed sandal')",
+   "gia": "1.9–3.5 triệu (EVA, một số bản thường); 3.5–5.5 triệu (Arizona, Boston da thật). Giá tham khảo.",
+   "cong_nghe": [
+    "Cork-latex footbed",
+    "Đế EVA nhẹ (dòng EVA)",
+    "Nhiều bề ngang Regular/Narrow"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Arizona",
+     "nam": 1973,
+     "mo_ta": "Sandal 2 quai huyền thoại với lót cork định hình vòm — đôi 'tốt cho chân' mà vẫn mốt.",
+     "gia": "≈ 3.5–5 triệu",
+     "form": "Đúng cm: gót & mũi nằm gọn trong lót, chân bè chọn Regular",
+     "phu_hop": "Đi làm hè, đi học, người đau vòm/gót"
+    },
+    {
+     "ten": "Boston",
+     "nam": 1976,
+     "mo_ta": "Bản 'clog' có quai hậu, hot trong giới thời trang tối giản.",
+     "gia": "≈ 3.8–5.5 triệu",
+     "form": "Đúng cm",
+     "phu_hop": "Đi làm casual, phối tất dày mùa lạnh"
+    },
+    {
+     "ten": "EVA (Arizona EVA / Waterford)",
+     "nam": 2018,
+     "mo_ta": "Bản nhựa chống nước, nhẹ, giá rẻ hơn — đi biển/mưa được nhưng kém định hình hơn.",
+     "gia": "≈ 1.9–2.8 triệu",
+     "form": "Theo cm",
+     "phu_hop": "Đi biển, đi mưa, đi dạo nhẹ"
+    }
+   ],
+   "form": "Chọn theo CM: đứng lên, gót và mũi nằm GỌN trong lòng lót (không dư nhiều) vì lót cork định hình vòm; dư nhiều sẽ cấn vòm sai vị trí. Narrow cho chân thon, Regular cho chân bè.",
+   "khach": "Khách quan tâm sức khoẻ bàn chân (đau vòm, đau gót), giới mộ điệu thời trang tối giản/mùa hè, khách mua sandal đi làm hè và du lịch biển.",
+   "manh": [
+    "Hỗ trợ vòm tốt nhất trong sandal phổ thông",
+    "Càng đi càng định hình theo chân",
+    "Bền nhiều năm (có thể thay lót/đế)"
+   ],
+   "yeu": [
+    "Cứng 2–4 tuần đầu (thời gian 'đúc' theo chân)",
+    "Không được ngâm nước, dính nước lâu sẽ hỏng cork",
+    "Giá cao so với sandal thường"
+   ],
+   "check": [
+    "Logo Birkenstock + 'Made in Germany' in trên lót/mặt đế; đế có chữ 'Birken' dập nổi ở gót",
+    "Lót cork có vân tự nhiên, viền bọc đều; hàng nhái lót nhựa giả cork",
+    "Tem size + bề ngang (N/R, ví dụ 39 N) khớp với hộp",
+    "Quai da mềm, oversized đúng tỷ lệ; nút kim loại chắc"
+   ]
+  },
+  {
+   "id": "clarks",
+   "ten": "Clarks",
+   "xuat_xu": "Anh (UK)",
+   "nam": 1825,
+   "sang_lap": "Cyrus Clark & James Clark (Somerset, Anh)",
+   "dinh_vi": "Nhà giày Anh gần 200 năm: Desert Boot/Wallabee là huyền thoại, đi làm 'nhẹ nhàng lịch sự'.",
+   "khau_hieu": "N/A ('since 1825')",
+   "gia": "2.2–3.5 triệu (Desert Boot, Wallabee); 2–3 triệu (dòng Cushion/đi làm). Giá tham khảo.",
+   "cong_nghe": [
+    "Đế crepe (cao su tự nhiên)",
+    "Cushion Soft",
+    "Da lộn cao cấp"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Desert Boot",
+     "nam": 1950,
+     "mo_ta": "Boot da lộn 2 lỗ, đế crepe trắng/nâu; 'đôi giày của thời trang tối giản', nam nữ đều dùng được.",
+     "gia": "≈ 2.4–3.4 triệu",
+     "form": "Rộng rãi hơn sneaker; chân thon có thể giảm 0.5",
+     "phu_hop": "Đi làm, đi chơi, phối jeans/áo sơ mi"
+    },
+    {
+     "ten": "Wallabee",
+     "nam": 1967,
+     "mo_ta": "Mũ moccasin vuông góc, đế crepe chunky; gắn văn hóa hip-hop & reggae.",
+     "gia": "≈ 3–4.2 triệu",
+     "form": "Hơi rộng, đúng size là ổn",
+     "phu_hop": "Gu vintage/đường phố, đi chơi"
+    }
+   ],
+   "form": "Khá đúng size hoặc hơi rộng nhẹ; Desert Boot form tròn rộng hơn giày tây.",
+   "khach": "Khách công sở thanh lịch, khách trung niên, các tín đồ 'smart casual'.",
+   "manh": [
+    "Thanh lịch, dễ đi làm",
+    "Da lộn chất lượng cao",
+    "Câu chuyện thương hiệu 200 năm"
+   ],
+   "yeu": [
+    "Đế crepe trơn khi trời mưa, nhanh bẩn",
+    "Ở VN ít cửa hàng, giá đôi khi bị đẩy cao"
+   ],
+   "check": [
+    "Logo Clarks in/khắc ở lót và đế; tem 'Desert Boot' đúng dòng",
+    "Chữ 'Clarks' ở lót kim loại/nhãn đúng font",
+    "Đế crepe có vân xương cá đặc trưng — hàng nhái hay dùng đế cao su thường"
+   ]
+  },
+  {
+   "id": "mlb",
+   "ten": "MLB (MLB Korea)",
+   "xuat_xu": "Hàn Quốc (thương hiệu thời trang nhượng quyền từ MLB Hoa Kỳ)",
+   "nam": "1997 (MLB Korea ra đời gắn với F&F; bùng trong giới trẻ 2018+)",
+   "sang_lap": "Thương hiệu được F&F cấp phép từ Major League Baseball (Mỹ)",
+   "dinh_vi": "Giày chunky Hàn Quốc: 'Big Ball Chunky' trở thành hiện tượng ở châu Á nhờ idol Hàn mặc; giá tầm trung, form cực chunky.",
+   "khau_hieu": "N/A (gắn logo các đội MLB: NY Yankees, LA Dodgers, Boston Red Sox...)",
+   "gia": "2.5–4 triệu (Big Ball Chunky); 3–4.5 triệu (bản mới/collab). Giá tham khảo.",
+   "cong_nghe": [
+    "Đế chunky cao su đúc cỡ lớn",
+    "Da tổng hợp/vải lưới",
+    "Logo đội bóng thêu nổi"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Big Ball Chunky (NY Yankees)",
+     "nam": 2019,
+     "mo_ta": "Đế 'quả bóng' siêu dày + logo NY thêu nổi — biểu tượng chunky Hàn Quốc.",
+     "gia": "≈ 2.8–3.9 triệu",
+     "form": "Đế to nên giảm 0.5–1 size nếu muốn vừa gọn",
+     "phu_hop": "Tôn chiều cao, gu Hàn Quốc, Gen Z"
+    }
+   ],
+   "form": "Đế cao nên chọn nhỏ hơn 0.5 size; chân bè giữ đúng size.",
+   "khach": "Gen Z theo gu Hàn, khách thích logo đội bóng, khách nữ nhiều.",
+   "manh": [
+    "Form chunky nhận diện mạnh",
+    "Giá hợp lý so với gu Hàn Quốc",
+    "Nhiều màu/mẫu theo mùa"
+   ],
+   "yeu": [
+    "Chất liệu tổng hợp, không bền bằng da thật",
+    "Đế cao đi lâu hơi mỏi",
+    "Fake khá nhiều ở VN"
+   ],
+   "check": [
+    "Logo đội bóng (NY, LA, B...) thêu nét nổi rõ, tỷ lệ chuẩn",
+    "Đế in chữ 'MLB' + cỡ đế đều",
+    "Tem lưỡi có mã sản phẩm (ví dụ 3ASXCA12N-43BKS) khớp hộp và bill",
+    "Hộp đúng màu/nhãn thương hiệu; lót in logo MLB"
+   ]
+  },
+  {
+   "id": "gucci",
+   "ten": "Gucci",
+   "xuat_xu": "Ý (Italy)",
+   "nam": 1921,
+   "sang_lap": "Guccio Gucci (Florence)",
+   "dinh_vi": "Luxury Ý, biểu tượng 'logomania' (GG, sọc Web xanh-đỏ), thiết kế táo bạo dưới thời Alessandro Michele (2015–2022) và cổ điển sang trọng dưới thời Sabato De Sarno; thuộc tập đoàn Kering.",
+   "khau_hieu": "N/A (thương hiệu không dùng slogan cố định)",
+   "gia": "Giày sneaker chính hãng thường 13–30 triệu; dòng da/bốt cao hơn. Giá tham khảo, xác nhận tại boutique hoặc đại lý ủy quyền.",
+   "cong_nghe": [
+    "Da bê/vải GG canvas",
+    "Sọc Web xanh-đỏ",
+    "Đế cao su khắc logo",
+    "Đệm OrthoLite (một số mẫu)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Ace (GG logo)",
+     "nam": 2016,
+     "mo_ta": "Sneaker da trắng, sọc Web xanh-đỏ, thêu GG hoặc ong (bee); là mẫu Gucci bán chạy nhất mọi thời đại.",
+     "gia": "≈ 13–20 triệu",
+     "form": "Vừa chân, hơi dài; chân bè nên lên 0.5 size",
+     "phu_hop": "Đi tiệc, dạo phố cao cấp, phối với cả jeans và vest nhẹ"
+    },
+    {
+     "ten": "Screener",
+     "nam": 2018,
+     "mo_ta": "Sneaker 'bẩn có chủ đích' với đế có hiệu ứng bụi, logo GG ở thân và đế.",
+     "gia": "≈ 18–25 triệu",
+     "form": "Ôm ngang nhưng thoải mái",
+     "phu_hop": "Street style cao cấp, phối đồ casual"
+    }
+   ],
+   "form": "Thường vừa chân người Việt ở dòng da; dòng canvas co giãn ít. Nên thử để tránh bị dài thừa ở mũi.",
+   "khach": "Khách ngân sách cao, nhân viên văn phòng cao cấp, người chơi hàng hiệu; khách coi giày là phụ kiện 'khoe' nhận diện.",
+   "manh": [
+    "Nhận diện cao nhất giới luxury sneaker",
+    "Da và hoàn thiện tỉ mỉ",
+    "Dịch vụ boutique có check chính hãng"
+   ],
+   "yeu": [
+    "Giá rất cao so với công năng",
+    "Không phải giày để thể thao, dễ xuống form nếu dùng nặng",
+    "Nhạy cảm hàng nhái (siêu fake)",
+    "Bảo hành hầu như chỉ lỗi sản xuất"
+   ],
+   "check": [
+    "Số seri 8 chữ số in nghiêng bên cạnh size ở lót trong; 'Made in Italy'",
+    "Da có vân tự nhiên, không bóng nhựa; mũi may đều",
+    "Hộp/túi vải, thẻ mùi, code hộp phải khớp",
+    "Giá dưới 50% giá boutique gần như chắc chắn là không chính hãng"
+   ]
+  },
+  {
+   "id": "louisvuitton",
+   "ten": "Louis Vuitton",
+   "xuat_xu": "Pháp (France)",
+   "nam": 1854,
+   "sang_lap": "Louis Vuitton",
+   "dinh_vi": "Tập đoàn LVMH; biểu tượng monogram LV; giày sneaker nam/nữ là mảng mạnh từ thời Virgil Abloh (2018–2021) đến Pharrell Williams.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 25–45 triệu (LV Trainer), một số bản collab/giới hạn cao hơn nhiều. Giá tham khảo.",
+   "cong_nghe": [
+    "Canvas monogram / da calf",
+    "Đế cao su đúc có logo LV",
+    "Cấu trúc đế chunky đặc trưng",
+    "Ủng hộ bởi các silhouette từ thời Virgil Abloh"
+   ],
+   "mau_icon": [
+    {
+     "ten": "LV Trainer",
+     "nam": 2019,
+     "mo_ta": "Sneaker cảm hứng bóng rổ, hoàn thiện như giày thủ công, monogram ở thân/side.",
+     "gia": "≈ 30–40 triệu",
+     "form": "Hơi to hơn sneaker thường, nên chọn đúng size hoặc giảm 0.5 nếu thích ôm",
+     "phu_hop": "Đi chơi, sự kiện, dạo phố"
+    },
+    {
+     "ten": "Run Away",
+     "nam": 2018,
+     "mo_ta": "Sneaker cổ điển đế cao su mảnh, logo LV ở gót, phối monogram hoặc da trơn.",
+     "gia": "≈ 25–35 triệu",
+     "form": "Vừa chân",
+     "phu_hop": "Đi làm sang, đi chơi hàng ngày"
+    }
+   ],
+   "form": "Chọn đúng size thường dùng được; LV Trainer có xu hướng 'trông to'.",
+   "khach": "Khách giàu, mua làm món đồ khẳng định đẳng cấp, thường mua cả bộ (giày-túi).",
+   "manh": [
+    "Thương hiệu quyền lực nhất ngành da/luxury",
+    "Chất lượng da & may thủ công thuộc nhóm đầu",
+    "Giá trị giữ/giữ đẳng cấp tốt nếu còn mới"
+   ],
+   "yeu": [
+    "Giá cực cao",
+    "Một số bản monogram bị nhái tràn lan",
+    "Không phù hợp để đi trời mưa/đi bộ đường dài"
+   ],
+   "check": [
+    "Serial/date code (2 chữ + 4 số) phải khớp áo thẻ; tem hộp",
+    "Đường khâu đều, chỉ dấu chữ L/V chéo nhau theo tỉ lệ chuẩn",
+    "Mùi da tự nhiên, chữ 'LOUIS VUITTON' chữ hoa đều",
+    "Mua ở boutique hoặc reseller chuyên nghiệp có hóa đơn"
+   ]
+  },
+  {
+   "id": "balenciaga",
+   "ten": "Balenciaga",
+   "xuat_xu": "Pháp/Tây Ban Nha (nhà sáng lập người Tây Ban Nha)",
+   "nam": 1919,
+   "sang_lap": "Cristóbal Balenciaga",
+   "dinh_vi": "Khởi đầu thời trang couture lịch sử, 'tái sinh' với phong cách streetwear/chunky sneaker dưới thời Demna Gvasalia (2015–2025); thuộc Kering.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 22–40 triệu (Triple S, Track, Defender); một số bản 40–60 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Đế chunky 'Triple S' 3 lớp",
+    "Lưới kỹ thuật + da tổng hợp",
+    "Phối màu tương phản",
+    "Cấu trúc 'đồ cồng kềnh' đặc trưng"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Triple S",
+     "nam": 2017,
+     "mo_ta": "Cha đẻ chunky sneaker hiện đại: 3 lớp đế cao, size 'to hơn chân' cố ý.",
+     "gia": "≈ 25–35 triệu",
+     "form": "Nên giảm 0.5–1 size so với sneaker thường vì đế rất to",
+     "phu_hop": "Streetwear oversize, gu rõ rệt"
+    },
+    {
+     "ten": "Track",
+     "nam": 2018,
+     "mo_ta": "Lai giữa giày chạy trail và giày leo núi, hệ dây phức tạp, đế đa tầng; màu dây buộc cam rực đặc trưng bản chính hãng.",
+     "gia": "≈ 25–33 triệu",
+     "form": "Vừa–hơi rộng; nhiều khách chọn giảm 0.5",
+     "phu_hop": "Đi chơi, phối đồ techwear"
+    }
+   ],
+   "form": "Đế to đùng nên đánh giá size khác lạ: khách thường chọn nhỏ hơn 0.5 size; thử trực tiếp là tốt nhất.",
+   "khach": "Khách trẻ nhiều tiền theo streetwear/hype, khách sành 'đồ hiệu', khách chụp ảnh nhiều.",
+   "manh": [
+    "Tạo trend chunky sneaker toàn cầu",
+    "Thiết kế gây tranh cãi nên độ nhận diện rất cao",
+    "Chất lượng hoàn thiện khá so với giá"
+   ],
+   "yeu": [
+    "Đế to nặng, không phù hợp đi làm cả ngày",
+    "Rất nhiều hàng nhái chất lượng cao",
+    "Giá không tương xứng nếu xét công năng"
+   ],
+   "check": [
+    "Đường may đều, khít; logo BB/Balenciaga nét, đúng tỉ lệ",
+    "Màu dây buộc cam rực (không phải vàng nhạt) là điểm nhận dạng bản thật của Track",
+    "Đế và logo ở gót phải đều, tag size typography chuẩn",
+    "Hộp + túi bụi + hóa đơn boutique"
+   ]
+  },
+  {
+   "id": "dior",
+   "ten": "Dior",
+   "xuat_xu": "Pháp",
+   "nam": 1946,
+   "sang_lap": "Christian Dior",
+   "dinh_vi": "Thuộc LVMH; sneaker là điểm vào của giới trẻ giàu với các dòng B23, B27, B30; logo chữ Dior Oblique và monogram CD.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 18–30 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Canvas Dior Oblique / da",
+    "Logo CD ở thân/đế",
+    "Đế cao su đúc, một số bản có đế sọc đặc trưng"
+   ],
+   "mau_icon": [
+    {
+     "ten": "B27",
+     "nam": 2020,
+     "mo_ta": "Sneaker thân da + canvas họa tiết Dior Oblique, kiểu dáng tennis retro; là mẫu Dior hot nhất phân khúc.",
+     "gia": "≈ 20–28 triệu",
+     "form": "Vừa chân, kiểu dài mũi như giày tennis cổ điển",
+     "phu_hop": "Đi hàng ngày, phối quần âu/short sang"
+    },
+    {
+     "ten": "B30",
+     "nam": 2021,
+     "mo_ta": "Phom chunky hơn, lưới + da, đế có chữ Dior chạy dọc.",
+     "gia": "≈ 22–30 triệu",
+     "form": "Hơi rộng, hợp chân bè hơn B27",
+     "phu_hop": "Đi chơi, dạo phố"
+    }
+   ],
+   "form": "B27 dài mũi nhẹ như giày tennis; nếu chân ngắn/ngang bè nên thử 2 size.",
+   "khach": "Khách nữ trẻ + khách nam văn phòng cao cấp, mua làm đồ đôi/quà tặng.",
+   "manh": [
+    "Họa tiết Oblique đẹp và dễ nhận diện",
+    "Có nhiều lựa chọn cho nữ",
+    "Giá 'dễ chịu' hơn LV/Chanel cùng phân khúc"
+   ],
+   "yeu": [
+    "Vẫn rất đắt so với sneaker phổ thông",
+    "Canvas Oblique bẩn sẽ khó vệ sinh, phải giặt khô chuyên dụng"
+   ],
+   "check": [
+    "Túi dust bag và hộp đúng chuẩn Dior, code khớp",
+    "Chữ Dior ở đế nét đều, tỉ lệ chuẩn",
+    "Đường may chỉ trắng đều, không xộc xệch",
+    "Hóa đơn boutique là bằng chứng mạnh nhất"
+   ]
+  },
+  {
+   "id": "chanel",
+   "ten": "Chanel",
+   "xuat_xu": "Pháp",
+   "nam": 1910,
+   "sang_lap": "Gabrielle 'Coco' Chanel",
+   "dinh_vi": "Nhà mốt Pháp tối thượng (thuộc Chanel Limited); sneaker với logo CC và các chi tiết vải tweed/da cừu.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 25–40 triệu. Giá tham khảo; hàng boutique thường phải chờ.",
+   "cong_nghe": [
+    "Da cừu/da bê mềm",
+    "Logo CC ở thân",
+    "Đế cao su cao cấp",
+    "Chi tiết dây ruy băng/tweed"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Sneaker CC da trắng",
+     "nam": 2010,
+     "mo_ta": "Sneaker da trắng với logo CC, đế màu tương phản (đen/be) — món 'must-have' của giới luxury.",
+     "gia": "≈ 25–35 triệu",
+     "form": "Vừa chân; một số bản hơi hẹp ngang",
+     "phu_hop": "Đi chơi, đi làm sang; phối với tweed/áo khoác Chanel"
+    }
+   ],
+   "form": "Một số dòng Chanel hơi hẹp ngang — chân bè cân nhắc lên 0.5 size.",
+   "khach": "Khách nữ cao cấp, khách sưu tầm, quà tặng đặc biệt.",
+   "manh": [
+    "Đẳng cấp và độ giữ giá tốt hàng đầu",
+    "Chất liệu thượng hạng",
+    "Mua bán lại có thị trường mạnh"
+   ],
+   "yeu": [
+    "Rất đắt, không giảm giá bao giờ",
+    "Không phải giày năng động thực thụ",
+    "Hàng siêu fake rất phổ biến"
+   ],
+   "check": [
+    "Serial hologram/tem NFC đời mới; số seri in ở lót",
+    "Tên 'CHANEL' chữ hoa, khoảng cách ký tự đều",
+    "Da cừu mềm, mùi đặc trưng; đường khâu dày đều",
+    "Chỉ mua ở boutique hoặc chuyên gia reseller có kiểm định"
+   ]
+  },
+  {
+   "id": "prada",
+   "ten": "Prada",
+   "xuat_xu": "Ý",
+   "nam": 1913,
+   "sang_lap": "Mario Prada",
+   "dinh_vi": "Luxury Ý với chất liệu nylon đặc trưng (nylon Prada), giày sneaker nam/nữ mạnh từ America's Cup đến Cloudbust, Collapse; hợp tác adidas liên tục.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 18–32 triệu; line Prada x adidas thường 15–25 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Nylon Prada (Re-Nylon)",
+    "Da saffiano",
+    "Đế cao su khối",
+    "Prada Linea Rossa (sọc đỏ)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "America's Cup",
+     "nam": 1997,
+     "mo_ta": "Sneaker 'tối giản sang' huyền thoại, phối da + lưới, chữ Prada ở bên thân; bản mới vẫn giữ tinh thần.",
+     "gia": "≈ 18–25 triệu",
+     "form": "Vừa chân",
+     "phu_hop": "Đi làm, đi chơi tinh tế"
+    },
+    {
+     "ten": "Cloudbust / Collapse",
+     "nam": 2018,
+     "mo_ta": "Thiết kế thử nghiệm với lưới mở, đế khối chunky.",
+     "gia": "≈ 20–30 triệu",
+     "form": "Hơi rộng",
+     "phu_hop": "Street style công nghệ"
+    }
+   ],
+   "form": "Khá đúng size; dòng Cloudbust rộng hơn một chút.",
+   "khach": "Khách nam công sở cao cấp, khách thích tối giản sang trọng (quiet luxury).",
+   "manh": [
+    "Tối giản, dễ phối, không phô trương như Gucci",
+    "Chất liệu nylon/da độc quyền",
+    "Collab adidas làm sản phẩm dễ tiếp cận hơn"
+   ],
+   "yeu": [
+    "Nhận diện đôi khi không rõ là 'hàng hiệu' với người ngoài ngành",
+    "Vẫn rất đắt"
+   ],
+   "check": [
+    "Logo chữ Prada in chìm/ép nổi, nét sắc",
+    "Da saffiano vân chìm đều khắp bề mặt",
+    "Tag size + số seri (verification) trong lót",
+    "Hộp và túi giấy Prada chuẩn, nắp hộp có mã"
+   ]
+  },
+  {
+   "id": "hermes",
+   "ten": "Hermès",
+   "xuat_xu": "Pháp",
+   "nam": 1837,
+   "sang_lap": "Thierry Hermès",
+   "dinh_vi": "Đỉnh cao thủ công Pháp; giày sneaker (Bouncing, Izmir, Boomerang) ít phổ biến nhưng cực kỳ đắt và giữ giá.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 25–45 triệu; các bản da hiếm cao hơn. Giá tham khảo.",
+   "cong_nghe": [
+    "Da calf/exotic",
+    "Đế cao su may thủ công",
+    "Chi tiết H/Hermès nổi"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Bouncing Sneaker",
+     "nam": 2017,
+     "mo_ta": "Sneaker da mềm có miếng đệm 'bouncing' ở đế, thiết kế tối giản.",
+     "gia": "≈ 25–35 triệu",
+     "form": "Vừa chân, mềm",
+     "phu_hop": "Đi hàng ngày cho khách cực cao cấp, thích kín đáo"
+    }
+   ],
+   "form": "Đúng size; da mềm nên không cần nới nhiều.",
+   "khach": "Khách VIP, khách sưu tầm, khách coi trọng sự kín đáo tuyệt đối.",
+   "manh": [
+    "Độ thủ công hàng đầu",
+    "Giữ giá/được săn đón",
+    "Không bao giờ giảm giá"
+   ],
+   "yeu": [
+    "Rất khó mua (mua kèm 'điều kiện' ở boutique một số khu vực)",
+    "Giá cực cao",
+    "Không có lợi thế công năng đặc biệt"
+   ],
+   "check": [
+    "Đường may thủ công 'saddle stitch' đặc trưng",
+    "Seri và dấu hiệu thợ (một số có ký tự nghệ nhân)",
+    "Da và mùi đặc trưng; hộp cam đặc trưng (box xanh-cam)",
+    "Chỉ mua qua boutique/đấu giá/kiểm định chuyên sâu"
+   ]
+  },
+  {
+   "id": "ysl",
+   "ten": "Saint Laurent (YSL)",
+   "xuat_xu": "Pháp",
+   "nam": 1961,
+   "sang_lap": "Yves Saint Laurent & Pierre Bergé",
+   "dinh_vi": "Thuộc Kering; dòng giày Court Classic SL/06 với logo YSL bằng chữ kim loại là 'must-have' của giới trẻ giàu.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 15–28 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Logo YSL/kim loại",
+    "Da trơn cao cấp",
+    "Đế cao su may"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Court Classic SL/06",
+     "nam": 2017,
+     "mo_ta": "Sneaker tennis tối giản với chữ YSL kim loại, được mặc nhiều nhất trên đường phố cao cấp.",
+     "gia": "≈ 16–22 triệu",
+     "form": "Vừa chân",
+     "phu_hop": "Đi làm, đi chơi, phối jeans/áo sơ mi"
+    },
+    {
+     "ten": "Andy Sneaker",
+     "nam": 2019,
+     "mo_ta": "Bản chunky hơn với logo lớn ở thân, tinh thần streetwear.",
+     "gia": "≈ 18–25 triệu",
+     "form": "Hơi to",
+     "phu_hop": "Street style"
+    }
+   ],
+   "form": "Vừa chân; bản Andy nên giảm 0.5 nếu thích ôm gọn.",
+   "khach": "Khách trẻ năng động, dân văn phòng cao cấp, khách thích logo kim loại tinh tế.",
+   "manh": [
+    "Thiết kế 'logo nhưng không quá phô'",
+    "Dễ phối đồ",
+    "Giá thấp hơn Gucci/LV cùng phân khúc"
+   ],
+   "yeu": [
+    "Bản da trắng dễ bẩn, phải giữ kỹ",
+    "Hàng nhái SL/06 tràn lan"
+   ],
+   "check": [
+    "Chữ YSL kim loại nét sắc, đúng font (logo theo NTB mới khác tên đầy đủ)",
+    "Số seri in ở lót giày khớp hộp",
+    "Da mịn, may đều, không có mùi keo",
+    "Hóa đơn/hộp boutique"
+   ]
+  },
+  {
+   "id": "mcqueen",
+   "ten": "Alexander McQueen",
+   "xuat_xu": "Anh (UK)",
+   "nam": 1992,
+   "sang_lap": "Lee Alexander McQueen",
+   "dinh_vi": "Thuộc Kering; nổi tiếng nhờ đôi Oversized Sneaker đế dày (được gọi 'đôi giày của giới văn phòng sáng tạo').",
+   "khau_hieu": "N/A",
+   "gia": "Oversized Sneaker 12–20 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Đế cao su dày 4–5cm đặc trưng",
+    "Da bê",
+    "Logo McQueen ở thân/gót (một số bản ép chìm)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Oversized Sneaker",
+     "nam": 2016,
+     "mo_ta": "Sneaker đế siêu dày, thân tối giản, thường có chữ 'Alexander McQueen' ở gót; cực hot 2017–nay.",
+     "gia": "≈ 12–18 triệu",
+     "form": "Nên giảm 0.5 size; đế dày làm chân 'to' hơn",
+     "phu_hop": "Đi làm, đi chơi; tôn chiều cao"
+    }
+   ],
+   "form": "Đế dày → nhiều khách chọn 0.5 size nhỏ hơn; chân bè giữ đúng size.",
+   "khach": "Khách nữ nhiều hơn (nhưng cả nam), dân văn phòng/creative, thích tôn dáng.",
+   "manh": [
+    "Tôn chiều cao, phom đẹp trong ảnh",
+    "Nhận diện mạnh",
+    "Bền và dễ phối đồ"
+   ],
+   "yeu": [
+    "Đế dày đi lâu khá mỏi",
+    "Rất nhiều bản fake với đế lệch màu",
+    "Giá cao so với công năng"
+   ],
+   "check": [
+    "Chữ 'Alexander McQueen' ở gót nét đều, đúng font; nhiều bản thật có chữ ép nổi",
+    "Đế cao su dày đều, màu trắng ngà chuẩn",
+    "Lót in logo + số size chuẩn; hộp có tem",
+    "Đế ngoài có chữ McQueen chìm ở một số dòng; màu đế trắng ngà đặc trưng"
+   ]
+  },
+  {
+   "id": "goldengoose",
+   "ten": "Golden Goose",
+   "xuat_xu": "Ý (Ý–Mỹ hợp tác sáng lập: Francesca Rinaldo & Alessandro Gallo)",
+   "nam": 2000,
+   "sang_lap": "Francesca Rinaldo & Alessandro Gallo (Venice)",
+   "dinh_vi": "Nổi tiếng nhờ phong cách 'sẵn bẩn' (lived-in) — giày cố tình làm bẩn như đã đi nhiều năm, ngôi sao GGDB là logo.",
+   "khau_hieu": "N/A",
+   "gia": "Super-Star 12–20 triệu (một số bản limited/collab cao hơn). Giá tham khảo.",
+   "cong_nghe": [
+    "Đế suede 'bẩn có chủ đích'",
+    "Nuôi/bôi bẩn thủ công từng đôi (mỗi đôi một khác)",
+    "Ngôi sao thêu ở thân"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Super-Star",
+     "nam": 2007,
+     "mo_ta": "Sneaker da trắng với ngôi sao bạc/vàng, đế bẩn 'vintage'; bản chính hãng có đế bẩn thủ công không đều nhau.",
+     "gia": "≈ 12–18 triệu",
+     "form": "Vừa chân, hơi mềm sau vài lần đi",
+     "phu_hop": "Street style giản dị sang; khách thích 'giàu kín đáo'"
+    }
+   ],
+   "form": "Đúng size; da mềm nên nhanh 'vào chân'.",
+   "khach": "Khách nữ nhiều, khách sành thời trang, khách muốn giày 'trông cũ nhưng sang'.",
+   "manh": [
+    "Ý tưởng thiết kế độc đáo, dễ nhận diện",
+    "Da mềm, thoải mái hơn nhiều giày luxury khác"
+   ],
+   "yeu": [
+    "Bán 'giàu có giả bẩn' — khách một số người không thích",
+    "Giá cao cho một đôi sneaker làm như cũ",
+    "Nhái phổ biến vì dễ mô phỏng"
+   ],
+   "check": [
+    "Đế bẩn thủ công không đều (máy làm đều tăm tắp), ngôi sao thêu tay nét",
+    "Chữ GGDB ở thân/gót, số size in chuẩn",
+    "Vải lót và phần đế có logo; hộp + túi dust",
+    "Giá dưới 8 triệu thường không chính hãng"
+   ]
+  },
+  {
+   "id": "coach",
+   "ten": "Coach",
+   "xuat_xu": "Mỹ",
+   "nam": 1941,
+   "sang_lap": "Miles & Lillian Cahn (New York)",
+   "dinh_vi": "Luxury 'accessible' (túi & giày tầm trung); sneaker Coach Lowline/Soho là lựa chọn hợp túi tiền của giới trẻ Hàn-Việt.",
+   "khau_hieu": "N/A",
+   "gia": "Sneaker 4–9 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Da calf",
+    "Chữ C signature",
+    "Đế cao su may"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Lowline / Soho",
+     "nam": 2018,
+     "mo_ta": "Sneaker tối giản với chữ C hoặc họa tiết signature; nhiều mẫu đế platform nhẹ.",
+     "gia": "≈ 5–9 triệu",
+     "form": "Vừa chân",
+     "phu_hop": "Đi làm, đi học, quà tặng"
+    }
+   ],
+   "form": "Đúng size, khá thoải mái cho người Việt.",
+   "khach": "Khách trẻ, học sinh-sinh viên khá giả, khách thích món 'luxury vừa tiền'.",
+   "manh": [
+    "Giá dễ tiếp cận hơn luxury thật sự",
+    "Chất lượng ổn định",
+    "Hay có outlet/giảm giá — săn giá tốt được"
+   ],
+   "yeu": [
+    "Hashmoor không giữ giá như luxury",
+    "Nhận diện 'tầm trung' rõ"
+   ],
+   "check": [
+    "Chữ C signature khâu/in nét đều",
+    "Tag bên trong có mã sản phẩm (ví dụ CR***) khớp hộp",
+    "Da mềm mịn; chữ Coach ở đế",
+    "Coach có chống giả bằng cách tra mã trên website"
+   ]
+  },
+  {
+   "id": "offwhite",
+   "ten": "Off-White",
+   "xuat_xu": "Ý/Mỹ (sáng lập bởi Virgil Abloh, thuộc New Guards Group)",
+   "nam": 2013,
+   "sang_lap": "Virgil Abloh (Milan)",
+   "dinh_vi": "Streetwear xa xỉ với dấu ngoặc kép, mũi tên chéo; sneaker OOO (Out of Office) và các collab Nike (The Ten) làm mưa làm gió.",
+   "khau_hieu": "N/A ('DEFINING THE GREY AREA')",
+   "gia": "Sneaker Off-White 15–35 triệu; collab Nike The Ten giá sưu tầm cao hơn nhiều. Giá tham khảo.",
+   "cong_nghe": [
+    "Dấu ngoặc kép in trên thân",
+    "Mũi tên chéo ở gót",
+    "Lưới + da, chunky platform",
+    "Zip-tie tag (đặc trưng)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Out of Office (OOO)",
+     "nam": 2020,
+     "mo_ta": "Sneaker đế dày với mũi tên chéo và dấu ngoặc, nhiều màu; bán rất chạy ở châu Á.",
+     "gia": "≈ 15–22 triệu",
+     "form": "Hơi to; nên giảm 0.5 nếu chân thon",
+     "phu_hop": "Street style, hypebeast"
+    },
+    {
+     "ten": "ODSY-1000",
+     "nam": 2019,
+     "mo_ta": "Chunky 'lai chạy trail', đế dày, chi tiết phức tạp.",
+     "gia": "≈ 20–30 triệu",
+     "form": "Rộng, chân bè hợp",
+     "phu_hop": "Gu techwear/streetwear mạnh"
+    }
+   ],
+   "form": "Một số mẫu hơi rộng, giảm 0.5 nếu chân thon.",
+   "khach": "Khách trẻ hypebeast, khách sưu tầm collab, khách thích street luxury.",
+   "manh": [
+    "Văn hóa streetwear mạnh, giá trị sưu tầm cao (đặc biệt collab Nike)",
+    "Nhận diện tức thì (dấu ngoặc kép)"
+   ],
+   "yeu": [
+    "Fake cực nhiều (zip-tie cũng được làm giả)",
+    "Giá cao so với chất liệu",
+    "Chất lượng gia công không đồng đều"
+   ],
+   "check": [
+    "Dấu ngoặc kép, mũi tên và chữ đúng font; vị trí in chuẩn",
+    "Zip-tie thật có logo nổi rõ, dây đỏ đặc trưng (nhiều bản)",
+    "Tag bên trong có mã, tem và mác 'Made in Italy'",
+    "So sánh với ảnh official của đúng mã sản phẩm"
+   ]
+  },
+  {
+   "id": "bitis",
+   "ten": "Biti's",
+   "xuat_xu": "Việt Nam",
+   "nam": 1982,
+   "sang_lap": "Công ty Biti's – khởi đầu là xưởng sản xuất dép cao su tại Quận 6, TP.HCM",
+   "dinh_vi": "Thương hiệu giày Việt lớn nhất về sản lượng và độ phủ (kênh truyền thống + hiện đại). Nổi tiếng 'Biti's Hunter' (2015) – dòng sneaker năng động; tái sinh thương hiệu mạnh nhờ chiến dịch 'Đi để trở về' với Sơn Tùng M-TP (2017).",
+   "khau_hieu": "'Nâng niu bàn chân Việt'",
+   "gia": "Dép/sandal 100–400k; sneaker 400k–1.5 triệu; Biti's Hunter cao cấp ~700k–1.5 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "LiteFlex (đế Phylon IP đàn hồi, >40% độ bật lại ở Hunter X)",
+    "LiteKnit (thân dệt thoáng khí, ôm chân nhẹ)",
+    "Đế IP Phylon (nhẹ, đàn hồi) thay vì EVA thường",
+    "Lót kháng khuẩn – massage (một số mẫu Hunter)",
+    "Đế ngoài cao su lưu hoá bám tốt"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Biti's Hunter X 2K22",
+     "nam": 2022,
+     "mo_ta": "Siêu nhẹ (chỉ từ ~204g/đôi), đế LiteFlex đàn hồi >40%, thân LiteKnit, đế cao ~5cm tôn dáng; được Gen Z Việt mua nhiều.",
+     "gia": "≈ 700k–1.1 triệu",
+     "form": "Nên chọn đúng size; chân bè nên lên 0.5 size",
+     "phu_hop": "Đi học, đi chơi, tập gym nhẹ, mặc đồ thể thao"
+    },
+    {
+     "ten": "Biti's Hunter Street",
+     "nam": 2019,
+     "mo_ta": "Dòng sneaker 'street' nam/nữ, upper vải lưới + da tổng hợp, đế êm kiểu lifestyle.",
+     "gia": "≈ 600k–900k",
+     "form": "Vừa chân",
+     "phu_hop": "Đi hằng ngày, mix đồ streetwear"
+    },
+    {
+     "ten": "Dép Biti's Dòng Nhu / Đi Để Trở Về",
+     "nam": 2018,
+     "mo_ta": "Dép quai ngang/quai kẹp kinh điển quốc dân, bền, giá sinh viên.",
+     "gia": "≈ 120k–300k",
+     "form": "Chọn theo cỡ chân",
+     "phu_hop": "Đi học, đi chơi gần, mùa mưa"
+    }
+   ],
+   "form": "Dòng Hunter ôm chân vừa; chân bè nên tăng nửa size. Dép Biti's gần đúng size thường dùng.",
+   "khach": "Học sinh–sinh viên, phụ huynh, người ngân sách dưới 1 triệu, khách mua hàng Việt ủng hộ thương hiệu nội.",
+   "manh": [
+    "Giá rất dễ tiếp cận (đa số dưới 1 triệu)",
+    "Sản phẩm nhẹ, êm đáng tiền trong phân khúc",
+    "Phủ cửa hàng toàn quốc, bảo hành đổi trả thuận tiện",
+    "Sản xuất tại Việt Nam, am hiểu bàn chân người Việt"
+   ],
+   "yeu": [
+    "Độ bền dài hạn kém giày thể thao quốc tế (một số dòng bong keo sau 1–2 năm đi nặng)",
+    "Với khách 'sành sneaker' độ hype không cao"
+   ],
+   "check": [
+    "Logo Biti's + tem chống giả trên hộp/miếng lót; quét QR (nếu có) về trang chính hãng",
+    "Đường may đều; keo không tràn viền; logo in nổi/nhãn dệt ở lưỡi gà",
+    "Mua tại Biti's Official Store/đại lý ủy quyền trên Shopee/Lazada, có bill"
+   ]
+  },
+  {
+   "id": "thuongdinh",
+   "ten": "Thượng Đình",
+   "xuat_xu": "Việt Nam",
+   "nam": 1980,
+   "sang_lap": "Gắn với nhà máy cao su Thượng Đình (Hà Nội) – sản phẩm giày vải huyền thoại thập niên 80–90",
+   "dinh_vi": "Biểu tượng 'giày vải' một thời của Hà Nội (đỉnh cao 1992–2006), sống dậy nhờ trào lưu retro/Gen Z (HIEUTHUHAI mặc đi diễn); hiện phổ biến qua thương hiệu Asia Sports (1994).",
+   "khau_hieu": "N/A",
+   "gia": "≈ 100k–400k (dòng cổ điển); bản tái sinh/limited cao hơn. Giá tham khảo.",
+   "cong_nghe": [
+    "Đế cao su lưu hoá bền chắc",
+    "Vải bạt (canvas) truyền thống may cao cổ/thấp cổ",
+    "Đế kẻ sọc đặc trưng"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Giày vải Thượng Đình cổ điển",
+     "nam": 1980,
+     "mo_ta": "Giày vải trắng/đen cổ cao, 'khoá' thẩm mỹ: đi cả năm không hỏng đế — huyền thoại 'bền quá, chả ai cho mua đôi mới'.",
+     "gia": "≈ 100–300k",
+     "form": "Vải giãn nhẹ; chọn đúng size",
+     "phu_hop": "Retro cực rẻ, hè, phối jeans/quần ống rộng"
+    },
+    {
+     "ten": "Thượng Đình x HIEUTHUHAI (bản tái sinh)",
+     "nam": 2023,
+     "mo_ta": "Các bản hợp tác/sự kiện kéo thương hiệu về thời trang trẻ; đế cao su truyền thống, màu mới.",
+     "gia": "≈ 300–500k",
+     "form": "Đúng size",
+     "phu_hop": "Gen Z yêu nái cổ, chụp ảnh"
+    }
+   ],
+   "form": "Chọn đúng size thường dùng; vải sẽ giãn nhẹ sau vài tuần.",
+   "khach": "Khách hoài cổ, sinh viên, khách mua 'trào lưu' trên TikTok, khách muốn giá siêu rẻ, du khách tìm đồ Việt.",
+   "manh": [
+    "Giá cực rẻ",
+    "Đế cao su lưu hoá bền thật sự rất lâu",
+    "Câu chuyện thương hiệu cực mạnh với Gen Z Việt (nostalgia)"
+   ],
+   "yeu": [
+    "Đệm lót mỏng, đi lâu mỏi chân hơn sneaker văn phòng",
+    "Mẫu mã truyền thống ít biến thể, khó chọn màu"
+   ],
+   "check": [
+    "Hộp giấy/ tem mác đơn giản nhưng logo/typography chuẩn; mua qua Asia Sports Official Shop",
+    "Mũi giày đường may hai lớp đều, không lệch",
+    "Giá quá 'rẻ bất thường' so với giá gốc cũng cần cảnh giác vì hàng nhái tồn tại nhưng ít (vì giá gốc thấp)"
+   ]
+  },
+  {
+   "id": "ananas",
+   "ten": "Ananas",
+   "xuat_xu": "Việt Nam",
+   "nam": 2012,
+   "sang_lap": "Thương hiệu Việt, kế thừa ~20 năm kinh nghiệm nhà máy gia công cho Reebok, Puma, Keds, Burberry (một số nguồn ghi mốc 2014)",
+   "dinh_vi": "'Sneaker Việt' chính hiệu: form retro (Basas, Vintas, Retros) bán cực chạy ở giới trẻ, giá hợp túi tiền, thiết kế 'đậm Việt' và collab với nghệ sĩ.",
+   "khau_hieu": "'The genuine Vietnamese' (tinh thần 'Chuẩn'... 'hợp đồ jeans')",
+   "gia": "≈ 350k–1.5 triệu (đa số 400–900k). Giá tham khảo.",
+   "cong_nghe": [
+    "Vải canvas 12oz dệt chắc",
+    "Đế cao su lưu hoá (vulcanized) – bám và bền hơn đế dán keo",
+    "Đế EVA nhẹ cho một số dòng sneaker mới",
+    "Đường may gia công xuất khẩu"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Ananas Basas (Oversized)",
+     "nam": 2018,
+     "mo_ta": "Sneaker canvas đế dày nhẹ, form retro 'chuẩn chân', đa màu; là mẫu bán chạy nhất của Ananas.",
+     "gia": "≈ 500–800k",
+     "form": "Đúng size; form ôm vừa",
+     "phu_hop": "Đi học, đi chơi, phối jeans/áo thun"
+    },
+    {
+     "ten": "Ananas Vintas",
+     "nam": 2016,
+     "mo_ta": "Dòng 'vintage' cao cấp hơn, chất liệu dày dặn, đế cao su",
+     "gia": "≈ 700k–1.2 triệu",
+     "form": "Chọn tăng 0.5 nếu chân bè",
+     "phu_hop": "Mix đồ retro, đi làm casual"
+    },
+    {
+     "ten": "Ananas Retros",
+     "nam": 2021,
+     "mo_ta": "Thiết kế cách tân (một số có đế chunky), collab với nghệ sĩ/họa sĩ Việt.",
+     "gia": "≈ 800k–1.5 triệu",
+     "form": "Vừa chân",
+     "phu_hop": "Gu thời trang rõ nét, chụp ảnh"
+    }
+   ],
+   "form": "Basas/Vintas: chân bè nên lên nửa size; đế cao su lưu hoá cứng dần nếu để lâu không đi.",
+   "khach": "Học sinh–sinh viên, Gen Z, khách ủng hộ hàng Việt, khách coi giày là 'đồ chơi thời trang' giá vừa.",
+   "manh": [
+    "Form & chất liệu tốt so với giá (nhờ gốc gia công xuất khẩu)",
+    "Collab văn hóa Việt tạo cảm xúc mua",
+    "Đế lưu hoá bền"
+   ],
+   "yeu": [
+    "Đệm lót mỏng hơn sneaker thể thao",
+    "Size hot/màu hot hay cháy hàng",
+    "Một số dòng khó vệ sinh vì canvas trắng"
+   ],
+   "check": [
+    "Lưỡi gà có logo 'Ananas' chữ nét, nhãn dệt; tem bảo hành/mác phụ kiện",
+    "Đế có logo Ananas ép nổi ở gót; đế lưu hoá có viền cao su mịn",
+    "Mua ở Ananas Official Store hoặc cửa hàng chính hãng để tránh hàng loại 2 lọt kênh"
+   ]
+  },
+  {
+   "id": "asiasports",
+   "ten": "Asia Sports",
+   "xuat_xu": "Việt Nam",
+   "nam": 1994,
+   "sang_lap": "Thương hiệu giày thể thao Việt gắn với dòng giày vải Thượng Đình truyền thống",
+   "dinh_vi": "Bán giày thể thao/vải giá rẻ phổ thông khắp cả nước; là 'kênh hồi sinh' các mẫu Thượng Đình cho khách trẻ.",
+   "khau_hieu": "N/A",
+   "gia": "≈ 150k–500k. Giá tham khảo.",
+   "cong_nghe": [
+    "Đế cao su bền",
+    "Vải canvas/da tổng hợp",
+    "Form thể thao phổ thông"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Giày vải Asia Sports (kiểu Thượng Đình)",
+     "nam": 1994,
+     "mo_ta": "Các mẫu giày vải/giày tập form cổ điển, giá bình dân, bán ở chợ và cửa hàng thể thao quê.",
+     "gia": "≈ 150–350k",
+     "form": "Đúng size",
+     "phu_hop": "Học sinh, người lao động cần giày bền giá rẻ"
+    }
+   ],
+   "form": "Đúng size; dòng vải giãn nhẹ.",
+   "khach": "Học sinh, phụ huynh mua cho con, khách ở tỉnh cần giày bền giá rẻ.",
+   "manh": [
+    "Giá siêu rẻ",
+    "Phủ kênh truyền thống rộng",
+    "Gắn câu chuyện Thượng Đình"
+   ],
+   "yeu": [
+    "Thẩm mỹ còn 'đại chúng', ít hợp khách trẻ thành phố",
+    "Truyền thông/website hạn chế"
+   ],
+   "check": [
+    "Hỏi mua tại cửa hàng/đại lý có tên; tem mác cơ bản của Asia Sports",
+    "Vì giá gốc đã thấp, nên tập trung vào cảm quan hoàn thiện (may, keo) hơn là lo chống nhái"
+   ]
+  },
+  {
+   "id": "juno",
+   "ten": "Juno",
+   "xuat_xu": "Việt Nam",
+   "nam": 2014,
+   "sang_lap": "Thương hiệu giày nữ & phụ kiện Việt Nam",
+   "dinh_vi": "Giày nữ giá vừa (búp bê, loafer, sandal, sneaker nữ), tập trung vào thiết kế nữ tính, sản xuất trong nước.",
+   "khau_hieu": "N/A",
+   "gia": "≈ 300k–900k (đa số 350–650k). Giá tham khảo.",
+   "cong_nghe": [
+    "Da PU/da tổng hợp mềm",
+    "Đế cao su/bệt nhẹ",
+    "Lót êm (một số dòng)"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Búp bê Juno / Loafer Juno",
+     "nam": 2016,
+     "mo_ta": "Giày nữ công sở/học sinh: búp bê gót nhỏ, loafer bệt — bán chạy ở kênh online.",
+     "gia": "≈ 300–500k",
+     "form": "Nên chọn +0.5 size vì form hơi chật mũi",
+     "phu_hop": "Đi học, đi làm văn phòng, mặc đồ nữ tính"
+    },
+    {
+     "ten": "Sneaker nữ Juno",
+     "nam": 2020,
+     "mo_ta": "Sneaker trắng/đen nữ, đế nhẹ, form gọn chân.",
+     "gia": "≈ 450–800k",
+     "form": "Đúng size",
+     "phu_hop": "Đi học, đi chơi hằng ngày"
+    }
+   ],
+   "form": "Một số dòng hơi chật mũi: chân dài/bè nên +0.5 size.",
+   "khach": "Khách nữ học sinh–sinh viên–dân văn phòng, mua online, thích giá mềm và nhiều mẫu màu.",
+   "manh": [
+    "Giá mềm, mẫu cập nhật nhanh theo trend",
+    "Kênh online tiện (Shopee/Lazada/web)",
+    "Made in Vietnam"
+   ],
+   "yeu": [
+    "Chất liệu da PU kém bền hơn da thật",
+    "Form size giữa các mẫu chưa đồng nhất → cần tư vấn kỹ size"
+   ],
+   "check": [
+    "Mua tại shop chính hãng (Juno Official) để được bảo hành đường may/keo",
+    "Kiểm tra đường chỉ mũi giày, mí đế; da PU không mùi nhựa nồng"
+   ]
+  },
+  {
+   "id": "vascara",
+   "ten": "Vascara",
+   "xuat_xu": "Việt Nam",
+   "nam": 2007,
+   "sang_lap": "Thương hiệu thời trang nữ & phụ kiện (giày, túi) Việt Nam",
+   "dinh_vi": "Chuỗi bán giày-túi nữ lớn của Việt Nam (>130 cửa hàng); phân khúc văn phòng/phổ thông, hướng tới phái đẹp công sở.",
+   "khau_hieu": "N/A",
+   "gia": "≈ 400k–1.5 triệu. Giá tham khảo.",
+   "cong_nghe": [
+    "Da PU cao cấp/da thật (một số dòng)",
+    "Đế cao su bền",
+    "Thiết kế thời trang theo mùa"
+   ],
+   "mau_icon": [
+    {
+     "ten": "Giày cao gót/giày bệt công sở Vascara",
+     "nam": 2007,
+     "mo_ta": "Các mẫu giày công sở nữ: pump, slingback, bệt, sandal; phục vụ khách lớn tuổi hơn & nhân viên văn phòng.",
+     "gia": "≈ 500k–1.2 triệu",
+     "form": "Form chuẩn; guốc/sandal nên +0.5 nếu chân bè",
+     "phu_hop": "Đi làm, đi tiệc nhẹ, mặc đầm"
+    }
+   ],
+   "form": "Nên thử; một số mẫu cao gót có xu hướng chật mũi.",
+   "khach": "Khách nữ dân văn phòng, khách 30+ thích mẫu bền, mua kèm túi.",
+   "manh": [
+    "Hệ thống cửa hàng lớn, đổi trả thuận tiện",
+    "Mẫu mã công sở phong phú, phối được với túi",
+    "Bảo hành sửa chữa tại cửa hàng"
+   ],
+   "yeu": [
+    "Giá cao hơn hàng online cùng mẫu",
+    "Một số mẫu bị chê cứng đế lúc mới"
+   ],
+   "check": [
+    "Hộp + logo Vascara; hóa đơn cửa hàng; giày có mã/tag sản phẩm",
+    "Kiểm tra mí đế dán chắc, không lộ keo quanh viền"
+   ]
+  }
+ ],
+ "groups": {
+  "the_thao_quoc_te": [
+   "nike",
+   "adidas",
+   "puma",
+   "newbalance",
+   "asics",
+   "jordan",
+   "reebok",
+   "underarmour",
+   "converse",
+   "vans",
+   "fila",
+   "skechers"
+  ],
+  "hieu_nang_outdoor": [
+   "hoka",
+   "on",
+   "salomon",
+   "brooks",
+   "saucony",
+   "mizuno",
+   "drmartens",
+   "timberland",
+   "merrell",
+   "crocs",
+   "birkenstock",
+   "clarks",
+   "mlb"
+  ],
+  "hang_hieu_luxury": [
+   "gucci",
+   "louisvuitton",
+   "balenciaga",
+   "dior",
+   "chanel",
+   "prada",
+   "hermes",
+   "ysl",
+   "mcqueen",
+   "goldengoose",
+   "coach",
+   "offwhite"
+  ],
+  "viet_nam": [
+   "bitis",
+   "thuongdinh",
+   "ananas",
+   "asiasports",
+   "juno",
+   "vascara"
+  ]
+ },
+ "techs": [
+  {
+   "id": "air_max",
+   "ten": "Nike Air Max / Air (túi khí)",
+   "hang": "Nike",
+   "loai": "Đệm khí",
+   "mo_ta": "Túi khí nén (Air) đặt ở gót hoặc toàn bộ đế giữa, ra mắt từ 1979 (Air Tailwind). Bản 'Max' hở túi khí to dần theo thời gian, nổi tiếng nhất ở Air Max 1, 90, 95, 97, 270, VaporMax.",
+   "uu": "Giảm chấn tốt, êm rõ rệt ở gót, giữ phom lâu, không bị 'xẹp lún' như foam; nhận diện thương hiệu cực mạnh.",
+   "nhuoc": "Túi khí có thể bị chọc thủng bởi vật nhọn; túi khí hở dễ bám bẩn khó vệ sinh; trọng lượng thường cao hơn foam.",
+   "phu_hop": "Đi hằng ngày, đứng/đi lâu, gu thích retro 'đế khí' — chân bè nên ưu tiên Air Max 1 thay vì Air Max 97/90 (hẹp hơn).",
+   "so_sanh": "Êm kiểu 'đàn hồi bật lại' khác với Boost (mềm úp) và React (êm cân bằng). Bền hơn foam nhưng kém linh hoạt hơn ZoomX."
+  },
+  {
+   "id": "zoom_air",
+   "ten": "Nike Zoom Air",
+   "hang": "Nike",
+   "loai": "Đệm khí",
+   "mo_ta": "Túi khí dẹt áp suất cao, bên trong có sợi đàn hồi (tensioned fibers) → phản hồi nhanh 'bật' tức thì. Dùng nhiều ở giày bóng rổ (LeBron, KD) và chạy (Pegasus 41, Vomero).",
+   "uu": "Phản hồi nhanh, cảm giác 'bật' tốt khi chạy/nhảy; mỏng nên giày không bị cao gót quá.",
+   "nhuoc": "Ít êm nếu bạn quen max-cushion; cảm nhận khá cứng với người nhẹ cân.",
+   "phu_hop": "Chạy bộ cần tốc độ, bóng rổ, tập luyện cần phản hồi nhanh.",
+   "so_sanh": "Nhanh/nhẹ hơn Air Max nhưng êm hơn kém; so với Lightstrike Pro của Adidas thì Lightstrike Pro đàn hồi mạnh hơn ở tần suất sải chân cao."
+  },
+  {
+   "id": "react",
+   "ten": "Nike React",
+   "hang": "Nike",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam đàn hồi gốc từ 2017 (React Element), dùng ở Epic React, Phantom, Infinity, AF1 React. Mềm, bật, giá phải chăng hơn ZoomX.",
+   "uu": "Êm và đàn hồi ổn, giữ độ nảy tốt sau nhiều lần đi; giá trung bình dễ tiếp cận.",
+   "nhuoc": "Nặng hơn ZoomX; ở nhiệt độ cao/deo một thời gian có xu hướng cứng dần (như đa số foam EVA).",
+   "phu_hop": "Chạy/đi bộ hằng ngày, ngân sách trung bình, cần đôi giày 'chắc chân'.",
+   "so_sanh": "So với Boost: React cứng hơn chút, bền form hơn; so với Fresh Foam X của NB: khá tương đương về độ êm."
+  },
+  {
+   "id": "zoomx",
+   "ten": "Nike ZoomX",
+   "hang": "Nike",
+   "loai": "Foam đệm hiệu năng cao",
+   "mo_ta": "Foam PEBA siêu nhẹ, đàn hồi ~85% (cao nhất trong các foam phổ thông), dùng ở Vaporfly, Alphafly, Invincible.",
+   "uu": "Nhẹ + đàn hồi tốt nhất phân khúc chạy; giúp tiết kiệm năng lượng (được ưu chuộng trong giải marathon).",
+   "nhuoc": "Giá rất cao (thường 5–8 triệu); độ bền foam kém hơn EVA — đi tập luyện hàng ngày sẽ nhanh 'xẹp'.",
+   "phu_hop": "Chạy race/marathon, chạy tempo cần tốc độ; không khuyến khích làm giày đi lại hằng ngày.",
+   "so_sanh": "Đàn hồi hơn Lightstrike Pro ở tốc độ thấp nhưng bền kém hơn; so với PWRRUN PB của Saucony thì tương đồng chất liệu PEBA, PWRRUN PB hơi 'êm' hơn."
+  },
+  {
+   "id": "flyknit",
+   "ten": "Nike Flyknit / AtomKnit",
+   "hang": "Nike",
+   "loai": "Thân giày (upper)",
+   "mo_ta": "Vải dệt một mảnh ôm chân như tất, ra mắt 2012. AtomKnit (Vaporfly) là bản dệt mỏng nhẹ - thoáng hơn.",
+   "uu": "Ôm chân, thoáng, nhẹ, thích nghi form bàn chân rất tốt, hạn chế đường may cọ xát.",
+   "nhuoc": "Chân bè/chân dày ngang sẽ thấy bó; đàn hồi của vải dệt giảm dần sau 1–2 năm; khó vệ sinh nếu thấm nước.",
+   "phu_hop": "Chân thon, thích cảm giác ôm như tất, đi mùa nóng.",
+   "so_sanh": "Tương tự Primeknit của Adidas; Flyknit thường mảnh và chắc hơn, AtomKnit thoáng nhất trong nhóm."
+  },
+  {
+   "id": "flyplate",
+   "ten": "Nike Flyplate (carbon)",
+   "hang": "Nike",
+   "loai": "Tấm đàn hồi (plate)",
+   "mo_ta": "Tấm sợi carbon dài đặt trong đế giữa (Vaporfly/Alphafly), phối cùng ZoomX tạo hiệu ứng 'nảy tới trước'.",
+   "uu": "Tăng tốc rõ rệt, giảm mỏi bàn chân khi chạy đường dài; cảm giác 'đẩy đi' đặc trưng.",
+   "nhuoc": "Giá cao; thời gian đầu có thể mỏi bắp chân do thay đổi dáng chạy; không dành cho người mới chạy hoặc đi bộ tiệm.",
+   "phu_hop": "Runner có kinh nghiệm, chạy race 5km–marathon.",
+   "so_sanh": "Đối trọng: Adizero Adios Pro (EnergyRods + Lightstrike Pro), Saucony Endorphin Pro (PWRRUN PB + plate), Hoka Rocket X."
+  },
+  {
+   "id": "boost",
+   "ten": "Adidas Boost",
+   "hang": "Adidas",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam hạt TPU nén (pellets) ra mắt 2013 trên Energy Boost; hạt nở bung tạo cảm giác 'dẫm lên kẹo dẻo'. Dùng ở Ultraboost, NMD, Pureboost, Yeezy.",
+   "uu": "Rất êm và đàn hồi, giữ tính năng qua nhiều năm; đếm trọng lượng cao nhưng cảm giác 'che chân' rất tốt.",
+   "nhuoc": "Nặng hơn foam mới; foam trắng/trong dễ ngả vàng nếu phơi nắng lâu; cảm giác hơi 'thụ động' với người thích giày cứng.",
+   "phu_hop": "Đi bộ/đứng nhiều, đi làm, người thích đệm êm nhất trong khoảng giá 3–5 triệu. Chân bè nên lên 0.5 size vì thân Primeknit ôm.",
+   "so_sanh": "Êm úp và bám chân hơn React; bền hơn ZoomX nhưng kém nhanh hơn Lightstrike Pro ở giày race. Khác biệt dễ thấy nhất khi thử Ultraboost vs AF1 React."
+  },
+  {
+   "id": "lightstrike",
+   "ten": "Adidas Lightstrike / Lightstrike Pro",
+   "hang": "Adidas",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam EVA siêu nhẹ (Lightstrike, 2019) và bản PEBA siêu đàn hồi (Lightstrike Pro) dùng ở Adizero Adios Pro — giày race kỷ lục thế giới của Adidas.",
+   "uu": "Nhẹ, phản hồi nhanh; Lightstrike Pro cực kỳ đàn hồi ở tốc độ cao, cảm giác 'nảy' mạnh.",
+   "nhuoc": "Bản thường độ bền foam trung bình; giá Lightstrike Pro cao (giày race 5–8 triệu).",
+   "phu_hop": "Chạy tốc độ, tập tempo, race. Bản Lightstrike thường phù hợp đi tập gym hàng ngày.",
+   "so_sanh": "So với ZoomX: Lightstrike Pro bền hơn, đàn hồi tương đương về cảm nhận; so với Boost: nhẹ hơn nhiều nhưng kém êm khi đi bộ chậm."
+  },
+  {
+   "id": "primeknit",
+   "ten": "Adidas Primeknit",
+   "hang": "Adidas",
+   "loai": "Thân giày (upper)",
+   "mo_ta": "Thân dệt 3D ôm chân (ra mắt 2012) dùng ở Ultraboost, NMD, ZX, Samba có bản Primeknit.",
+   "uu": "Ôm như tất, thoáng, co giãn; phối màu dệt rất đẹp.",
+   "nhuoc": "Chân bè nên lên 0.5 size; vải dệt bám bụi, khó làm sạch hơn da; form giãn theo thời gian.",
+   "phu_hop": "Chân thon, thích giày ôm; hợp đi hằng ngày mùa hè.",
+   "so_sanh": "Tương tự Flyknit (Nike) và Engineered Mesh; Primeknit co giãn rộng hơn Flyknit."
+  },
+  {
+   "id": "torsion",
+   "ten": "Adidas Torsion System",
+   "hang": "Adidas",
+   "loai": "Hệ thống ổn định",
+   "mo_ta": "Tấm chịu xoắn đặt giữa giữa đế trước và gót, cho phần trước và gót chuyển động độc lập (từ 1988, nay dùng Torsion X ở Samba/Ozweego).",
+   "uu": "Ổn định bàn chân, hỗ trợ chuyển động tự nhiên, tăng độ bền kết cấu.",
+   "nhuoc": "Với người chân bẹt nặng có thể thấy 'cấn' trong tuần đầu.",
+   "phu_hop": "Giày thể thao/đi hằng ngày cần ổn định; đặc biệt hữu ích với giày đế chunky.",
+   "so_sanh": "Tương tự Trusstic (Asics), ROLLBAR (New Balance), GuideRails (Brooks) – đều là hệ thống ổn định cấu trúc."
+  },
+  {
+   "id": "continental",
+   "ten": "Adidas Continental™ Rubber (đế ngoài)",
+   "hang": "Adidas",
+   "loai": "Đế ngoài",
+   "mo_ta": "Cao su đế ngoài do Continental (hãng lốp xe) sản xuất, dùng ở Ultraboost, Terrex, một số mẫu chạy.",
+   "uu": "Độ bám ẩm ướt rất tốt, chống mài mòn cao — thực tế bền hơn đế cao su thường.",
+   "nhuoc": "Đế cứng hơn cao su mềm thông dụng, cảm giác 'rít' hơi nhiều với người thích đế mềm.",
+   "phu_hop": "Đi mưa, đường trơn, đi bộ đường dài, giày cần độ bền đế.",
+   "so_sanh": "Tương đương chất lượng với AHAR+ (Asics), X10 (Mizuno), Contagrip (Salomon), Vibram ở các hãng khác."
+  },
+  {
+   "id": "adidas_4d",
+   "ten": "Adidas 4D",
+   "hang": "Adidas",
+   "loai": "Đệm in 3D",
+   "mo_ta": "Đế giữa in 3D (Digital Light Synthesis) từ năm 2017, cấu trúc lưới hở; dùng ở 4DFWD, ZX 4D.",
+   "uu": "Cấu trúc lưới mở cho phản hồi khác biệt, bền, nhìn 'công nghệ'; một số bản sử dụng vật liệu tái chế.",
+   "nhuoc": "Giá cao (thường 5–8 triệu), cảm giác khá 'cứng' nếu bạn quen đệm mút; ào bụi ở các kẽ lưới (phải vệ sinh kỹ).",
+   "phu_hop": "Gu thích công nghệ/độc đáo, đi dạo hơn là chạy; ngân sách cao.",
+   "so_sanh": "Khác biệt hoàn toàn với foam: 4D cứng hơn, bền hơn, phản hồi 'cơ học' chứ không mềm kiểu Boost."
+  },
+  {
+   "id": "gel",
+   "ten": "Asics GEL",
+   "hang": "Asics",
+   "loai": "Đệm gel",
+   "mo_ta": "Gel giảm chấn đặt ở gót (và một số mẫu ở mũi) từ 1986; là 'linh hồn' của Gel-Nimbus, Gel-Kayano, Gel-Cumulus.",
+   "uu": "Giảm chấn gót rất tốt, ổn định, bền; phù hợp người cân nặng trung bình – lớn cần bảo vệ khớp.",
+   "nhuoc": "Trọng lượng cao hơn foam thuần; gel có thể cảm thấy 'lạnh/cứng' khi mới đi vào trời rét (không đáng kể ở VN).",
+   "phu_hop": "Chạy bộ đường dài, người bị đau khớp nhẹ, chân bẹt nhẹ (kèm hệ thống ổn định của Kayano).",
+   "so_sanh": "Cảm giác 'êm nhưng chắc' khác Boost (mềm úp); so với Zoom Air: GEL êm hơn ở gót nhưng kém 'bật' hơn."
+  },
+  {
+   "id": "ff_blast",
+   "ten": "Asics FF BLAST / FF BLAST PLUS / TURBO",
+   "hang": "Asics",
+   "loai": "Foam đệm",
+   "mo_ta": "Dòng foam thế hệ mới (2020–nay): FF BLAST (Cumulus), FF BLAST PLUS (Nimbus 26, Novablast, Kayano 31), FF BLAST TURBO (Metaspeed).",
+   "uu": "Nhẹ, êm, đàn hồi; FF BLAST PLUS kết hợp êm + bền — được đánh giá là foam 'daily training' rất cân bằng.",
+   "nhuoc": "Bản TURBO trên Metaspeed cần tốc độ mới thấy rõ giá trị.",
+   "phu_hop": "Chạy hàng ngày (Novablast, Cumulus), chạy êm (Nimbus), chạy race (Metaspeed) — thuộc nhóm foam đáng tiền nhất hiện nay.",
+   "so_sanh": "So với Fresh Foam X (NB): tương đương; so với PWRRUN+ (Saucony): FF BLAST PLUS bền hơn khi chạy quãng dài."
+  },
+  {
+   "id": "flytefoam",
+   "ten": "Asics FlyteFoam",
+   "hang": "Asics",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam từ sợi nano cellulose (2015), các bản FlyteFoam Blast/Propulsion dùng ở Kayano/GT-2000 các đời trước.",
+   "uu": "Siêu nhẹ, độ bền cao, ổn định — tiêu chuẩn cũ của giày chạy Asics.",
+   "nhuoc": "Êm kém hơn FF BLAST đời mới; nhiều mẫu đã thay bằng FF BLAST.",
+   "phu_hop": "Những ai cần giày chạy bền bỉ, ổn định, trọng lượng nhẹ.",
+   "so_sanh": "Thế hệ trước của FF BLAST; đừng nhầm 'FlyteFoam' với 'FF BLAST' khi tư vấn khách so sánh đời giày."
+  },
+  {
+   "id": "ahar",
+   "ten": "Asics AHAR / AHAR+ (đế ngoài)",
+   "hang": "Asics",
+   "loai": "Đế ngoài",
+   "mo_ta": "'Asics High Abrasion Rubber' – cao su chống mài mòn cao, đặt ở vùng gót/mũi; AHAR+ nhẹ hơn AHAR ~50% nhưng bền tương đương.",
+   "uu": "Cực bền — nhiều runner đi 800–1.000km vẫn chưa mòn hết đế; bám tốt.",
+   "nhuoc": "Không phải điểm để 'khoe' — khách thường không biết, cần tư vấn mới thấy giá trị.",
+   "phu_hop": "Chạy bộ quãng đường lớn, đi bộ đường dài, tiết kiệm chi phí thay giày.",
+   "so_sanh": "Tương đương Continental (Adidas), X10 (Mizuno), NDurance (New Balance)."
+  },
+  {
+   "id": "trusstic",
+   "ten": "Asics Trusstic System / DuoMax / 4D Guidance",
+   "hang": "Asics",
+   "loai": "Hệ thống ổn định",
+   "mo_ta": "Trusstic: tấm nhựa dưới vòm chống xoắn; DuoMax: lớp foam đậm hơn ở cạnh trong chống lật vào; Kayano 31/32 dùng '4D Guidance System' thay thế DuoMax.",
+   "uu": "Hỗ trợ chân bẹt/lật vào rất hiệu quả, giảm đau gối; Kayano là 'vua giày ổn định' nhiều năm.",
+   "nhuoc": "Người chân bình thường có thể thấy 'cấn' ở vòm nếu đi size sai.",
+   "phu_hop": "Chân bẹt, chân lật vào (overpronation), người đau gối khi chạy.",
+   "so_sanh": "Cùng nhóm với GuideRails (Brooks), ROLLBAR (NB 860), J-Frame (Hoka Arahi)."
+  },
+  {
+   "id": "mizuno_wave",
+   "ten": "Mizuno Wave",
+   "hang": "Mizuno",
+   "loai": "Hệ thống đệm + ổn định",
+   "mo_ta": "Tấm đế dạng 'sóng' (nhựa hoặc foam) giữa hai lớp đế giữa, phân tán lực ra hai bên thay vì nén trực tiếp — công nghệ từ 1997.",
+   "uu": "Vừa đệm vừa ổn định trong một cấu trúc, cảm giác chắc chắn nhưng không bị 'chết đế'; rất bền.",
+   "nhuoc": "Êm hơn kém foam mềm kiểu Boost; thương hiệu ít được biết ở phân khúc lifestyle.",
+   "phu_hop": "Chạy bộ cần ổn định kèm đệm, chân bè (Mizuno form châu Á rộng mũi).",
+   "so_sanh": "Wave Rider là đối thủ trực tiếp của Asics Cumulus; cả hai đều hợp bàn chân châu Á."
+  },
+  {
+   "id": "fresh_foam",
+   "ten": "New Balance Fresh Foam X",
+   "hang": "New Balance",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam đúc theo dữ liệu áp lực bàn chân; Fresh Foam X là bản cao cấp dùng ở 1080v14, 880v14, More v5, Hierro.",
+   "uu": "Êm mượt, 'êm ngay từ bước đầu'; phân bố áp lực đều, phù hợp người đi bộ nhiều.",
+   "nhuoc": "Ở bản thường (không phải X) độ đàn hồi chỉ ở mức khá; foam mềm nên người nặng cân có thể thấy lún nhanh hơn.",
+   "phu_hop": "Chạy/đi bộ êm ái, người trên 70kg nên chọn bản X hoặc More v5 (đệm dày hơn).",
+   "so_sanh": "Gần với FF BLAST PLUS; êm hơn React và Boost một chút theo đánh giá người dùng."
+  },
+  {
+   "id": "fuelcell",
+   "ten": "New Balance FuelCell",
+   "hang": "New Balance",
+   "loai": "Foam đệm tốc độ",
+   "mo_ta": "Foam nitrogen-infused nhẹ và đàn hồi, dùng ở RC Elite, SuperComp Trainer, Rebel — nhóm giày chạy tốc độ của NB.",
+   "uu": "Nhẹ, bật tốt, giá thường thấp hơn ZoomX/Lightstrike Pro cùng phân khúc race.",
+   "nhuoc": "Độ bền foam trung bình, không nên dùng làm giày đi lại hàng ngày.",
+   "phu_hop": "Chạy tempo/race với ngân sách vừa.",
+   "so_sanh": "Ngang phân khúc ZoomX nhưng giá dễ chịu hơn; SuperComp Trainer (SC Trainer) là lựa chọn rất đáng tiền cho tập dài."
+  },
+  {
+   "id": "abzorb",
+   "ten": "New Balance ABZORB",
+   "hang": "New Balance",
+   "loai": "Đệm",
+   "mo_ta": "Hệ đệm hấp thụ chấn động lâu đời (ABZORB, ABZORB SBS) — 'linh hồn' của các đôi 530, 9060, 2002R, 1906R retro.",
+   "uu": "Êm kiểu cổ điển dễ chịu, giữ phom tốt; là lý do các đôi retro NB đi bộ rất thoải mái.",
+   "nhuoc": "Không được 'nảy' như foam mới; trọng lượng trung bình.",
+   "phu_hop": "Đi bộ hàng ngày, người thích giày retro êm chân.",
+   "so_sanh": "Tương đương Air (Nike) ở mục đích 'êm hằng ngày' nhưng ABZORB mềm hơn, êm kiểu mút."
+  },
+  {
+   "id": "nb_encap",
+   "ten": "New Balance ENCAP / ROLLBAR",
+   "hang": "New Balance",
+   "loai": "Ổn định",
+   "mo_ta": "ENCAP = foam bọc rim polyurethane (bền + ổn định) ở 574, 990; ROLLBAR = thanh chống lật vào ở các mẫu 860/990 stability.",
+   "uu": "Bền cấu trúc, chống nghiêng bàn chân, hỗ trợ người chân bẹt.",
+   "nhuoc": "Cứng hơn các đệm mới; không cần thiết với chân bình thường đi nhẹ nhàng.",
+   "phu_hop": "Chân bẹt/chân hơi lật vào, cần giày chắc chân đi hằng ngày.",
+   "so_sanh": "Tương tự DuoMax/4D Guidance của Asics và GuideRails của Brooks."
+  },
+  {
+   "id": "nb_wide",
+   "ten": "New Balance size bề ngang (D / 2E / 4E)",
+   "hang": "New Balance",
+   "loai": "Size đặc biệt",
+   "mo_ta": "NB bán nhiều mẫu với các bề ngang chuẩn: D (trung bình), 2E (rộng), 4E (rất rộng), có cả B (hẹp) cho nữ.",
+   "uu": "Lựa chọn tốt nhất cho chân bè/chân dày ở phân khúc phổ thông — nhiều hãng khác không làm.",
+   "nhuoc": "Size rộng có thể hết hàng nhanh; mẫu lifestyle retro không phải đôi nào cũng có 2E/4E.",
+   "phu_hop": "Chân bè, chân dày, người bị chai chân ở má ngoài, người lớn tuổi cần chỗ thoải mái.",
+   "so_sanh": "Nike/Adidas chỉ có một bề ngang chuẩn cho hầu hết mẫu → chân bè nên cân nhắc NB trước tiên."
+  },
+  {
+   "id": "dna_loft",
+   "ten": "Brooks DNA LOFT / DNA Glycerin",
+   "hang": "Brooks",
+   "loai": "Foam đệm",
+   "mo_ta": "Foam kết hợp EVA + cao su + 'không khí huyền phù' — DNA LOFT v3 ở Glycerin 21/22, Ghost Max; DNA Glycerin ở bản 2025 (Glycerin 22).",
+   "uu": "Êm mềm đáng kể mà không bị 'sụp hố'; bền; phù hợp người cần đệm tối đa để đi bộ.",
+   "nhuoc": "Ít 'bật' — không hợp người thích giày nhanh nhẹn; trọng lượng khá.",
+   "phu_hop": "Chạy chậm–trung bình, đi bộ đường dài, vòm cao (vòm cao cần đệm nhiều).",
+   "so_sanh": "Êm ngang Nimbus của Asics; Glycerin (Brooks) được nhiều người chọn làm 'đôi đi làm' êm chân."
+  },
+  {
+   "id": "guiderails",
+   "ten": "Brooks GuideRails",
+   "hang": "Brooks",
+   "loai": "Hệ thống ổn định",
+   "mo_ta": "Hai thanh nâng ở cạnh gót (2021 trên Adrenaline GTS) giữ đầu gối và bàn chân đi thẳng thay vì phong toả cứng bàn chân.",
+   "uu": "Hỗ trợ lật vào tự nhiên hơn kê gót cứng; giảm đau khớp gối rõ với nhiều khách hàng.",
+   "nhuoc": "Không thay thế được giày ổn định y tế cho chân bẹt nặng.",
+   "phu_hop": "Chân bẹt nhẹ–vừa, chân lật vào, người đau khớp gối khi chạy.",
+   "so_sanh": "Mềm/mượt hơn DuoMax (Asics Kayano) và J-Frame (Hoka Arahi); là 'vua ổn định êm' ở phân khúc phổ thông."
+  },
+  {
+   "id": "pwrruns",
+   "ten": "Saucony PWRRUN / PWRRUN+ / PWRRUN PB",
+   "hang": "Saucony",
+   "loai": "Foam đệm",
+   "mo_ta": "Ba cấp foam: PWRRUN (bền, hằng ngày — Ride 17), PWRRUN+ (nhẹ êm hơn — Triumph 22), PWRRUN PB (PEBA siêu nhẹ cho Endorphin Pro/Speed).",
+   "uu": "Dải giá rộng — Endorphin Speed với PWRRUN PB + plate nylon là đôi 'chạy nhanh' đáng tiền nhất phân khúc 4–5 triệu.",
+   "nhuoc": "Thương hiệu ít phổ biến tại VN, khó thử trực tiếp; bản PB kém bền foam.",
+   "phu_hop": "Chạy bộ đủ level: Ride/Guide (hằng ngày), Triumph (êm), Endorphin (tốc độ).",
+   "so_sanh": "Endorphin Speed ↔ Adizero SL/Boston, Zoom Fly; được giới chạy bộ VN ưu chuộng vì hiệu năng/giá."
+  },
+  {
+   "id": "hoka_meta_rocker",
+   "ten": "Hoka Meta-Rocker",
+   "hang": "Hoka",
+   "loai": "Hình dáng đế",
+   "mo_ta": "Đế 'con thoi' cong ở mũi và gót (không phải plate) tạo roll tự nhiên từ gót → mũi, giúp nhịp chân trôi chảy.",
+   "uu": "Giúp chạy/đi bộ 'mượt', giảm mỏi cổ chân; đế dày nên rất êm mà không nặng như tưởng tượng.",
+   "nhuoc": "Người mới đi dễ 'gập bàn chân' tăng dần → cần 1–2 tuần làm quen; đế dày gây cảm giác chông chênh ban đầu.",
+   "phu_hop": "Đi bộ/đứng lâu (Bondi), chạy hàng ngày (Clifton, Mach), chạy trail (Speedgoat).",
+   "so_sanh": "Clifton (êm, nhẹ) ↔ Nimbus/1080; Bondi (êm nhất) ↔ Glycerin/More v5. Đế dày nhất nhóm daily."
+  },
+  {
+   "id": "jframe",
+   "ten": "Hoka J-Frame",
+   "hang": "Hoka",
+   "loai": "Hệ thống ổn định",
+   "mo_ta": "Lớp foam cứng hình chữ J ở cạnh trong bàn chân trên Arahi — chống lật vào mà không cần khối kê gót cứng.",
+   "uu": "Ổn định êm, nhẹ so với giày ổn định truyền thống; rất được người chân bẹt ưa.",
+   "nhuoc": "Không dành cho lật vào nghiêm trọng; cần chọn đúng size vì đế dày.",
+   "phu_hop": "Chân bẹt/chân lật vào nhẹ–vừa, thích đệm dày.",
+   "so_sanh": "Mềm hơn GuideRails (Brooks Adrenaline) một chút; Arahi 7 là đối thủ trực tiếp của Kayano."
+  },
+  {
+   "id": "cloudtec",
+   "ten": "On CloudTec",
+   "hang": "On",
+   "loai": "Cấu trúc đế",
+   "mo_ta": "'Các đám mây' rỗng dưới đế nén lại khi tiếp đất (Cloud 5, Cloudmonster), kết hợp Speedboard bên trong.",
+   "uu": "Cảm giác tiếp đất rất êm rồi 'bật' lại; ngoại hình đẹp, được ưa ở giới công sở/đi làm.",
+   "nhuoc": "Khe Cloud dễ kẹt sỏi đá nhỏ; đế mòn nhanh hơn nếu đi nhiều trên nhựa đường; giá cao so với cấu hình.",
+   "phu_hop": "Đi làm, đi bộ thành phố, chạy nhẹ; ngân sách 3.5–5 triệu.",
+   "so_sanh": "Cảm giác khác hoàn toàn: không êm như Nimbus nhưng 'nhẹ bẫng' đặc trưng. Cloudmonster (On) ↔ Bondi (Hoka) về độ đế dày."
+  },
+  {
+   "id": "lightspray",
+   "ten": "On LightSpray",
+   "hang": "On",
+   "loai": "Thân giày (upper)",
+   "mo_ta": "Công nghệ phun thân giày tự động (2024/2025, dùng trên Cloudboom Strike) — một mảnh dệt không đường may, siêu nhẹ.",
+   "uu": "Nhẹ kỷ lục, giảm lãng phí vật liệu; đang là điểm nóng công nghệ thế giới.",
+   "nhuoc": "Mới, giá cao, độ bền thực tế cần thời gian kiểm chứng; chưa phổ biến ở VN.",
+   "phu_hop": "Runner/người mê công nghệ, ngân sách cao — hiện chủ yếu là giày race.",
+   "so_sanh": "Đối sánh Flyknit/AtomKnit (Nike), Primeknit (Adidas) nhưng nhẹ hơn do không may."
+  },
+  {
+   "id": "contagrip",
+   "ten": "Salomon Contagrip / Quicklace / GORE-TEX",
+   "hang": "Salomon",
+   "loai": "Đế ngoài + dây + chống nước",
+   "mo_ta": "Bộ ba đặc trưng của Salomon: Contagrip (cao su bám theo từng loại địa hình), Quicklace (dây rút kéo một phát), màng GORE-TEX chống nước.",
+   "uu": "Bám tốt nhất phân khúc trail; GORE-TEX giữ khô chân khi mưa; Quicklace tiện khi đi nhanh.",
+   "nhuoc": "GORE-TEX kém thoáng — đi trời nóng dễ bí; giá trail cao (3.5–6 triệu).",
+   "phu_hop": "Đi phượt, hiking, mưa nhiều; XT-6 dùng hàng ngày theo trend gorpcore.",
+   "so_sanh": "Contagrip ↔ Vibram (như Hoka Speedgoat dùng Vibram); cả hai đều là chuẩn mực đế trail."
+  },
+  {
+   "id": "puma_nitro",
+   "ten": "Puma NITRO / PUMAGRIP",
+   "hang": "Puma",
+   "loai": "Foam + đế ngoài",
+   "mo_ta": "Foam NITRO (nitrogen-infused, dùng trên Deviate/Velocity Nitro) siêu nhẹ; PUMAGRIP là cao su bám đặc trưng.",
+   "uu": "Giá tốt so với hiệu năng (Nitro series 3–4 triệu); Deviate Nitro được đánh giá cực đáng tiền cho chạy daily/tempo.",
+   "nhuoc": "Thương hiệu chạy ít phổ biến tại VN hơn Nike/Adidas/Asics → khó được ưu tiên theo thói quen.",
+   "phu_hop": "Chạy hàng ngày (Velocity Nitro), race/tempo (Deviate/ForeverRun), ngân sách 2.5–4 triệu.",
+   "so_sanh": "Tương đương PWRRUN (Saucony) và Fresh Foam (NB) về phân khúc; độ đàn hồi NITRO khá tốt so với giá."
+  },
+  {
+   "id": "popcush",
+   "ten": "Vans PopCush / ComfyCush / UltraCush",
+   "hang": "Vans",
+   "loai": "Lót/đệm trong",
+   "mo_ta": "Ba thế hệ lót: UltraCush (mềm, đàn hồi), ComfyCush (êm hơn, bền hơn), PopCush (phản hồi tốt nhất — dùng trên Old Skool/Sk8-Hi bản Skate & một số Classic nâng cấp).",
+   "uu": "Nâng đáng kể độ êm so với lót gốc 'mỏng dã man' của Vans Classic; vẫn giữ được form giày.",
+   "nhuoc": "Nếu mua Vans Classic bản cơ bản thì vẫn mỏng — phải chọn đúng bản có công nghệ mới được êm.",
+   "phu_hop": "Đi hằng ngày, skate (bản Skate), người thấy Vans classic đau chân.",
+   "so_sanh": "Đừng nhầm: Vans Classic (mỏng, cứng) khác Vans với PopCush (êm hơn); tư vấn khách kỹ điểm này."
+  },
+  {
+   "id": "waffle",
+   "ten": "Vans Waffle (đế bánh tổ ong)",
+   "hang": "Vans",
+   "loai": "Đế ngoài",
+   "mo_ta": "Đế cao su hình waffle ra đời 1966 — họa tiết bánh quế giúp bám ván trượt, hiện vẫn giữ ở hầu hết mẫu Vans.",
+   "uu": "Bám tốt, thẩm mỹ đặc trưng, bền; dễ nhận biết chính hãng khi kiểm tra đế.",
+   "nhuoc": "Waffle cứng, đi lâu mỏi chân hơn đế foam; trơn trên mặt ướt bóng.",
+   "phu_hop": "Skate, đi dạo nhẹ; ai thích retro 'chân thực'.",
+   "so_sanh": "Dày và cứng hơn đế cao su của Converse (Chuck 70 dùng đế cao su dày có đường viền)."
+  },
+  {
+   "id": "converse_cx",
+   "ten": "Converse CX / OrthoLite",
+   "hang": "Converse",
+   "loai": "Đệm",
+   "mo_ta": "CX = foam mới (2019) kết hợp vải dệt, êm gấp ~2 lần đế cao su truyền thống, dùng trên bản CX, Run Star Motion; lót OrthoLite ở Chuck 70.",
+   "uu": "Chuck 70 rất êm so với All Star thường; CX thêm đệm gót rõ rệt.",
+   "nhuoc": "Chuck Taylor cổ điển vẫn 'đế cứng, mỏng' — nhiều khách mua nhầm bản classic rồi kêu đau chân.",
+   "phu_hop": "Đi làm/học cần déjà vừa êm vừa retro; Chuck 70 là nâng cấp đáng giá so với All Star.",
+   "so_sanh": "Chuck 70 (êm hơn, vải dày) vs All Star Classic (mỏng, rẻ hơn ~400–700k) — luôn tư vấn rõ khi khách hỏi."
+  },
+  {
+   "id": "airwair",
+   "ten": "Dr. Martens AirWair (Bouncing Soles)",
+   "hang": "Dr. Martens",
+   "loai": "Đế + khí",
+   "mo_ta": "Đế khí đặc trưng có logo 'AirWair with Bouncing Soles' in trên gót, làm từ PVC gắn nhiệt; da Smooth cứng định hình.",
+   "uu": "Bền khủng khiếp (nhiều đôi đi 5–10 năm), chống nước tốt, giữ form; đế chống trượt tốt.",
+   "nhuoc": "Mới mua rất cứng — phải 'break-in' 1–2 tuần, dễ đau gót/đau mắt cá; nặng hơn sneaker.",
+   "phu_hop": "Thời tiết mưa, đi làm/phượt, gu rock/punk; chân bè nên lên +0.5 size với da Smooth.",
+   "so_sanh": "1460 (boot cổ cao) vs 1461 (giày 3 lỗ) vs 1461 Quad (đế 5cm). Nhẹ hơn Timberland nhưng kém cách nhiệt hơn."
+  },
+  {
+   "id": "croslite",
+   "ten": "Crocs Croslite",
+   "hang": "Crocs",
+   "loai": "Foam nhựa",
+   "mo_ta": "Nhựa EVA đúc đặc trưng, siêu nhẹ, đàn hồi, kháng khuẩn, khô nhanh — làm nên Classic Clog huyền thoại.",
+   "uu": "Nhẹ, dễ vệ sinh (rửa nước được), thoáng mát; hợp đi chợ/mưa/phượt nhẹ; giá 1–1.6 triệu.",
+   "nhuoc": "Độ dính đế kém hơn cao su; không có cảm giác cao cấp; đi lâu mùa nóng có thể ra mồ hôi chân.",
+   "phu_hop": "Đi mưa, trong nhà, đi biển, chân khoẻ không cần ổn định; cả phụ huynh & sinh viên.",
+   "so_sanh": "So với Birkenstock EVA (êm hơn nhưng hở nhiều), Crocs có quai giữ tốt hơn khi đi nhanh."
+  },
+  {
+   "id": "birko_cork",
+   "ten": "Birkenstock Cork-latex footbed",
+   "hang": "Birkenstock",
+   "loai": "Lót đế",
+   "mo_ta": "Lót đế nút bần (cork) + latex định hình theo vòm bàn chân, phủ da; chia nhiều bề ngang Regular/Narrow.",
+   "uu": "Định hình vòm cực tốt, giảm đau vòm bàn chân/đau gót; xu hướng 'đế cork' đang rất hot trong fashion.",
+   "nhuoc": "Cứng trong tuần đầu, phải 'đúc' theo chân (2–4 tuần); không được ngâm nước.",
+   "phu_hop": "Đau gót/viêm cân gan chân (một phần), xu hướng fashion on-trend; chọn Narrow nếu chân thon.",
+   "so_sanh": "Cứng hơn Crocs nhiều nhưng nâng vòm tốt hơn hẳn; nhiều khách mua Arizona để đi làm hè."
+  },
+  {
+   "id": "lifeflex",
+   "ten": "Biti's LiteFlex / LiteKnit / IP Phylon (Hunter X)",
+   "hang": "Biti's",
+   "loai": "Đế + thân giày",
+   "mo_ta": "LiteFlex = đế Phylon IP (đúc khuôn) đàn hồi >40%, LiteKnit = thân dệt thoáng khí ôm chân; đôi chỉ từ ~204g (Hunter X 2k22).",
+   "uu": "Nhẹ, êm, thoáng, giá Việt (400–800k) — đáng tiền nhất phân khúc dưới 1 triệu tại VN; thiết kế trẻ trung.",
+   "nhuoc": "Độ bền đế kém hơn giày chạy chuyên; một số dòng bị chê bong keo sau thời gian dài.",
+   "phu_hop": "Học sinh/sinh viên, đi học/đi chơi nhiều, ngân sách dưới 1 triệu, tập gym nhẹ.",
+   "so_sanh": "So với Skechers GOwalk (êm hơn nhưng giá gấp 1.5–2 lần) và giày Trung Quốc no-name (rẻ hơn nhưng nhanh hỏng) — Biti's là điểm cân bằng."
+  },
+  {
+   "id": "ananas_vulc",
+   "ten": "Ananas – đế cao su lưu hoá + canvas",
+   "hang": "Ananas",
+   "loai": "Đế + thân giày",
+   "mo_ta": "Sneaker vải canvas (Basas, Vintas, Retros) với đế cao su lưu hoá (vulcanized) — kỹ thuật kế thừa từ 20 năm gia công cho Reebok, Puma, Keds, Burberry.",
+   "uu": "Form retro đẹp, đế lưu hoá bền và bám hơn đế dán keo, giá hợp lý (400–1.2 triệu), ủng hộ hàng Việt.",
+   "nhuoc": "Đệm mỏng hơn sneaker thể thao; vải canvas bẩn khó giặt hơn da.",
+   "phu_hop": "Đi học/đi làm phong cách retro, phối đồ jeans/áo thun; khách hàng trẻ.",
+   "so_sanh": "Đối trọng giá rẻ của Converse Chuck/ Vans Old Skool: rẻ hơn ~50%, form tương tự, đệm tương đương hoặc nhỉnh hơn chút."
+  }
+ ],
+ "size_table": {
+  "nam": [
+   [
+    22.5,
+    "5",
+    "6.5",
+    "4.5",
+    "37.5"
+   ],
+   [
+    23.0,
+    "5.5",
+    "7",
+    "5",
+    "38"
+   ],
+   [
+    23.5,
+    "6",
+    "7.5",
+    "5.5",
+    "38.5"
+   ],
+   [
+    24.0,
+    "6.5",
+    "8",
+    "6",
+    "39"
+   ],
+   [
+    24.5,
+    "7",
+    "8.5",
+    "6.5",
+    "40"
+   ],
+   [
+    25.0,
+    "7.5",
+    "9",
+    "7",
+    "40.5"
+   ],
+   [
+    25.5,
+    "8",
+    "9.5",
+    "7.5",
+    "41"
+   ],
+   [
+    26.0,
+    "8.5",
+    "10",
+    "8",
+    "42"
+   ],
+   [
+    26.5,
+    "9",
+    "10.5",
+    "8.5",
+    "42.5"
+   ],
+   [
+    27.0,
+    "9.5",
+    "11",
+    "9",
+    "43"
+   ],
+   [
+    27.5,
+    "10",
+    "11.5",
+    "9.5",
+    "44"
+   ],
+   [
+    28.0,
+    "10.5",
+    "12",
+    "10",
+    "44.5"
+   ],
+   [
+    28.5,
+    "11",
+    "12.5",
+    "10.5",
+    "45"
+   ],
+   [
+    29.0,
+    "11.5",
+    "13",
+    "11",
+    "45.5"
+   ],
+   [
+    29.5,
+    "12",
+    "13.5",
+    "11.5",
+    "46"
+   ],
+   [
+    30.0,
+    "12.5",
+    "14",
+    "12",
+    "47"
+   ]
+  ],
+  "nu": [
+   [
+    21.5,
+    "5",
+    "3.5",
+    "2.5",
+    "35"
+   ],
+   [
+    22.0,
+    "5.5",
+    "4",
+    "3",
+    "35.5"
+   ],
+   [
+    22.5,
+    "6",
+    "4.5",
+    "3.5",
+    "36"
+   ],
+   [
+    23.0,
+    "6.5",
+    "5",
+    "4",
+    "36.5"
+   ],
+   [
+    23.5,
+    "7",
+    "5.5",
+    "4.5",
+    "37.5"
+   ],
+   [
+    24.0,
+    "7.5",
+    "6",
+    "5",
+    "38"
+   ],
+   [
+    24.5,
+    "8",
+    "6.5",
+    "5.5",
+    "38.5"
+   ],
+   [
+    25.0,
+    "8.5",
+    "7",
+    "6",
+    "39"
+   ],
+   [
+    25.5,
+    "9",
+    "7.5",
+    "6.5",
+    "40"
+   ],
+   [
+    26.0,
+    "9.5",
+    "8",
+    "7",
+    "40.5"
+   ],
+   [
+    26.5,
+    "10",
+    "8.5",
+    "7.5",
+    "41"
+   ],
+   [
+    27.0,
+    "10.5",
+    "9",
+    "8",
+    "42"
+   ],
+   [
+    28.0,
+    "11.5",
+    "10",
+    "9",
+    "43"
+   ],
+   [
+    28.5,
+    "12",
+    "10.5",
+    "9.5",
+    "44"
+   ]
+  ]
+ },
+ "adidas_table": {
+  "nam": [
+   [
+    24.2,
+    "6",
+    "5.5",
+    "39 1/3"
+   ],
+   [
+    24.6,
+    "6.5",
+    "6",
+    "40"
+   ],
+   [
+    25.0,
+    "7",
+    "6.5",
+    "40 2/3"
+   ],
+   [
+    25.4,
+    "7.5",
+    "7",
+    "41 1/3"
+   ],
+   [
+    25.8,
+    "8",
+    "7.5",
+    "42"
+   ],
+   [
+    26.2,
+    "8.5",
+    "8",
+    "42 2/3"
+   ],
+   [
+    26.7,
+    "9",
+    "8.5",
+    "43 1/3"
+   ],
+   [
+    27.1,
+    "9.5",
+    "9",
+    "44"
+   ],
+   [
+    27.5,
+    "10",
+    "9.5",
+    "44 2/3"
+   ],
+   [
+    27.9,
+    "10.5",
+    "10",
+    "45 1/3"
+   ],
+   [
+    28.3,
+    "11",
+    "10.5",
+    "46"
+   ],
+   [
+    28.8,
+    "11.5",
+    "11",
+    "46 2/3"
+   ],
+   [
+    29.2,
+    "12",
+    "11.5",
+    "47 1/3"
+   ]
+  ],
+  "nu": [
+   [
+    21.6,
+    "5",
+    "4.5",
+    "36"
+   ],
+   [
+    22.1,
+    "5.5",
+    "5",
+    "36 2/3"
+   ],
+   [
+    22.5,
+    "6",
+    "5.5",
+    "37 1/3"
+   ],
+   [
+    22.9,
+    "6.5",
+    "6",
+    "38"
+   ],
+   [
+    23.3,
+    "7",
+    "6.5",
+    "38 2/3"
+   ],
+   [
+    23.8,
+    "7.5",
+    "7",
+    "39 1/3"
+   ],
+   [
+    24.2,
+    "8",
+    "7.5",
+    "40"
+   ],
+   [
+    24.6,
+    "8.5",
+    "8",
+    "40 2/3"
+   ],
+   [
+    25.0,
+    "9",
+    "8.5",
+    "41 1/3"
+   ],
+   [
+    25.5,
+    "9.5",
+    "9",
+    "42"
+   ],
+   [
+    25.9,
+    "10",
+    "9.5",
+    "42 2/3"
+   ],
+   [
+    26.3,
+    "10.5",
+    "10",
+    "43 1/3"
+   ],
+   [
+    26.7,
+    "11",
+    "10.5",
+    "44"
+   ]
+  ]
+ },
+ "adidas_note": "Adidas không có size 41, 42, 43... liền mạch mà dùng bước 1/3 (41 1/3, 42, 42 2/3). Vì vậy đừng so 'cùng EU' giữa Adidas và Nike — hãy so theo cm.",
+ "kid_table": [
+  [
+   12.0,
+   "5C",
+   "21",
+   "9–15 tháng"
+  ],
+  [
+   13.0,
+   "6C",
+   "22",
+   "1–1.5 tuổi"
+  ],
+  [
+   14.0,
+   "7C",
+   "23",
+   "1.5–2 tuổi"
+  ],
+  [
+   15.0,
+   "8C",
+   "24",
+   "2–2.5 tuổi"
+  ],
+  [
+   16.0,
+   "9C",
+   "25",
+   "2.5–3 tuổi"
+  ],
+  [
+   17.0,
+   "10C",
+   "27",
+   "3–3.5 tuổi"
+  ],
+  [
+   18.0,
+   "11C",
+   "28",
+   "4 tuổi"
+  ],
+  [
+   19.0,
+   "12C",
+   "30",
+   "5 tuổi"
+  ],
+  [
+   20.0,
+   "13C",
+   "31",
+   "5–6 tuổi"
+  ],
+  [
+   21.0,
+   "1Y",
+   "32",
+   "6–7 tuổi"
+  ],
+  [
+   22.0,
+   "2Y",
+   "34",
+   "7–8 tuổi"
+  ]
+ ],
+ "kid_note": "Trẻ nhỏ nên chọn giày dư 0.5–1cm (khoảng 1 ngón út) để chân phát triển; trẻ 5–10 tuổi đo lại chân mỗi 3–6 tháng; đế mềm, gập được ở 1/3 trước bàn chân là phù hợp.",
+ "fit_notes": [
+  [
+   "Nike",
+   "Dòng thời trang (Dunk, Air Max 97/90, Jordan 1) hơi HẸP MŨI và hẹp ngang; Air Force 1 và Air Max 1 RỘNG rãi hơn. Chân bè nên tăng 0.5 size với Dunk/Air Max. Giày chạy Pegasus/Vomero thường đúng size (true to size)."
+  ],
+  [
+   "Adidas",
+   "Đúng size (TTS) nhưng Samba/Gazelle/Spezial/Country hẹp ngang — chân bè lên 0.5 size. Ultraboost/Primeknit ôm như tất, nên lên 0.5 nếu chân dày. Đế Boost cao nên khách hay thấy 'khoẻ chân' hơn."
+  ],
+  [
+   "New Balance",
+   "Rộng rãi hơn Nike ~0.5 size (dòng 574/530/9060). Là hãng DUY NHẤT ở phân khúc phổ thông bán bề ngang 2E/4E cho chân bè — cực kỳ phù hợp chân châu Á. 990/993 made in USA form thoải mái."
+  ],
+  [
+   "Asics",
+   "Form hợp chân châu Á, mũi rộng vừa. Gel-Nimbus/Kayano/Cumulus đúng size; chân bè có thể giữ nguyên. Gel-1130/1090 retro đúng size."
+  ],
+  [
+   "Mizuno",
+   "Form châu Á, hợp chân bè; Wave Rider/Horizon đúng size, không cần lên size."
+  ],
+  [
+   "Puma",
+   "Đúng size; Suede/Palermo/Speedcat hơi hẹp ngang nhẹ → chân bè +0.5."
+  ],
+  [
+   "Hoka",
+   "Đúng size (TTS) theo số người dùng phản hồi; Clifton/Bondi có mũi rộng, gót ôm. Chân bè thường giữ đúng size."
+  ],
+  [
+   "On (On Running)",
+   "Hơi NHỎ và hẹp — nên tăng 0.5 size so với giày thường, đặc biệt Cloud 5/Cloudswift."
+  ],
+  [
+   "Salomon",
+   "Đúng size nhưng XT-6/XT-4 ôm ngang; chân dày nên +0.5. Dòng GORE-TEX cần chỗ cho tất dày."
+  ],
+  [
+   "Brooks",
+   "Đúng size, form Mỹ hơi rộng; chân nhỏ/thon có thể giảm 0.5 với Ghost/Adrenaline."
+  ],
+  [
+   "Saucony",
+   "Đúng size, hơi hẹp nhẹ với một số dòng (Endorphin); chân bè +0.5."
+  ],
+  [
+   "Converse",
+   "Chuck Taylor All Star CHẠY DÀI — thường giảm 0.5 so với size thật (nếu đi Nike 42 thì Chuck lấy 41.5/US 9). Chuck 70 đế dày, form ôm hơn bản thường. Run Star Motion cũng dài."
+  ],
+  [
+   "Vans",
+   "Classic (Old Skool, Authentic, Era) đi DÀI và HƠI ÔM NGANG → nhiều người giảm 0.5. Bản Knu Skool/với PopCush mềm hơn. Sk8-Hi: chân bè nên giữ đúng size hoặc +0.5."
+  ],
+  [
+   "Dr. Martens",
+   "Size đúng nhưng da Smooth CỨNG khi mới → chân bè hoặc đi tất dày nên +0.5 size; dòng Nappa/Pascal mềm hơn. Đóng giày 1–2 tuần đầu là bình thường."
+  ],
+  [
+   "Crocs",
+   "Không dùng size US chung: chọn theo cm, nên còn dư ~0.5–1cm sau gót khi đứng (không dư quá để khỏi tuột). Classic Clog đúng size cm; Sandal/giày trẻ em chọn theo cm."
+  ],
+  [
+   "Birkenstock",
+   "Chọn theo cm: gót và mũi nằm GỌN trong lòng đế (không dư nhiều) vì lót cork định hình vòm. Bản Narrow hợp chân thon; Regular hợp chân bè."
+  ],
+  [
+   "Timberland",
+   "Boot 6-inch: đúng size với tất mỏng, +0.5 với tất dày (mùa đông). Hơi nặng, cần 'phá đế' 1 tuần."
+  ],
+  [
+   "Clarks",
+   "Đúng size; dòng Desert Boot/Wallabee rộng rãi hơn sneaker thường một chút — chân thon có thể giảm 0.5."
+  ],
+  [
+   "Biti's",
+   "Đúng size VN (theo cm); Hunter X dạng đế dày nhẹ nên +0.5 nếu chân bè. Dép Biti's đúng size."
+  ],
+  [
+   "Ananas",
+   "Form chuẩn (đúng size); chân bè +0.5. Vải canvas sẽ giãn nhẹ sau 2–3 tuần."
+  ],
+  [
+   "Gucci / LV / Dior / Chanel / Prada",
+   "Hàng hiệu thường đúng size với da; nhưng Balenciaga Triple S nên GIẢM 0.5–1 (đế to, form 'trông to'), McQueen Oversized giảm 0.5, Off-White OOO giảm 0.5 nếu chân thon."
+  ]
+ ],
+ "how_to_measure": [
+  "1) Đo vào CUỐI NGÀY (chiều tối chân to nhất do đi lại cả ngày).",
+  "2) Đứng tựa tường, đặt tờ giấy A4 dưới chân, đánh dấu gót và đầu ngón dài NHẤT.",
+  "3) Đo khoảng cách giữa 2 điểm (cm). Đo CẢ HAI CHÂN rồi lấy chân DÀI HƠN làm chuẩn.",
+  "4) Cộng thêm: giày văn phòng/hằng ngày +0.5–1cm; giày chạy bộ +1–1.5cm (chân nở khi chạy dài); giày trẻ em +0.5–1cm.",
+  "5) So với bảng: ví dụ chân 25.4cm → US nam 8 = UK 7.5 = EU 41 (Nike). Adidas dùng bảng riêng (41 1/3).",
+  "6) Mẹo thử nhanh khi mua tại shop: đứng lên, gót sát gót giày, ngón cái để phía mũi — còn nửa ngón tay là vừa; cảm nhận hai bên KHÔNG bị kích; đi thử 5–10 phút ở cả hai chân, đi không chỉ thử ngồi.",
+  "7) Chân bè (bè ngang, bàn chân dày): ưu tiên hãng có bề ngang rộng (New Balance 2E/4E, Asics/Mizuno form châu Á); nếu mẫu hẹp ngang → +0.5 size, KHÔNG tăng quá 1 size vì sẽ bị nhấc gót."
+ ],
+ "size_faq": [
+  {
+   "q": "Chân 25cm đi giày size bao nhiêu?",
+   "a": "Chân 25cm: US nam 7.5 = UK 7 = EU 40.5 (chuẩn Nike). Adidas EU 41 1/3 (25.4cm) bảng riêng. Nếu chân bè hoặc mẫu hẹp ngang (Dunk, Samba), lên nửa size. Giày chạy nên thêm 1–1.5cm."
+  },
+  {
+   "q": "Chân 26cm đi size mấy?",
+   "a": "Chân 26cm: US nam 8.5 = UK 8 = EU 42 (Nike). Nữ thì US nữ ≈ 10. Đo cuối ngày cho chính xác nhất."
+  },
+  {
+   "q": "Nike và Adidas cùng size không?",
+   "a": "Không hẳn. Nike dùng size liền mạch (41, 42, 43) còn Adidas dùng bước 1/3 (41 1/3, 42, 42 2/3). Adidas 42 thường nhỏ hơn Nike 42 một chút. Cách chắc nhất: so theo cm (chân dài bao nhiêu cm)."
+  },
+  {
+   "q": "Size giày nữ và nam khác nhau thế nào?",
+   "a": "Giày UNISEX dùng size nam: size nữ = size nam + 1.5 (ví dụ nữ US 8 ≈ nam US 6.5). Ở bảng cm: chân 24cm → nam US 6.5 / nữ US 8."
+  },
+  {
+   "q": "Chân bè có phải tăng size không?",
+   "a": "Tăng 0.5 size nếu mẫu HẸP NGANG (Dunk, Samba, Gazelle, Salomon XT-6, On Cloud). Không cần tăng với Air Force 1, New Balance 574/530, Asics, Mizuno vì form rộng sẵn. Nếu tăng quá 1 size sẽ bị nhấc gót, đau gót khi đi."
+  },
+  {
+   "q": "Giày Converse/Vans có cần giảm size không?",
+   "a": "Có. Chuck Taylor All Star và Vans Classic (Old Skool, Authentic) thường chạy dài 0.5 size — nhiều người giảm 0.5. Riêng Chuck 70 ôm chân hơn, thử trước khi quyết."
+  },
+  {
+   "q": "Mua online không thử được thì chọn sao cho đúng size?",
+   "a": "Đo chân đúng cách rồi tra bảng cm; ưu tiên shop có đổi size miễn phí; nếu chân ở đúng giữa 2 size → chọn size lớn hơn nếu là chân bè, chọn size nhỏ nếu chân thon và mẫu giày rộng."
+  },
+  {
+   "q": "Đi size 40 mua Converse size 40 có vừa không?",
+   "a": "Thường KHÔNG vì Converse (All Star) đi dài hơn; người size 40 thường hợp Chuck size US 8 (≈41). Tốt nhất thử hoặc đo cm trước: nếu chân 25cm thì Chuck US 8–9 tuỳ form."
+  },
+  {
+   "q": "Trẻ em mua giày size sao cho phù hợp?",
+   "a": "Đo chân bé theo cm, cộng 0.5–1cm; bảng: chân 18cm ≈ US 11C/EU 28 (khoảng 4 tuổi). Kiểm tra lại mỗi 3–6 tháng vì chân bé lên nhanh; đế mềm gập được ở 1/3 trước bàn chân."
+  },
+  {
+   "q": "Chân vòm thấp (bẹt) đi giày size thế nào?",
+   "a": "Size vẫn theo cm như thường; quan trọng là chọn mẫu CÓ HỖ TRỢ ỔN ĐỊNH (Kayano, Adrenaline GTS, Arahi, NB 860) và có thể thêm lót hỗ trợ vòm. Đừng mua size lớn hơn chỉ vì vòm thấp."
+  }
+ ],
+ "general_faq": [
+  {
+   "q": "Bên shop có bán hàng chính hãng không?",
+   "a": "Dạ shop cam kết hàng chính hãng 100%, có hóa đơn và tem đầy đủ, sai đền gấp đôi ạ. Anh/chị có thể check mã sản phẩm trên website hãng trước khi mua."
+  },
+  {
+   "q": "Giày bên shop có bảo hành không?",
+   "a": "Dạ có ạ: bảo hành keo/đế 6 tháng cho lỗi sản xuất (bong keo, hở đế do nhà sản xuất), hỗ trợ vệ sinh miễn phí 1 lần trong 3 tháng đầu. Riêng hư hại do sử dụng (cắt, cháy, ngâm nước) không thuộc bảo hành."
+  },
+  {
+   "q": "Mua xong không vừa size có đổi được không?",
+   "a": "Dạ được ạ – đổi size trong 7 ngày, giày còn nguyên tem/hộp, chưa dùng ngoài trời. Shop hỗ trợ đổi 1 lần miễn phí, từ lần thứ 2 phụ phí ship nhé ạ."
+  },
+  {
+   "q": "Shop có ship toàn quốc không? Bao lâu nhận hàng?",
+   "a": "Dạ ship toàn quốc ạ. Nội thành 1–2 ngày, tỉnh 2–4 ngày làm việc. Đơn từ 1 triệu shop freeship, dưới 1 triệu phí 25–35k tùy khu vực ạ."
+  },
+  {
+   "q": "Có được kiểm hàng (đồng kiểm) khi nhận không?",
+   "a": "Dạ có ạ, anh/chị được mở hộp kiểm tra trước khi thanh toán. Nhớ quay clip lúc mở hàng để hai bên xử lý nhanh nếu có vấn đề nhé."
+  },
+  {
+   "q": "Bên shop thanh toán như thế nào?",
+   "a": "Dạ COD, chuyển khoản, ví điện tử (Momo/ZaloPay), thẻ và trả góp 0% qua thẻ tín dụng cho đơn từ 3 triệu ạ."
+  },
+  {
+   "q": "Giày này có phải chính hãng không? Sao rẻ hơn chỗ khác?",
+   "a": "Dạ shop nhập chính ngạch/đại lý ủy quyền nên được giá tốt, có tem và bill đầy đủ. Nếu giá thấp hơn thị trường quá nhiều (dưới 50% giá niêm yết) thì mới đáng nghi ngờ, còn chênh 10–20% là chuyện bình thường do đợt sale/nhập sỉ ạ."
+  },
+  {
+   "q": "Làm sao để biết hàng thật – hàng giả?",
+   "a": "Dạ anh/chị check 3 thứ nhanh nhất: (1) tem/mã sản phẩm (Nike: xxxxxx-xxx, Adidas: ART/ID) phải khớp hộp và bill; (2) đường may, keo, mùi vật liệu; (3) mua ở shop có tên, có hóa đơn. Shop nhận check hộ miễn phí nếu anh/chị mua ở nơi khác ạ."
+  },
+  {
+   "q": "Có giày cho chân bè không?",
+   "a": "Dạ có ạ. New Balance có size bề ngang 2E/4E (tốt nhất cho chân bè), ngoài ra Asics/Mizuno form châu Á rộng mũi, Air Force 1 cũng rộng. Anh/chị cho em số cm chân, em lọc đúng mẫu luôn nhé."
+  },
+  {
+   "q": "Giày thể thao đi làm văn phòng được không?",
+   "a": "Dạ hoàn toàn được, xu hướng 2026 là sneaker tối giản (da trắng, không logo to) đi làm rất lịch sự: kiểu AF1 trắng, NB 550, veja/Stan Smith, loafer-sneaker. Anh/chị muốn em gợi ý 3 mẫu dưới 2 triệu không ạ?"
+  },
+  {
+   "q": "Giày bao lâu thì thay mới?",
+   "a": "Dạ tùy cường độ: đi làm hằng ngày 1.5–2 năm; chạy bộ nên thay sau 600–800km (khoảng 1–1.5 năm với 20km/tuần). Dấu hiệu nên thay: đế mòn lệch, foam hết hồi, đau gót/chân khi đi lại mẫu quen thuộc."
+  },
+  {
+   "q": "Giày cũ có được thu đổi không?",
+   "a": "Dạ shop có chương trình 'đổi giày cũ – giảm 10%': mang giày cũ (bất kỳ hãng, bất kỳ tình trạng) đến shop để được giảm 10% khi mua đôi mới, giày cũ được trao tặng cho chương trình từ thiện ạ."
+  },
+  {
+   "q": "Đặt trước giày hết hàng được không?",
+   "a": "Dạ được ạ, đặt cọc 200k, hàng về trong 7–14 ngày tùy mẫu. Nếu hàng không về được, shop hoàn cọc 100% nhé."
+  },
+  {
+   "q": "Shop có bán giày cho size lớn (46–48) không?",
+   "a": "Dạ có ạ nhưng tồn kho ít. Anh/chị cho em biết mẫu + size để em kiểm tra kho, chưa có em đặt nhập về trong 7–10 ngày nhé. New Balance/Asics thường có size lớn tốt hơn Nike."
+  },
+  {
+   "q": "Có giày nữ size 39–41 không?",
+   "a": "Dạ có ạ, nhiều mẫu unisex lấy size nam tương ứng (nữ 40 ≈ nam 8.5). Chị cho em số cm chân để em quy đổi chuẩn nhất nhé."
+  },
+  {
+   "q": "Giày trắng có dễ bẩn vàng không?",
+   "a": "Dạ giày trắng nên vệ sinh định kỳ 2 tuần/lần và PHƠI TRONG BÓNG MÂT, tránh nắng trực tiếp (nguyên nhân chính gây ố vàng). Dùng dung dịch vệ sinh pha loãng, tráng sạch, lót giấy trắng khi phơi. Shop tặng kèm xịt nano chống bám bẩn cho giày trắng nhé ạ."
+  },
+  {
+   "q": "Đi giày mới bị đau gót/chột chân thì sao?",
+   "a": "Dạ giày da (Dr. Martens, boot) thường cần 1–2 tuần 'phá giày'. Mẹo: đi tất dày với máy sấy tóc sấy nhẹ phần da gót, dùng gót dán/silicon dán gót, đến shop để nong miễn phí. Nếu đau kéo dài quá 2 tuần, anh/chị mang qua shop kiểm tra giúp em nhé."
+  },
+  {
+   "q": "Giày bị hôi chân xử lý thế nào?",
+   "a": "Dạ anh/chị: (1) lót giày bỏ ra phơi khô; (2) rắc baking soda hoặc gói trà khô/túi than trong giày qua đêm; (3) dùng xịt khử mùi chuyên dụng; (4) luân phiên 2 đôi để giày khô hoàn toàn. Nếu lót cao su bị mùi lâu, thay lót mới (shop có lót than tre 80k)."
+  },
+  {
+   "q": "Giày tăng size theo thời gian không?",
+   "a": "Dạ giày da/da lộn sẽ 'giãn' theo chân khoảng 0.25–0.5 size sau vài tuần; vải canvas giãn nhẹ; giày thể thao tổng hợp gần như giãn không đáng kể. Nên mua vừa khít thoải mái, không mua nhỏ để 'nó giãn ra' nhé ạ."
+  },
+  {
+   "q": "Hàng thanh lý/outlet có phải hàng giả không?",
+   "a": "Dạ không nhất thiết. Outlet là hàng chính hãng của mùa cũ, hàng lỗi nhẹ hoặc size lẻ → giá rẻ hơn. Nhưng nếu outlet bán giá quá thấp cho mẫu đang hot (ví dụ AF1 800k, Chunky 500k) thì gần như không phải hàng thật ạ."
+  },
+  {
+   "q": "Có nhận check giày giúp khách không?",
+   "a": "Dạ có ạ. Anh/chị gửi ảnh: tem/size, lưỡi gà, đế, hộp và bill; em xem và tư vấn các điểm cần lưu ý. Shop nói rõ: check qua ảnh chỉ khoảng 80%, muốn chắc nhất cần cầm trực tiếp ạ."
+  },
+  {
+   "q": "Vì sao cùng đôi giày mà mỗi nơi bán giá khác nhau?",
+   "a": "Dạ do nguồn nhập, đợt sale, size hot/chậm và phí vận chuyển khác nhau ạ. Chênh 10–20% là bình thường; chênh 40–50% thì nên xem lại tem/mã sản phẩm."
+  },
+  {
+   "q": "Giày nam và nữ có khác nhau về công nghệ không?",
+   "a": "Dạ thường cùng công nghệ, chỉ khác form (nữ thường hẹp hơn, đệm mỏng hơn nhẹ) và size. Một số mẫu nữ dùng đế/foam mỏng hơn bản nam để nhẹ chân. Về unisex, chỉ cần quy đổi size nam ↔ nữ (lệch 1.5) ạ."
+  },
+  {
+   "q": "Sản phẩm có phải hàng 1:1, rep không?",
+   "a": "Dạ không ạ. Bên shop chỉ bán hàng chính hãng. Những khái niệm rep/1:1/siêu cấp đều là giày SAO CHÉP, không có nguồn gốc chính hãng; giá rẻ nhưng vật liệu, keo và độ bền kém hơn nhiều và dễ hỏng đế sau 6–12 tháng ạ."
+  },
+  {
+   "q": "Vì sao giày chạy bộ đắt hơn giày thường?",
+   "a": "Dạ giày chạy dùng foam công nghệ cao (ZoomX, Lightstrike Pro, FF BLAST), thiết kế cho quãng đường dài, nghiên cứu dáng chạy. Giày chạy race (Vaporfly, Adios Pro) còn có tấm carbon — đó là lý do giá 5–8 triệu. Nếu chỉ đi bộ, không cần mua tầm đó ạ."
+  }
+ ],
+ "fake_check_general": [
+  "Nguyên tắc 1: HÀNG RẺ BẤT THƯỜNG = RỦI RO CAO. Giá dưới 50% giá niêm yết của mẫu mới đang hot gần như chắc chắn không phải hàng thật.",
+  "Nguyên tắc 2: Mua nơi có tên tuổi, hóa đơn, chính sách đổi trả. Không mua trôi nổi chỉ có 1–2 ảnh và giá 'sập sàn'.",
+  "Check tem & mã: mã sản phẩm trên tem (Nike: xxxxxx-xxx; Adidas: ART/ID; NB: Mxxxx) phải KHỚP giữa tem, hộp và hóa đơn.",
+  "Check đường may: hàng thật chỉ đều, mũi ngắn, không xộc xệch, không chỉ thừa kéo dài.",
+  "Check keo: viền keo thật mỏng, gọn, không tràn ra thành vệt vàng dày.",
+  "Check mùi & vật liệu: hàng thật ít mùi keo công nghiệp; da có vân tự nhiên, lưới dệt chắc.",
+  "Check đế: đế khối lượng khớp mô tả (Balenciaga to nặng, ZoomX nhẹ tênh), lót in size chuẩn, không lệch chữ.",
+  "Check hộp & phụ kiện: hộp/hộp dày chuẩn, giấy gói, túi bụi, thẻ hãng — nhiều fake bỏ qua phần này.",
+  "Dùng app/website: tra mã sản phẩm trên web hãng để so ảnh và ngày ra mắt; một số hãng có check serial.",
+  "Yếu tố cuối: NHỜ CHECK 3 NGUỒN. Đến shop có kinh nghiệm cầm thử, so với đôi thật — 'cảm giác cầm trên tay' quan trọng không kém thông tin."
+ ],
+ "comparisons": [
+  {
+   "a": "Nike Air Force 1",
+   "b": "Nike Dunk Low",
+   "text": "Cùng tầm giá 2–3 triệu, đều là sneaker biểu tượng. AF1: đế Air êm hơn, form rộng rãi thích hợp chân bè, 'bền hơn' khi đi nhiều; hơi nặng. Dunk: gọn gàng hơn, form hẹp ngang và mũi thấp → chân bè nên +0.5 size, phù hợp phối đồ slim/skate. Cần êm + bền → AF1; cần form gọn trendy → Dunk."
+  },
+  {
+   "a": "Adidas Samba OG",
+   "b": "Adidas Gazelle",
+   "text": "Samba (1950) đế gum mỏng, mũi dài, hơi hẹp ngang; Gazelle đế gum nhưng thân da lộn mềm hơn, form rộng hơn Samba một chút. Cùng 2–2.8 triệu. Samba hợp phối âu phục/skool; Gazelle hợp chân bè hơn và mềm chân hơn."
+  },
+  {
+   "a": "Adidas Ultraboost",
+   "b": "Nike Pegasus",
+   "text": "Khác mục đích: Ultraboost (3.5–5 triệu) là giày đi bộ/đứng nhiều với Boost cực êm, thân Primeknit ôm như tất — hợp đi làm, đi chơi. Pegasus (3.1–4.5 triệu) là giày chạy bộ: nhẹ hơn, đệm Zoom Air đàn hồi, thoáng hơn. Đi bộ êm → Ultraboost; chạy thật sự → Pegasus."
+  },
+  {
+   "a": "Converse Chuck 70",
+   "b": "Vans Old Skool",
+   "text": "Chuck 70: canvas dày, đế cao su dày êm hơn All Star, cổ cao, retro. Old Skool: da lộn + đế waffle bám hơn, form ôm và thấp hơn. Cùng 1.6–2.5 triệu. Đi bộ nhiều: Chuck 70 êm hơn chút; bám tốt/cân bằng: Old Skool. Cả hai đều đi dài 0.5 size — nên chọn nhỏ hơn nửa size."
+  },
+  {
+   "a": "Asics Gel-Kayano",
+   "b": "Asics Gel-Nimbus",
+   "text": "Cùng đệm GEL và giá 3.8–5 triệu. Kayano: dòng ỔN ĐỊNH (hỗ trợ chân bẹt/lật vào, có 4D Guidance). Nimbus: dòng ÊM TỐI ĐA cho chân bình thường/vòm cao. Chọn theo chân: bẹt/đau gối → Kayano; vòm cao/cần êm → Nimbus."
+  },
+  {
+   "a": "Hoka Clifton",
+   "b": "Hoka Bondi",
+   "text": "Bondi: đệm dày nhất nhóm, êm tối đa, hơi nặng — hợp đứng lâu, đi bộ nhiều, khớp nhạy cảm. Clifton: nhẹ hơn, đệm vẫn êm nhưng 'sống động' hơn, hợp chạy hàng ngày. Cùng 3.9–5.5 triệu. Chỉ đi bộ/đứng → Bondi; vừa đi vừa chạy → Clifton."
+  },
+  {
+   "a": "Biti's Hunter X",
+   "b": "Skechers GOwalk",
+   "text": "Cùng nhóm đi bộ êm giá rẻ. Hunter X: nhẹ (~204g), đế Phylon đàn hồi, giá 700k–1.1 triệu, form trẻ. GOwalk: đệm Memory Foam mềm, giá 1.2–2 triệu, hợp người lớn tuổi, đứng nhiều. Ngân sách <1 triệu → Hunter X; cần êm tối đa cho chân nhạy → GOwalk."
+  },
+  {
+   "a": "Ananas Basas",
+   "b": "Converse Chuck Taylor All Star",
+   "text": "Cùng form canvas retro. Basas: đế lưu hoá dày, êm hơn, giá 500–800k, đế không dễ bong keo. Chuck: nhận diện quốc tế, đế mỏng hơn (bản All Star thường), giá 1.2–1.8 triệu. Muốn tiết kiệm + đi bộ ổn → Basas; cần thương hiệu quốc tế → Chuck."
+  },
+  {
+   "a": "New Balance 530",
+   "b": "New Balance 574",
+   "text": "Đều là 'giày quốc dân' NB. 530: form 'dad shoes' ôm vừa, đế ABZORB êm, màu sáng, hợp phối đồ năng động. 574: cổ điển hơn, đế ENCAP bền, form tròn, hợp đi làm. Cùng 1.8–2.5 triệu. Trẻ/casual → 530; chín/công sở → 574."
+  },
+  {
+   "a": "Crocs Classic",
+   "b": "Birkenstock Arizona",
+   "text": "Crocs: EVA nhẹ 1–1.6 triệu, đi mưa/đi biển tốt, rửa nước được, êm nhẹ. Arizona: đế cork định hình vòm (2–4 triệu), hỗ trợ chân tốt hơn nhiều, cần 1–2 tuần làm quen, không ngâm nước. Cần nhẹ-rẻ-trời mưa → Crocs; cần nâng vòm/đau gót → Arizona."
+  },
+  {
+   "a": "Dr. Martens 1460",
+   "b": "Timberland 6-inch",
+   "text": "Cùng boot da nổi. 1460: cổ cao 8 lỗ, đế AirWair, phong cách rock/punk, đi mưa được, giá 3.5–5 triệu, đau gót tuần đầu. Timberland: nubuck chống nước, đế lug bám địa hình, ấm, giá 3.5–5 triệu. Đi phố/style → 1460; đi rừng/mùa lạnh/địa hình → Timberland."
+  },
+  {
+   "a": "Alexander McQueen Oversized",
+   "b": "Golden Goose Super-Star",
+   "text": "Cùng nhóm luxury sneaker 12–18 triệu. McQueen: đế platform dày, tôn chiều cao, da trắng tinh khôi, hợp chụp ảnh. Golden Goose: đế 'bẩn' cố ý, mềm chân hơn, phong cách lived-in. Thích nổi bật/cao ráo → McQueen; thích 'cũ nhưng sang' → Golden Goose."
+  }
+ ],
+ "care": {
+  "da_thật": [
+   "Lau bằng khăn ẩm mềm, KHÔNG ngâm nước; dùng dung dịch vệ sinh da chuyên dụng, tránh cồn/acetone.",
+   "Vết bẩn mới: tẩy ngay bằng khăn ẩm + chút dầu gội em bé pha nước.",
+   "Dưỡng da (conditioner) mỗi 2–3 tháng để da không khô nứt; đánh xi giữ màu với giày tối màu.",
+   "Phơi trong bóng mát, nhồi giấy báo/cây giữ form; tránh nắng trực tiếp và máy sấy."
+  ],
+  "da_lộn_suede": [
+   "KHÔNG dùng nước/nước rửa phổ thông; dùng bàn chải cao su chuyên da lộn để hết bụi (chải theo 1 chiều).",
+   "Vết bẩn: cục tẩy da lộn hoặc hỗn hợp giấm trắng + nước (1:1) chấm nhẹ, để khô tự nhiên rồi chải lại.",
+   "Phủ xịt nano/protector ngay khi mua mới và phủ lại 1–2 tháng/lần — giảm 80% vấn đề.",
+   "Gặp mưa: để khô tự nhiên (không sấy), nhồi giấy giữ form, chải lại khi khô."
+  ],
+  "canvas_vải": [
+   "Có thể giặt tay nhẹ với bột giặt pha loãng + bàn chải mềm; KHÔNG vắt xoắn, không máy giặt.",
+   "Vết bẩn cứng đầu: baking soda + nước chấm lên, để 10 phút rồi chải.",
+   "Vải trắng: sau khi giặt, tráng sạch hết xà phòng (cặn xà phòng chính là thứ gây ố vàng), bọc giấy trắng kín mặt vải khi phơi.",
+   "Phơi nơi thoáng mát; nhét giấy báo giữ form. Tránh phơi nắng gắt làm vải cứng và ngả vàng."
+  ],
+  "luoi_mesh_knit": [
+   "Dùng bàn chải mềm + nước ấm pha xà phòng nhẹ, lau cục bộ rồi thấm khô; không chà mạnh vì dễ xước sợi.",
+   "Máy giặt: KHÔNG khuyến khích; nếu bắt buộc thì cho vào túi lưới, nước lạnh, chu trình nhẹ — sẽ giảm tuổi thọ keo.",
+   "Khử mùi: phơi thoáng + gói than/trà; thay lót giày định kỳ 6–12 tháng."
+  ],
+  "cao_su_eva": [
+   "Rửa nước trực tiếp được: xà phòng nhẹ + bàn chải, sau đó lau khô, tránh phơi nắng lâu (EVA biến dạng/ngả vàng).",
+   "Vết bẩn bám: cục tẩy hoặc cồn lau nhẹ với đế cao su trắng.",
+   "Đế bị vàng: dùng kem đánh răng trắng/whitening hoặc gel tẩy trắng đế — hạn chế nắng để không vàng thêm."
+  ]
+ },
+ "care_faq": [
+  {
+   "q": "Bao lâu nên vệ sinh giày một lần?",
+   "a": "Dạ với giày đi hằng ngày: lau khô 2–3 ngày/lần, vệ sinh sâu 2-4 tuần/lần; giày trắng nên vệ sinh 2 tuần/lần. Giày da thì lau + dưỡng mỗi tháng là đủ ạ."
+  },
+  {
+   "q": "Giày bị ố vàng ở đế thì xử lý sao?",
+   "a": "Dạ do oxy hóa foam/cao su. Anh/chị dùng kem đánh răng trắng + bàn chải đánh nhẹ; nặng hơn thì dùng gel tẩy trắng chuyên dụng, phơi trong bóng mát. Quan trọng là PHÒNG trước: tránh nắng trực tiếp, lau khô ngay sau khi dính nước bẩn ạ."
+  },
+  {
+   "q": "Giày bị bong keo thì dán lại được không?",
+   "a": "Dạ được ạ. Bên shop dán keo miễn phí trong 6 tháng bảo hành; nếu do dùng quá lâu, anh/chị có thể dùng keo dính giày chuyên dụng (Barge/Đức-keo 502 loại dẻo) — nhớ làm sạch bề mặt, ép chặt 12 giờ. Không dùng keo 502 thường vì giòn, sẽ bong lại ạ."
+  },
+  {
+   "q": "Giày đi mưa về thì xử lý thế nào?",
+   "a": "Dạ: (1) nhét giấy báo/khăn vào trong giày để hút ẩm và giữ form; (2) để khô tự nhiên nơi thoáng mát, KHÔNG hơ máy sấy/nắng nóng (da sẽ nứt, keo bong); (3) khi khô thì vệ sinh, xịt nano/chống thấm; (4) nếu ngâm nước lâu, sau khi khô xử lý khử mùi."
+  },
+  {
+   "q": "Giày bị mốc thì làm sao?",
+   "a": "Dạ dùng khăn ẩm pha giấm trắng lau sạch mốc (làm ngoài trời), rồi bôi chút dầu/miếng dưỡng da; phơi nơi khô thoáng có nắng nhẹ sớm. Mốc quay lại nếu để ẩm — cho túi hút ẩm vào tủ giày nhé ạ."
+  },
+  {
+   "q": "Giữ form giày như thế nào?",
+   "a": "Dạ: nhét cây giữ form (shoe tree) hoặc giấy báo khi không dùng; không chồng giày lên nhau; tủ thoáng, có gói hút ẩm. Giày da nên kê cây nắp ngang để form không bẹp ạ."
+  },
+  {
+   "q": "Dây giày trắng bị bẩn giặt thế nào?",
+   "a": "Dạ tháo dây, ngâm nước ấm + bột giặt 15 phút, chà nhẹ, có thể ngâm thêm với baking soda; không dùng thuốc tẩy mạnh với dây màu. Dây trắng bẩn cứng đầu thì thay dây mới — shop có dây các màu 30–50k ạ."
+  },
+  {
+   "q": "Lót giày (insole) có nên giặt không?",
+   "a": "Dạ lót bẩn/mùi thì GIẶT TAY nhẹ với xà phòng, không máy giặt; phơi khô hoàn toàn mới lắp lại. Lót cao su nhanh mùi thì nên thay mới mỗi 6–12 tháng — shop có lót than tre/orthopedic 80–150k ạ."
+  },
+  {
+   "q": "Có nên dùng xịt nano/phủ chống thấm không?",
+   "a": "Dạ CÓ, hiệu quả rõ nhất với da lộn, canvas và giày trắng. Cách dùng: xịt khi giày sạch, khô, cách 20cm, xịt 2 lớp mỏng đều, để khô 24 giờ; phủ lại sau 4–6 tuần (tùy tần suất đi). Lưu ý: xịt nano không thay thế vệ sinh định kỳ ạ."
+  },
+  {
+   "q": "Đế giày bị mòn lệch thì xử lý sao?",
+   "a": "Dạ mòn lệch (đặc biệt mép ngoài gót) là dấu hiệu nên thay giày nếu là giày chạy (trên 600–800km). Với giày thời trang, có thể dán đế/gò lại gót ở tiệm sửa giày (30–80k) để đi thêm 6–12 tháng ạ."
+  }
+ ],
+ "trends_2026": [
+  "Sneaker tối giản 'quiet luxury' lên ngôi: ton-sur-ton trắng/kem/xám, ít logo to, da mịn — đi làm và đi tiệc nhẹ đều được.",
+  "Trào lưu Retro/Nostalgia 80s–90s tiếp tục: Samba, Gazelle, Campus 00s, NB 550/530, Dunk tái sinh mạnh ở Gen Z; sneaker 'dày cổ điển' như 9060, Vomero 5 cũng hot.",
+  "Y2K chunky vẫn sống nhưng 'mềm hơn': Hoka Clifton/Bondi, On Cloudmonster, NB 9060 — đế dày nhưng nhẹ, thay vì cứng kiểu Triple S.",
+  "Giày đế cao/đế bệ nữ (platform) tăng: Converse Run Star Motion, New Balance CT302, giày bệt đế dày phối jeans ống rộng.",
+  "Xu hướng bền vững: vật liệu tái chế (Primeblue, Re-Nylon, adidas Terrex), khách trẻ hỏi rõ nguồn gốc — nên nhấn mạnh khi tư vấn.",
+  "Da lộn (suede) và houndstooth/denim texture 'lên ngôi' mùa lạnh; giày lông/lined (giày lông) bán rất chạy cuối năm.",
+  "Loafer & Mary Jane 'jelly' cho nữ, sneaker nam mũi gọn (low-profile) cho dân văn phòng trẻ.",
+  "Xu hướng 'giày cũ giá mới': các bản 'vintage wash' — Golden Goose, Nike 'vintage' Dunk low — khách trẻ chuộng."
+ ],
+ "scenarios": [
+  {
+   "ten": "Khách hỏi mua giày dưới 1 triệu",
+   "xu_ly": "Đừng đẩy mẫu đắt ngay. Gợi ý trong tầm: Biti's Hunter (~700k–1.1 triệu), dép Biti's, giày vải Thượng Đình/Ananas sale, giày basic nữ Juno. Nhấn: 'Trong tầm này Biti's Hunter là êm nhất, đế đàn hồi, phù hợp đi học cả ngày.' Nếu khách mặc đẹp hơn, mở comment 'chỉ thêm 300k là có Ananas đế lưu hoá bền hơn hẳn' để nâng nhẹ giá trị đơn."
+  },
+  {
+   "ten": "Khách phân vân giữa hai mẫu cùng tầm giá",
+   "xu_ly": "Hỏi đúng 3 câu: đi hàng ngày hay dịp gì? chân có bè/đau gót không? phối đồ gì nhiều? Rồi tư vấn theo ma trận: êm+bền→A, form gọn+trend→B. Cho khách thử cả hai cùng lúc và so sánh trực tiếp, đó là cách chốt nhanh nhất."
+  },
+  {
+   "ten": "Khách chê 'đắt quá, shop khác rẻ hơn'",
+   "xu_ly": "Xác nhận cảm nhận ('Dạ em hiểu, giá cũng là chuyện lớn ạ'), rồi mở giá trị: chính hãng có bill/check mã, bảo hành keo-đế 6 tháng, đổi size miễn phí, hỗ trợ vệ sinh. Nếu vẫn còn chênh lệch nhỏ, mời khách nhận quà nhỏ (xịt nano/dây giày) để chốt. Không hạ giá bằng mọi giá — giữ mặt bằng chung."
+  },
+  {
+   "ten": "Khách hỏi giày cho người đứng nhiều (bảo vệ, phục vụ, bệnh viện)",
+   "xu_ly": "Ưu tiên đệm êm + nhẹ + thoáng: Skechers GOwalk/Arch Fit, Nike Air Force 1 React, Hoka Bondi/Clifton, Biti's Hunter X nhẹ. Khuyến nghị: chọn size dư nửa size, thêm lót than tre, và mua 2 đôi luân phiên để giày khô. Đừng bán giày đế cứng chỉ vì đẹp."
+  },
+  {
+   "ten": "Khách hỏi giày chạy bộ lần đầu, ngân sách 2–3 triệu",
+   "xu_ly": "Đừng dọa khách bằng thuật ngữ. Hỏi: chạy 3–5km hay 10km+, chạy đường nhựa hay công viên, có đau gối không? Gợi ý: Nike Revolution 7/Pegasus 40 sale, Puma Velocity Nitro, Asics GT-2000/Cumulus. Nhấn: giày chạy quan trọng đúng size (dư 1–1.5cm) + đệm theo cân nặng."
+  },
+  {
+   "ten": "Khách nữ hỏi giày đi làm văn phòng, hạn chế giày thể thao cục súc",
+   "xu_ly": "Gợi ý: sneaker da trắng form gọn (NB 574, Superstar, Chuck 70 low), loafer sneaker, giày bệt đế dày Vascara. Màu trắng/kem/đen dễ phối. Nhấn đế cao 2–3cm tôn dáng nhưng đi êm cả ngày."
+  },
+  {
+   "ten": "Khách mua giày tặng bạn gái/người thân nhưng không rõ size",
+   "xu_ly": "Hỏi size giày hiện tại của người nhận, quy đổi theo cm, và nói rõ chính sách đổi size 7 ngày. An toàn nhất: mua tại shop có đổi, giữ bill + hộp nguyên. Gợi ý mẫu 'khó chọn sai' (form chuẩn, màu trung tính) như NB 550 trắng, AF1 trắng, Chuck 70."
+  },
+  {
+   "ten": "Khách mang giày mua 3 tuần trước quay lại chê bung keo",
+   "xu_ly": "Xin lỗi trước ('Dạ em rất tiếc vì trải nghiệm này ạ'), kiểm tra lỗi thuộc sản xuất hay do sử dụng, chụp ảnh lưu lại. Trong 6 tháng bảo hành keo/đế do NSX → dán keo chuyên dụng miễn phí hoặc đổi đôi nếu lỗi nặng. Ghi nhận vào sổ để báo hãng. Luôn giữ thái độ tích cực — khách quay lại đòi bảo hành là khách còn quay lại."
+  },
+  {
+   "ten": "Khách hỏi hàng 'siêu cấp/1:1' có bán không",
+   "xu_ly": "Trả lời dứt khoát nhưng không phán xét: 'Dạ em chỉ bán hàng chính hãng ạ'. Giải thích ngắn gọn vì sao nên mua thật: bảo hành, độ bền, an toàn chân. Nếu khách tò mò về cách phân biệt, đưa 2–3 tips check (tem, đường may) để tạo niềm tin chuyên môn."
+  },
+  {
+   "ten": "Khách hỏi size hot (41–42 nam, 37–38 nữ) nhưng hết hàng",
+   "xu_ly": "Đừng trả lời 'hết' rồi im. Đưa 3 hành động: (1) kiểm tra hàng ở chi nhánh khác trong 2 phút; (2) đặt trước 7–14 ngày (cọc 200k); (3) gợi ý mẫu tương tự đang có đủ size, mời khách thử để so sánh. Luôn ghi lại số điện thoại để báo khi hàng về."
+  },
+  {
+   "ten": "Khách lớn tuổi cần giày đi bộ nhẹ nhàng, chân bè, thích chắc chắn",
+   "xu_ly": "Ưu tiên: gót mềm dễ xỏ (Skechers Slip-ins, GOwalk), form bè (NB 2E/4E, Asics), lót chống trượt, đế bám. Tránh đế quá cao/cứng, tránh giày buộc dây phức tạp. Đo chân tại shop vì chân người lớn tuổi có thể tăng size."
+  },
+  {
+   "ten": "Khách hỏi về mẫu 'đang trend trên TikTok' mà shop không có",
+   "xu_ly": "Không dìm mẫu đó ('Dạ mẫu đó đẹp thật ạ'), nhưng lái sang tương đương đang có: ví dụ khách hỏi Adidas Samba → gợi ý Gazelle/Ananas 'samba-like'; hỏi Jumpman → gợi ý NB 550/Dunk; hỏi On Cloud → gợi ý Cloudtilt/Cloud 5 tùy kho. Chụp ảnh mẫu trend để đặt về nếu khách chốt cọc."
+  },
+  {
+   "ten": "Khách chốt 2 đôi trở lên / mua cả gia đình",
+   "xu_ly": "Chào giá combo: giảm 5% đôi thứ 2 cùng bill hoặc tặng phụ kiện (xịt nano + dây giày + tất). Nhấn tiết kiệm ship và thời gian. Giữ khách bằng cách xin Zalo để thông báo sale — dùng 'bán nối' hợp lý, không hối thúc lộ liễu."
+  },
+  {
+   "ten": "Khách hỏi giày đi mưa Sài Gòn",
+   "xu_ly": "Đừng bán canvas/da lộn nếu khách đi mưa hằng ngày. Gợi ý: Crocs Classic, sandal, boot Dr. Martens/Timberland (đế kín), giày GORE-TEX/giả da bền nước. Kèm mẹo: xịt chống thấm + mang tất dự phòng; dạy khách cách sấy gián tiếp bằng giấy báo."
+  },
+  {
+   "ten": "Khách mua giày cho con nhỏ",
+   "xu_ly": "Đo chân bé bằng giấy; chọn dư 0.5–1cm; ưu tiên đế mềm gập được, quai dính dễ mang, vật liệu thoáng. Nhắc bố mẹ đo lại mỗi 3–6 tháng. Nếu bé còn nhỏ, chọn cùng 1 đôi 2 màu — trẻ con thích và khách dễ chốt."
+  }
+ ],
+ "store_policy": [
+  "Chính sách bảo hành: 6 tháng cho lỗi keo/đế do nhà sản xuất; hỗ trợ vệ sinh miễn phí 1 lần trong 3 tháng đầu; không bảo hành hư hại do sử dụng.",
+  "Đổi trả: đổi size/mẫu trong 7 ngày với giày chưa sử dụng ngoài trời, còn hộp/tem; đổi 1 lần miễn phí.",
+  "Vận chuyển: nội thành 1–2 ngày; toàn quốc 2–4 ngày; freeship cho đơn từ 1 triệu; được đồng kiểm.",
+  "Thanh toán: COD, chuyển khoản, Momo/ZaloPay, thẻ; trả góp 0% qua thẻ tín dụng từ 3 triệu.",
+  "Xuất hóa đơn VAT cho công ty theo yêu cầu."
+ ],
+ "cross_sell": [
+  [
+   "Với giày trắng/vải sáng",
+   "Xịt nano chống bám bẩn + bàn chải chuyên dụng + dung dịch vệ sinh (combo 150k)."
+  ],
+  [
+   "Với giày da lộn",
+   "Bàn chải cao su + xịt protector (combo 180k); nói rõ 'bắt buộc phủ khi mới mua'."
+  ],
+  [
+   "Với giày phải đi cả ngày",
+   "Lót than tre/orthopedic 80–150k; lót hỗ trợ vòm cho chân bè 120k."
+  ],
+  [
+   "Với giày da/boot mới",
+   "Gót dán silicon chống chột + kem dưỡng da (combo 120k)."
+  ],
+  [
+   "Với giày chạy bộ",
+   "Tất chạy chuyên dụng 60–120k (giảm chai chân, chống mùi) + túi đựng giày thoáng."
+  ],
+  [
+   "Với khách mua đôi vai",
+   "Cây giữ form (shoe tree) 90k; túi hút ẩm 20k/gói cho tủ giày."
+  ],
+  [
+   "Với trẻ em",
+   "Dán gót chống tuột + tất họa tiết; nhắc phụ huynh đo lại chân 3–6 tháng/lần."
+  ],
+  [
+   "Với khách mua quà",
+   "Túi giấy đẹp + thiệp miễn phí + gói xịt/khăn bọc giày để quà 'đủ vị' hơn."
+  ]
+ ]
+}

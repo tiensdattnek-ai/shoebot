@@ -1,0 +1,19 @@
+# ==== Bắt buộc để train + chạy model ====
+torch>=2.2
+transformers>=4.44
+peft>=0.12
+datasets>=2.20
+accelerate>=0.34
+sentencepiece>=0.2
+
+# ==== Tuỳ chọn ====
+bitsandbytes>=0.43        # cho --load_in_4bit (QLoRA) trên GPU NVIDIA
+trl>=0.11                 # nếu muốn dùng SFTTrainer
+gradio>=4.44              # giao diện web app/app_gradio.py
+huggingface_hub>=0.24     # tải model, upload adapter
+
+# Nếu dùng Unsloth (train nhanh ~2x trên Colab):
+#   pip install unsloth
+# Nếu muốn chạy bằng Ollama/llama.cpp thì cài thêm llama-cpp-python hoặc tải llama.cpp để convert GGUF.
+
+# Ghi chú: project chạy được trên Python 3.10–3.12. Với GPU: CUDA 12.x.

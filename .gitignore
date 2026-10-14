@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Outputs khi train (mỗi người tự sinh, không cần commit)
+out/
+*.gguf
+*.safetensors
+checkpoint-*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hệ điều hành / IDE
+.DS_Store
+.vscode/
+.idea/
