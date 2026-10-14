@@ -84,8 +84,12 @@ def main():
         gradient_checkpointing=False, optim="adamw_torch",
     )
     t0 = time.time()
-    trainer = Trainer(model=model, args=targs, train_dataset=ds,
-                      data_collator=PadCollator(tok.pad_token_id), processing_class=tok)
+    kw = dict(model=model, args=targs, train_dataset=ds,
+              data_collator=PadCollator(tok.pad_token_id))
+    try:      # transformers >= 4.46: processing_class
+        trainer = Trainer(processing_class=tok, **kw)
+    except TypeError:
+        trainer = Trainer(tokenizer=tok, **kw)
     trainer.train()
     dt = time.time() - t0
     losses = [h["loss"] for h in trainer.state.log_history if "loss" in h]
